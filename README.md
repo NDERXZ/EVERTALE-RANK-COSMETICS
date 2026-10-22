@@ -11,7 +11,7 @@
 
 <br />
 
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER (CENTERED) -->
 <div align="center">
   <img src=".github/assets/evertale-rank-cosmetics.png" alt="Evertale Rank Cosmetics" width="750" />
   <br />
@@ -24,7 +24,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary><b>📖 Table of Contents</b> (Click to expand)</summary>
+  <summary><b>Table of Contents</b> (Click to expand)</summary>
   <ol>
     <li><a href="#about-the-resource-pack">About The Resource Pack</a></li>
     <li><a href="#server-rank-badges--glyphs">Server Rank Badges & Glyphs</a></li>
@@ -38,19 +38,18 @@
 
 ---
 
-<!-- ABOUT SECTION -->
+<!-- ABOUT SECTION (LEFT-ALIGNED) -->
 <a id="about-the-resource-pack"></a>
-<div align="center">
-  <img src=".github/assets/about.png" alt="About The Resource Pack" width="650" />
-</div>
+<img src=".github/assets/about.png" alt="About The Resource Pack" width="380" />
 
+<br />
 <br />
 
 **EVERTALE-RANK-COSMETICS** is the official server resource pack for **EvertaleMC**. It integrates seamlessly with **ItemsAdder** (Java) and **GeyserMC** (Bedrock), bringing customized pixel-art rank badges in chat/tablists and full 3D interactive cosmetics for players.
 
 ### Key Highlights
 * **Pixel-Perfect Rank Badges**: Custom 80x16 RGBA textures rendered at crisp resolution across all client themes (Dark & Light modes).
-* **Cross-Play Font Mapping**: Assigned private Unicode code points (`\uE800` – `\uE80E`) configured in `default.json` (Java) and patched directly into Bedrock `glyph_E8.png`.
+* **Cross-Play Font Mapping**: Assigned private Unicode code points (`\uE800` to `\uE80E`) configured in `default.json` (Java) and patched directly into Bedrock `glyph_E8.png`.
 * **Dynamic 3D Cosmetics**: Knight helms, wizard hats, animated wings, backpacks, and unique theme accessories.
 * **Smart Version Overlays**: Built-in multi-version atlas overlays (`ia_overlay_*`) ensuring flawless display from Minecraft 1.20 up to 1.21.x+.
 
@@ -58,12 +57,11 @@
 
 ---
 
-<!-- RANK BADGES SECTION -->
+<!-- RANK BADGES SECTION (LEFT-ALIGNED) -->
 <a id="server-rank-badges--glyphs"></a>
-<div align="center">
-  <img src=".github/assets/rank-icon.png" alt="Server Rank Badges and Glyphs" width="650" />
-</div>
+<img src=".github/assets/rank-icon.png" alt="Server Rank Badges and Glyphs" width="380" />
 
+<br />
 <br />
 
 The table below showcases all active server rank badges, their visual in-game texture previews, and their corresponding Unicode font characters:
@@ -191,12 +189,11 @@ The table below showcases all active server rank badges, their visual in-game te
 
 ---
 
-<!-- 3D COSMETICS SECTION -->
+<!-- 3D COSMETICS SECTION (LEFT-ALIGNED) -->
 <a id="included-3d-cosmetics--models"></a>
-<div align="center">
-  <img src=".github/assets/3d-cosmetics.png" alt="Included 3D Cosmetics and Models" width="650" />
-</div>
+<img src=".github/assets/3d-cosmetics.png" alt="Included 3D Cosmetics and Models" width="380" />
 
+<br />
 <br />
 
 This repository contains full models, textures, animations, and JSON definitions:
@@ -211,12 +208,11 @@ This repository contains full models, textures, animations, and JSON definitions
 
 ---
 
-<!-- STRUCTURE SECTION -->
+<!-- STRUCTURE SECTION (LEFT-ALIGNED) -->
 <a id="repository-structure"></a>
-<div align="center">
-  <img src=".github/assets/structure.png" alt="Repository Structure" width="650" />
-</div>
+<img src=".github/assets/structure.png" alt="Repository Structure" width="380" />
 
+<br />
 <br />
 
 ```text
@@ -241,12 +237,11 @@ EVERTALE-RANK-COSMETICS/
 
 ---
 
-<!-- HOW TO USE / INSTALLATION SECTION -->
+<!-- HOW TO USE / INSTALLATION SECTION (LEFT-ALIGNED) -->
 <a id="installation-guide"></a>
-<div align="center">
-  <img src=".github/assets/how-to-use.png" alt="Installation Guide / How To Use" width="650" />
-</div>
+<img src=".github/assets/how-to-use.png" alt="Installation Guide / How To Use" width="380" />
 
+<br />
 <br />
 
 ### For Java Edition Players
