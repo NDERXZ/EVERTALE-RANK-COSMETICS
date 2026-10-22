@@ -42,9 +42,6 @@
 <a id="about-the-resource-pack"></a>
 <img src=".github/assets/about.png" alt="About The Resource Pack" width="380" />
 
-<br />
-<br />
-
 **EVERTALE-RANK-COSMETICS** is the official server resource pack for **EvertaleMC**. It integrates seamlessly with **ItemsAdder** (Java) and **GeyserMC** (Bedrock), bringing customized pixel-art rank badges in chat/tablists and full 3D interactive cosmetics for players.
 
 ### Key Highlights
@@ -60,9 +57,6 @@
 <!-- RANK BADGES SECTION (LEFT-ALIGNED) -->
 <a id="server-rank-badges--glyphs"></a>
 <img src=".github/assets/rank-icon.png" alt="Server Rank Badges and Glyphs" width="380" />
-
-<br />
-<br />
 
 The table below showcases all active server rank badges, their visual in-game texture previews, and their corresponding Unicode font characters:
 
@@ -193,9 +187,6 @@ The table below showcases all active server rank badges, their visual in-game te
 <a id="included-3d-cosmetics--models"></a>
 <img src=".github/assets/3d-cosmetics.png" alt="Included 3D Cosmetics and Models" width="380" />
 
-<br />
-<br />
-
 This repository contains full models, textures, animations, and JSON definitions:
 * **Cosmetic Pack v1 & v2**: Wizard hats, knight helmets, custom backpacks, wizard hand items, and beetle armor pieces.
 * **Dark Fantasy Cosmetics** (Vol. 1 & Vol. 4): Mythic armors and legendary accessory models.
@@ -211,9 +202,6 @@ This repository contains full models, textures, animations, and JSON definitions
 <!-- STRUCTURE SECTION (LEFT-ALIGNED) -->
 <a id="repository-structure"></a>
 <img src=".github/assets/structure.png" alt="Repository Structure" width="380" />
-
-<br />
-<br />
 
 ```text
 EVERTALE-RANK-COSMETICS/
@@ -240,9 +228,6 @@ EVERTALE-RANK-COSMETICS/
 <!-- HOW TO USE / INSTALLATION SECTION (LEFT-ALIGNED) -->
 <a id="installation-guide"></a>
 <img src=".github/assets/how-to-use.png" alt="Installation Guide / How To Use" width="380" />
-
-<br />
-<br />
 
 ### For Java Edition Players
 1. Click **Code** -> **Download ZIP** at the top right of this repository, or grab the compiled release package.
