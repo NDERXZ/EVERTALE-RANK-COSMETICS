@@ -11,9 +11,10 @@
 
 <br />
 
-<!-- HEADER -->
+<!-- HEADER BANNER -->
 <div align="center">
-  <h1>👑 EVERTALE-RANK-COSMETICS</h1>
+  <img src=".github/assets/evertale-rank-cosmetics.png" alt="Evertale Rank Cosmetics" width="750" />
+  <br />
   <p align="center">
     Official high-definition custom rank badges, font glyphs, and 3D cosmetic assets for <b>EvertaleMC Server</b>.
     <br />
@@ -37,7 +38,13 @@
 
 ---
 
-## 🌟 About The Resource Pack
+<!-- ABOUT SECTION -->
+<a id="about-the-resource-pack"></a>
+<div align="center">
+  <img src=".github/assets/about.png" alt="About The Resource Pack" width="650" />
+</div>
+
+<br />
 
 **EVERTALE-RANK-COSMETICS** is the official server resource pack for **EvertaleMC**. It integrates seamlessly with **ItemsAdder** (Java) and **GeyserMC** (Bedrock), bringing customized pixel-art rank badges in chat/tablists and full 3D interactive cosmetics for players.
 
@@ -51,7 +58,13 @@
 
 ---
 
-## 👑 Server Rank Badges & Glyphs
+<!-- RANK BADGES SECTION -->
+<a id="server-rank-badges--glyphs"></a>
+<div align="center">
+  <img src=".github/assets/rank-icon.png" alt="Server Rank Badges and Glyphs" width="650" />
+</div>
+
+<br />
 
 The table below showcases all active server rank badges, their visual in-game texture previews, and their corresponding Unicode font characters:
 
@@ -178,7 +191,13 @@ The table below showcases all active server rank badges, their visual in-game te
 
 ---
 
-## 🎨 Included 3D Cosmetics & Models
+<!-- 3D COSMETICS SECTION -->
+<a id="included-3d-cosmetics--models"></a>
+<div align="center">
+  <img src=".github/assets/3d-cosmetics.png" alt="Included 3D Cosmetics and Models" width="650" />
+</div>
+
+<br />
 
 This repository contains full models, textures, animations, and JSON definitions:
 * **Cosmetic Pack v1 & v2**: Wizard hats, knight helmets, custom backpacks, wizard hand items, and beetle armor pieces.
@@ -192,7 +211,13 @@ This repository contains full models, textures, animations, and JSON definitions
 
 ---
 
-## 📁 Repository Structure
+<!-- STRUCTURE SECTION -->
+<a id="repository-structure"></a>
+<div align="center">
+  <img src=".github/assets/structure.png" alt="Repository Structure" width="650" />
+</div>
+
+<br />
 
 ```text
 EVERTALE-RANK-COSMETICS/
@@ -216,7 +241,13 @@ EVERTALE-RANK-COSMETICS/
 
 ---
 
-## 📥 Installation Guide
+<!-- HOW TO USE / INSTALLATION SECTION -->
+<a id="installation-guide"></a>
+<div align="center">
+  <img src=".github/assets/how-to-use.png" alt="Installation Guide / How To Use" width="650" />
+</div>
+
+<br />
 
 ### For Java Edition Players
 1. Click **Code** -> **Download ZIP** at the top right of this repository, or grab the compiled release package.
