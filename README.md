@@ -67,105 +67,105 @@ The table below showcases all active server rank badges, their visual in-game te
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/NDERXZ/EVERTALE-RANK-COSMETICS/main/assets/minecraft/textures/ranks/owner.png" width="130" alt="Owner" /></td>
+      <td align="center"><img src="assets/minecraft/textures/ranks/owner.png" width="130" style="image-rendering: pixelated;" alt="Owner" /></td>
       <td align="center"><b>Owner</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE800</code></td>
       <td>Server Owner</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/NDERXZ/EVERTALE-RANK-COSMETICS/main/assets/minecraft/textures/ranks/coowner.png" width="130" alt="Co-Owner" /></td>
+      <td align="center"><img src="assets/minecraft/textures/ranks/coowner.png" width="130" style="image-rendering: pixelated;" alt="Co-Owner" /></td>
       <td align="center"><b>Co-Owner</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE801</code></td>
       <td>Server Co-Owner</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/NDERXZ/EVERTALE-RANK-COSMETICS/main/assets/minecraft/textures/ranks/admin.png" width="130" alt="Admin" /></td>
+      <td align="center"><img src="assets/minecraft/textures/ranks/admin.png" width="130" style="image-rendering: pixelated;" alt="Admin" /></td>
       <td align="center"><b>Admin</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE802</code></td>
       <td>Server Administrator</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/NDERXZ/EVERTALE-RANK-COSMETICS/main/assets/minecraft/textures/ranks/helper.png" width="130" alt="Helper" /></td>
+      <td align="center"><img src="assets/minecraft/textures/ranks/helper.png" width="130" style="image-rendering: pixelated;" alt="Helper" /></td>
       <td align="center"><b>Helper</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE803</code></td>
       <td>Staff Helper</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/NDERXZ/EVERTALE-RANK-COSMETICS/main/assets/minecraft/textures/ranks/eclipsion.png" width="130" alt="Eclipsion" /></td>
+      <td align="center"><img src="assets/minecraft/textures/ranks/eclipsion.png" width="130" style="image-rendering: pixelated;" alt="Eclipsion" /></td>
       <td align="center"><b>Eclipsion</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE804</code></td>
       <td>Premium Tier Rank</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/NDERXZ/EVERTALE-RANK-COSMETICS/main/assets/minecraft/textures/ranks/moonveil.png" width="130" alt="Moonveil" /></td>
+      <td align="center"><img src="assets/minecraft/textures/ranks/moonveil.png" width="130" style="image-rendering: pixelated;" alt="Moonveil" /></td>
       <td align="center"><b>Moonveil</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE805</code></td>
       <td>Premium Tier Rank</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/NDERXZ/EVERTALE-RANK-COSMETICS/main/assets/minecraft/textures/ranks/selene.png" width="130" alt="Selene" /></td>
+      <td align="center"><img src="assets/minecraft/textures/ranks/selene.png" width="130" style="image-rendering: pixelated;" alt="Selene" /></td>
       <td align="center"><b>Selene</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE806</code></td>
       <td>Premium Tier Rank</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/NDERXZ/EVERTALE-RANK-COSMETICS/main/assets/minecraft/textures/ranks/lunaris.png" width="130" alt="Lunaris" /></td>
+      <td align="center"><img src="assets/minecraft/textures/ranks/lunaris.png" width="130" style="image-rendering: pixelated;" alt="Lunaris" /></td>
       <td align="center"><b>Lunaris</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE807</code></td>
       <td>Premium Tier Rank</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/NDERXZ/EVERTALE-RANK-COSMETICS/main/assets/minecraft/textures/ranks/crescent.png" width="130" alt="Crescent" /></td>
+      <td align="center"><img src="assets/minecraft/textures/ranks/crescent.png" width="130" style="image-rendering: pixelated;" alt="Crescent" /></td>
       <td align="center"><b>Crescent</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE808</code></td>
       <td>Premium Tier Rank</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/NDERXZ/EVERTALE-RANK-COSMETICS/main/assets/minecraft/textures/ranks/noctis.png" width="130" alt="Noctis" /></td>
+      <td align="center"><img src="assets/minecraft/textures/ranks/noctis.png" width="130" style="image-rendering: pixelated;" alt="Noctis" /></td>
       <td align="center"><b>Noctis</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE809</code></td>
       <td>Premium Tier Rank</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/NDERXZ/EVERTALE-RANK-COSMETICS/main/assets/minecraft/textures/ranks/everie.png" width="130" alt="Everie" /></td>
+      <td align="center"><img src="assets/minecraft/textures/ranks/everie.png" width="130" style="image-rendering: pixelated;" alt="Everie" /></td>
       <td align="center"><b>Everie</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE80A</code></td>
       <td>Default Member Rank</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/NDERXZ/EVERTALE-RANK-COSMETICS/main/assets/minecraft/textures/ranks/dev.png" width="130" alt="Developer" /></td>
+      <td align="center"><img src="assets/minecraft/textures/ranks/dev.png" width="130" style="image-rendering: pixelated;" alt="Developer" /></td>
       <td align="center"><b>Developer</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE80B</code></td>
       <td>Server Developer</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/NDERXZ/EVERTALE-RANK-COSMETICS/main/assets/minecraft/textures/ranks/media.png" width="130" alt="Media" /></td>
+      <td align="center"><img src="assets/minecraft/textures/ranks/media.png" width="130" style="image-rendering: pixelated;" alt="Media" /></td>
       <td align="center"><b>Media</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE80C</code></td>
       <td>Content Creator / Media</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/NDERXZ/EVERTALE-RANK-COSMETICS/main/assets/minecraft/textures/ranks/princess.png" width="130" alt="Princess" /></td>
+      <td align="center"><img src="assets/minecraft/textures/ranks/princess.png" width="130" style="image-rendering: pixelated;" alt="Princess" /></td>
       <td align="center"><b>Princess</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE80D</code></td>
       <td>Special Custom Rank</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/NDERXZ/EVERTALE-RANK-COSMETICS/main/assets/minecraft/textures/ranks/mvp.png" width="130" alt="MVP" /></td>
+      <td align="center"><img src="assets/minecraft/textures/ranks/mvp.png" width="130" style="image-rendering: pixelated;" alt="MVP" /></td>
       <td align="center"><b>MVP</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE80E</code></td>
