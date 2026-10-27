@@ -1,1 +1,710 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/paper"},"overrides":[{"predicate":{"custom_model_data":10000},"model":"_iainternal:item/ia_auto/icon_left_blue"},{"predicate":{"custom_model_data":10001},"model":"_iainternal:item/ia_auto/icon_right_blue"},{"predicate":{"custom_model_data":10002},"model":"_iainternal:item/ia_auto/icon_search"},{"predicate":{"custom_model_data":10003},"model":"_iainternal:item/ia_auto/icon_cancel"},{"predicate":{"custom_model_data":10004},"model":"_iainternal:item/ia_auto/icon_arrow_chest"},{"predicate":{"custom_model_data":10005},"model":"_iainternal:item/ia_auto/icon_back_orange"},{"predicate":{"custom_model_data":10006},"model":"_iainternal:item/ia_auto/icon_next_orange"},{"predicate":{"custom_model_data":10007},"model":"dark_fantasy_cosmetics_vol_4:archmage_hat"},{"predicate":{"custom_model_data":10008},"model":"dark_fantasy_cosmetics_vol_4:archmage_shoulderpads"},{"predicate":{"custom_model_data":10009},"model":"dark_fantasy_cosmetics_vol_4:archmage_shoulderpads_fp"},{"predicate":{"custom_model_data":10010},"model":"dark_fantasy_cosmetics_vol_4:archmage_staff"},{"predicate":{"custom_model_data":10011},"model":"dark_fantasy_cosmetics_vol_4:ritualistic_hoodie"},{"predicate":{"custom_model_data":10012},"model":"dark_fantasy_cosmetics_vol_4:ritualistic_back"},{"predicate":{"custom_model_data":10013},"model":"dark_fantasy_cosmetics_vol_4:ritualistic_back_fp"},{"predicate":{"custom_model_data":10014},"model":"dark_fantasy_cosmetics_vol_4:ritualistic_staff"},{"predicate":{"custom_model_data":10015},"model":"dark_fantasy_cosmetics_vol_4:skeleton_control_hat"},{"predicate":{"custom_model_data":10016},"model":"dark_fantasy_cosmetics_vol_4:skeleton_control_wings"},{"predicate":{"custom_model_data":10017},"model":"dark_fantasy_cosmetics_vol_4:skeleton_control_wings_fp"},{"predicate":{"custom_model_data":10018},"model":"dark_fantasy_cosmetics_vol_4:skeleton_control_mace"},{"predicate":{"custom_model_data":10019},"model":"dark_fantasy_cosmetics_vol_4:spike_lord_helmet"},{"predicate":{"custom_model_data":10020},"model":"dark_fantasy_cosmetics_vol_4:spike_lord_wings"},{"predicate":{"custom_model_data":10021},"model":"dark_fantasy_cosmetics_vol_4:spike_lord_wings_fp"},{"predicate":{"custom_model_data":10022},"model":"dark_fantasy_cosmetics_vol_4:spike_lord_sword"},{"predicate":{"custom_model_data":10023},"model":"cosmetics:sniffer_crown"},{"predicate":{"custom_model_data":10024},"model":"cosmetics:sniffer_staff"},{"predicate":{"custom_model_data":10025},"model":"cosmetics:sniffer_cloak"},{"predicate":{"custom_model_data":10026},"model":"cosmetics:sniffer_cloak_thirdperson"},{"predicate":{"custom_model_data":10027},"model":"mocosmetics:angel_ring"},{"predicate":{"custom_model_data":10028},"model":"mocosmetics:angel_wings"},{"predicate":{"custom_model_data":10029},"model":"mocosmetics:chick_hat"},{"predicate":{"custom_model_data":10030},"model":"mocosmetics:cyber_glasses"},{"predicate":{"custom_model_data":10031},"model":"mocosmetics:cyber_glasses_blue"},{"predicate":{"custom_model_data":10032},"model":"mocosmetics:cyber_glasses_red"},{"predicate":{"custom_model_data":10033},"model":"mocosmetics:cyber_machine"},{"predicate":{"custom_model_data":10034},"model":"mocosmetics:cyber_machine_blue"},{"predicate":{"custom_model_data":10035},"model":"mocosmetics:cyber_machine_red"},{"predicate":{"custom_model_data":10036},"model":"mocosmetics:demon_horns"},{"predicate":{"custom_model_data":10037},"model":"mocosmetics:demon_wings"},{"predicate":{"custom_model_data":10038},"model":"mocosmetics:dragon_hat"},{"predicate":{"custom_model_data":10039},"model":"mocosmetics:dragon_hat_blue"},{"predicate":{"custom_model_data":10040},"model":"mocosmetics:dragon_hat_red"},{"predicate":{"custom_model_data":10041},"model":"mocosmetics:dragon_wings"},{"predicate":{"custom_model_data":10042},"model":"mocosmetics:dragon_wings_blue"},{"predicate":{"custom_model_data":10043},"model":"mocosmetics:dragon_wings_red"},{"predicate":{"custom_model_data":10044},"model":"mocosmetics:panda_hat"},{"predicate":{"custom_model_data":10045},"model":"mocosmetics:phoenix_wings"},{"predicate":{"custom_model_data":10046},"model":"mocosmetics:mythical_blades"},{"predicate":{"custom_model_data":10047},"model":"dark_fantasy_cosmetics_vol_1:cemetery_witch_hat"},{"predicate":{"custom_model_data":10048},"model":"dark_fantasy_cosmetics_vol_1:cemetery_witch_cloak"},{"predicate":{"custom_model_data":10049},"model":"dark_fantasy_cosmetics_vol_1:cemetery_witch_cloak_fp"},{"predicate":{"custom_model_data":10050},"model":"dark_fantasy_cosmetics_vol_1:cemetery_witch_broom"},{"predicate":{"custom_model_data":10051},"model":"dark_fantasy_cosmetics_vol_1:chained_monstruosity_collar"},{"predicate":{"custom_model_data":10052},"model":"dark_fantasy_cosmetics_vol_1:chained_monstruosity_back"},{"predicate":{"custom_model_data":10053},"model":"dark_fantasy_cosmetics_vol_1:chained_monstruosity_back_fp"},{"predicate":{"custom_model_data":10054},"model":"dark_fantasy_cosmetics_vol_1:chained_monstruosity_sword"},{"predicate":{"custom_model_data":10055},"model":"dark_fantasy_cosmetics_vol_1:crow_lord_hat"},{"predicate":{"custom_model_data":10056},"model":"dark_fantasy_cosmetics_vol_1:crow_lord_wings"},{"predicate":{"custom_model_data":10057},"model":"dark_fantasy_cosmetics_vol_1:crow_lord_wings_fp"},{"predicate":{"custom_model_data":10058},"model":"dark_fantasy_cosmetics_vol_1:crow_lord_staff"},{"predicate":{"custom_model_data":10059},"model":"dark_fantasy_cosmetics_vol_1:noir_elegance_tophat"},{"predicate":{"custom_model_data":10060},"model":"dark_fantasy_cosmetics_vol_1:noir_elegance_shoulderpads"},{"predicate":{"custom_model_data":10061},"model":"dark_fantasy_cosmetics_vol_1:noir_elegance_shoulderpads_fp"},{"predicate":{"custom_model_data":10062},"model":"dark_fantasy_cosmetics_vol_1:noir_elegance_staff"},{"predicate":{"custom_model_data":10063},"model":"hmccosmetics:item/ia_auto/hmc_hat_icon"},{"predicate":{"custom_model_data":10064},"model":"hmccosmetics:item/ia_auto/hmc_backpack_icon"},{"predicate":{"custom_model_data":10065},"model":"hmccosmetics:item/ia_auto/hmc_hand_icon"},{"predicate":{"custom_model_data":10066},"model":"hmccosmetics:item/ia_auto/hmc_balloon_icon"},{"predicate":{"custom_model_data":10067},"model":"hmccosmetics:item/backpack"},{"predicate":{"custom_model_data":10068},"model":"hmccosmetics:item/backpack_thirdperson"},{"predicate":{"custom_model_data":10069},"model":"hmccosmetics:item/lantern_cosmetic"},{"predicate":{"custom_model_data":10070},"model":"hmccosmetics:item/baseball_hat"},{"predicate":{"custom_model_data":10071},"model":"hmccosmetics:item/ia_auto/hmccosmetics_icon"},{"predicate":{"custom_model_data":10072},"model":"hmccosmetics:item/ia_auto/arrow_back"},{"predicate":{"custom_model_data":10073},"model":"hmccosmetics:item/ia_auto/arrow_next"},{"predicate":{"custom_model_data":10074},"model":"hmccosmetics:item/kite"},{"predicate":{"custom_model_data":10075},"model":"hmccosmetics:item/future_wings"},{"predicate":{"custom_model_data":10076},"model":"hmccosmetics:item/future_wings_thirdperson"},{"predicate":{"custom_model_data":10077},"model":"hmccosmetics:item/frog_hat"},{"predicate":{"custom_model_data":10078},"model":"hmccosmetics:item/jetpack"},{"predicate":{"custom_model_data":10079},"model":"hmccosmetics:item/hammer"},{"predicate":{"custom_model_data":10080},"model":"hmccosmetics:item/garbage_truck_balloon_item"},{"predicate":{"custom_model_data":10081},"model":"hmccosmetics:item/jetpack_thirdperson"},{"predicate":{"custom_model_data":10082},"model":"hmccosmetics:item/hibiscus_flower"},{"predicate":{"custom_model_data":10083},"model":"unicorn_cosmetics:cosmetics/unicorn_hat"},{"predicate":{"custom_model_data":10084},"model":"unicorn_cosmetics:cosmetics/unicorn_staff"},{"predicate":{"custom_model_data":10085},"model":"unicorn_cosmetics:cosmetics/unicorn_backpack"},{"predicate":{"custom_model_data":10086},"model":"unicorn_cosmetics:cosmetics/unicorn_backpack_thirdperson"},{"predicate":{"custom_model_data":10087},"model":"unicorn_cosmetics:cosmetics/unicorn_backpack_thirdperson_self"},{"predicate":{"custom_model_data":10088},"model":"unicorn_cosmetics:cosmetics/unicorn_balloon"},{"predicate":{"custom_model_data":10089},"model":"item/paper"}]}
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "_iainternal:item/ia_auto/icon_left_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "_iainternal:item/ia_auto/icon_right_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "_iainternal:item/ia_auto/icon_search"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "_iainternal:item/ia_auto/icon_cancel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "_iainternal:item/ia_auto/icon_arrow_chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10005
+      },
+      "model": "_iainternal:item/ia_auto/icon_back_orange"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10006
+      },
+      "model": "_iainternal:item/ia_auto/icon_next_orange"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10007
+      },
+      "model": "dark_fantasy_cosmetics_vol_4:archmage_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10008
+      },
+      "model": "dark_fantasy_cosmetics_vol_4:archmage_shoulderpads"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10009
+      },
+      "model": "dark_fantasy_cosmetics_vol_4:archmage_shoulderpads_fp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10010
+      },
+      "model": "dark_fantasy_cosmetics_vol_4:archmage_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10011
+      },
+      "model": "dark_fantasy_cosmetics_vol_4:ritualistic_hoodie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10012
+      },
+      "model": "dark_fantasy_cosmetics_vol_4:ritualistic_back"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10013
+      },
+      "model": "dark_fantasy_cosmetics_vol_4:ritualistic_back_fp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10014
+      },
+      "model": "dark_fantasy_cosmetics_vol_4:ritualistic_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10015
+      },
+      "model": "dark_fantasy_cosmetics_vol_4:skeleton_control_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10016
+      },
+      "model": "dark_fantasy_cosmetics_vol_4:skeleton_control_wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10017
+      },
+      "model": "dark_fantasy_cosmetics_vol_4:skeleton_control_wings_fp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10018
+      },
+      "model": "dark_fantasy_cosmetics_vol_4:skeleton_control_mace"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10019
+      },
+      "model": "dark_fantasy_cosmetics_vol_4:spike_lord_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10020
+      },
+      "model": "dark_fantasy_cosmetics_vol_4:spike_lord_wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10021
+      },
+      "model": "dark_fantasy_cosmetics_vol_4:spike_lord_wings_fp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10022
+      },
+      "model": "dark_fantasy_cosmetics_vol_4:spike_lord_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10023
+      },
+      "model": "cosmetics:sniffer_crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10024
+      },
+      "model": "cosmetics:sniffer_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10025
+      },
+      "model": "cosmetics:sniffer_cloak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10026
+      },
+      "model": "cosmetics:sniffer_cloak_thirdperson"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10027
+      },
+      "model": "mocosmetics:angel_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10028
+      },
+      "model": "mocosmetics:angel_wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10029
+      },
+      "model": "mocosmetics:chick_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10030
+      },
+      "model": "mocosmetics:cyber_glasses"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10031
+      },
+      "model": "mocosmetics:cyber_glasses_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10032
+      },
+      "model": "mocosmetics:cyber_glasses_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10033
+      },
+      "model": "mocosmetics:cyber_machine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10034
+      },
+      "model": "mocosmetics:cyber_machine_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10035
+      },
+      "model": "mocosmetics:cyber_machine_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10036
+      },
+      "model": "mocosmetics:demon_horns"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10037
+      },
+      "model": "mocosmetics:demon_wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10038
+      },
+      "model": "mocosmetics:dragon_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10039
+      },
+      "model": "mocosmetics:dragon_hat_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10040
+      },
+      "model": "mocosmetics:dragon_hat_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10041
+      },
+      "model": "mocosmetics:dragon_wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10042
+      },
+      "model": "mocosmetics:dragon_wings_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10043
+      },
+      "model": "mocosmetics:dragon_wings_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10044
+      },
+      "model": "mocosmetics:panda_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10045
+      },
+      "model": "mocosmetics:phoenix_wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10046
+      },
+      "model": "mocosmetics:mythical_blades"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10047
+      },
+      "model": "dark_fantasy_cosmetics_vol_1:cemetery_witch_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10048
+      },
+      "model": "dark_fantasy_cosmetics_vol_1:cemetery_witch_cloak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10049
+      },
+      "model": "dark_fantasy_cosmetics_vol_1:cemetery_witch_cloak_fp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10050
+      },
+      "model": "dark_fantasy_cosmetics_vol_1:cemetery_witch_broom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10051
+      },
+      "model": "dark_fantasy_cosmetics_vol_1:chained_monstruosity_collar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10052
+      },
+      "model": "dark_fantasy_cosmetics_vol_1:chained_monstruosity_back"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10053
+      },
+      "model": "dark_fantasy_cosmetics_vol_1:chained_monstruosity_back_fp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10054
+      },
+      "model": "dark_fantasy_cosmetics_vol_1:chained_monstruosity_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10055
+      },
+      "model": "dark_fantasy_cosmetics_vol_1:crow_lord_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10056
+      },
+      "model": "dark_fantasy_cosmetics_vol_1:crow_lord_wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10057
+      },
+      "model": "dark_fantasy_cosmetics_vol_1:crow_lord_wings_fp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10058
+      },
+      "model": "dark_fantasy_cosmetics_vol_1:crow_lord_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10059
+      },
+      "model": "dark_fantasy_cosmetics_vol_1:noir_elegance_tophat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10060
+      },
+      "model": "dark_fantasy_cosmetics_vol_1:noir_elegance_shoulderpads"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10061
+      },
+      "model": "dark_fantasy_cosmetics_vol_1:noir_elegance_shoulderpads_fp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10062
+      },
+      "model": "dark_fantasy_cosmetics_vol_1:noir_elegance_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10063
+      },
+      "model": "hmccosmetics:item/ia_auto/hmc_hat_icon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10064
+      },
+      "model": "hmccosmetics:item/ia_auto/hmc_backpack_icon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10065
+      },
+      "model": "hmccosmetics:item/ia_auto/hmc_hand_icon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10066
+      },
+      "model": "hmccosmetics:item/ia_auto/hmc_balloon_icon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10067
+      },
+      "model": "hmccosmetics:item/backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10068
+      },
+      "model": "hmccosmetics:item/backpack_thirdperson"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10069
+      },
+      "model": "hmccosmetics:item/lantern_cosmetic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10070
+      },
+      "model": "hmccosmetics:item/baseball_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10071
+      },
+      "model": "hmccosmetics:item/ia_auto/hmccosmetics_icon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10072
+      },
+      "model": "hmccosmetics:item/ia_auto/arrow_back"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10073
+      },
+      "model": "hmccosmetics:item/ia_auto/arrow_next"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10074
+      },
+      "model": "hmccosmetics:item/kite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10075
+      },
+      "model": "hmccosmetics:item/future_wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10076
+      },
+      "model": "hmccosmetics:item/future_wings_thirdperson"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10077
+      },
+      "model": "hmccosmetics:item/frog_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10078
+      },
+      "model": "hmccosmetics:item/jetpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10079
+      },
+      "model": "hmccosmetics:item/hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10080
+      },
+      "model": "hmccosmetics:item/garbage_truck_balloon_item"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10081
+      },
+      "model": "hmccosmetics:item/jetpack_thirdperson"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10082
+      },
+      "model": "hmccosmetics:item/hibiscus_flower"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10083
+      },
+      "model": "unicorn_cosmetics:cosmetics/unicorn_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10084
+      },
+      "model": "unicorn_cosmetics:cosmetics/unicorn_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10085
+      },
+      "model": "unicorn_cosmetics:cosmetics/unicorn_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10086
+      },
+      "model": "unicorn_cosmetics:cosmetics/unicorn_backpack_thirdperson"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10087
+      },
+      "model": "unicorn_cosmetics:cosmetics/unicorn_backpack_thirdperson_self"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10088
+      },
+      "model": "unicorn_cosmetics:cosmetics/unicorn_balloon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10090
+      },
+      "model": "crowns:royal_crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10091
+      },
+      "model": "crowns:renegade_crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10092
+      },
+      "model": "crowns:sculk_crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10093
+      },
+      "model": "crowns:skull_crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10094
+      },
+      "model": "crowns:floral_crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10095
+      },
+      "model": "crowns:rose_crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10096
+      },
+      "model": "crowns:lavender_crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10097
+      },
+      "model": "crowns:dandelion_crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10098
+      },
+      "model": "crowns:wreath_crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10099
+      },
+      "model": "crowns:goldleaf_wreath"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10100
+      },
+      "model": "crowns:autumn_wreath"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10101
+      },
+      "model": "crowns:blackleaf_wreath"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10102
+      },
+      "model": "crowns:frost_circlet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10103
+      },
+      "model": "crowns:flame_circlet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10104
+      },
+      "model": "crowns:water_circlet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10105
+      },
+      "model": "crowns:thunder_circlet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10106
+      },
+      "model": "crowns:diamond_coronet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10107
+      },
+      "model": "crowns:emerald_coronet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10108
+      },
+      "model": "crowns:netherite_coronet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10109
+      },
+      "model": "crowns:lapis_lazuli_coronet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10110
+      },
+      "model": "crowns:amethyst_diadem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10111
+      },
+      "model": "crowns:ruby_diadem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10112
+      },
+      "model": "crowns:ender_diadem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10113
+      },
+      "model": "crowns:crystal_diadem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10114
+      },
+      "model": "crowns:harpers_headset"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10115
+      },
+      "model": "crowns:eversource_crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10116
+      },
+      "model": "crowns:diving_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10089
+      },
+      "model": "item/paper"
+    }
+  ]
+}

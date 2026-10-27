@@ -1,0 +1,397 @@
+title: "<white>:offset_-8::hmcc_cosmetics_gui:"
+rows: 6
+items:
+  # ==========================================
+  # Crowns & Diadems Cosmetics
+  # ==========================================
+  royal_crown:
+    slots:
+      - 1
+    item:
+      material: itemsadder:crowns:royal_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_royal_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_royal_crown%"
+    type: cosmetic
+    cosmetic: royal_crown
+
+  renegade_crown:
+    slots:
+      - 2
+    item:
+      material: itemsadder:crowns:renegade_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_renegade_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_renegade_crown%"
+    type: cosmetic
+    cosmetic: renegade_crown
+
+  sculk_crown:
+    slots:
+      - 3
+    item:
+      material: itemsadder:crowns:sculk_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_sculk_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_sculk_crown%"
+    type: cosmetic
+    cosmetic: sculk_crown
+
+  skull_crown:
+    slots:
+      - 4
+    item:
+      material: itemsadder:crowns:skull_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_skull_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_skull_crown%"
+    type: cosmetic
+    cosmetic: skull_crown
+
+  floral_crown:
+    slots:
+      - 5
+    item:
+      material: itemsadder:crowns:floral_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_floral_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_floral_crown%"
+    type: cosmetic
+    cosmetic: floral_crown
+
+  rose_crown:
+    slots:
+      - 6
+    item:
+      material: itemsadder:crowns:rose_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_rose_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_rose_crown%"
+    type: cosmetic
+    cosmetic: rose_crown
+
+  lavender_crown:
+    slots:
+      - 7
+    item:
+      material: itemsadder:crowns:lavender_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_lavender_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_lavender_crown%"
+    type: cosmetic
+    cosmetic: lavender_crown
+
+  dandelion_crown:
+    slots:
+      - 8
+    item:
+      material: itemsadder:crowns:dandelion_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_dandelion_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_dandelion_crown%"
+    type: cosmetic
+    cosmetic: dandelion_crown
+
+  wreath_crown:
+    slots:
+      - 10
+    item:
+      material: itemsadder:crowns:wreath_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_wreath_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_wreath_crown%"
+    type: cosmetic
+    cosmetic: wreath_crown
+
+  goldleaf_wreath:
+    slots:
+      - 11
+    item:
+      material: itemsadder:crowns:goldleaf_wreath
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_goldleaf_wreath%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_goldleaf_wreath%"
+    type: cosmetic
+    cosmetic: goldleaf_wreath
+
+  autumn_wreath:
+    slots:
+      - 12
+    item:
+      material: itemsadder:crowns:autumn_wreath
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_autumn_wreath%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_autumn_wreath%"
+    type: cosmetic
+    cosmetic: autumn_wreath
+
+  blackleaf_wreath:
+    slots:
+      - 13
+    item:
+      material: itemsadder:crowns:blackleaf_wreath
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_blackleaf_wreath%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_blackleaf_wreath%"
+    type: cosmetic
+    cosmetic: blackleaf_wreath
+
+  frost_circlet:
+    slots:
+      - 14
+    item:
+      material: itemsadder:crowns:frost_circlet
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_frost_circlet%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_frost_circlet%"
+    type: cosmetic
+    cosmetic: frost_circlet
+
+  flame_circlet:
+    slots:
+      - 15
+    item:
+      material: itemsadder:crowns:flame_circlet
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_flame_circlet%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_flame_circlet%"
+    type: cosmetic
+    cosmetic: flame_circlet
+
+  water_circlet:
+    slots:
+      - 16
+    item:
+      material: itemsadder:crowns:water_circlet
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_water_circlet%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_water_circlet%"
+    type: cosmetic
+    cosmetic: water_circlet
+
+  thunder_circlet:
+    slots:
+      - 17
+    item:
+      material: itemsadder:crowns:thunder_circlet
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_thunder_circlet%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_thunder_circlet%"
+    type: cosmetic
+    cosmetic: thunder_circlet
+
+  diamond_coronet:
+    slots:
+      - 19
+    item:
+      material: itemsadder:crowns:diamond_coronet
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_diamond_coronet%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_diamond_coronet%"
+    type: cosmetic
+    cosmetic: diamond_coronet
+
+  emerald_coronet:
+    slots:
+      - 20
+    item:
+      material: itemsadder:crowns:emerald_coronet
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_emerald_coronet%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_emerald_coronet%"
+    type: cosmetic
+    cosmetic: emerald_coronet
+
+  netherite_coronet:
+    slots:
+      - 21
+    item:
+      material: itemsadder:crowns:netherite_coronet
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_netherite_coronet%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_netherite_coronet%"
+    type: cosmetic
+    cosmetic: netherite_coronet
+
+  lapis_lazuli_coronet:
+    slots:
+      - 22
+    item:
+      material: itemsadder:crowns:lapis_lazuli_coronet
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_lapis_lazuli_coronet%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_lapis_lazuli_coronet%"
+    type: cosmetic
+    cosmetic: lapis_lazuli_coronet
+
+  amethyst_diadem:
+    slots:
+      - 23
+    item:
+      material: itemsadder:crowns:amethyst_diadem
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_amethyst_diadem%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_amethyst_diadem%"
+    type: cosmetic
+    cosmetic: amethyst_diadem
+
+  ruby_diadem:
+    slots:
+      - 24
+    item:
+      material: itemsadder:crowns:ruby_diadem
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_ruby_diadem%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_ruby_diadem%"
+    type: cosmetic
+    cosmetic: ruby_diadem
+
+  ender_diadem:
+    slots:
+      - 25
+    item:
+      material: itemsadder:crowns:ender_diadem
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_ender_diadem%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_ender_diadem%"
+    type: cosmetic
+    cosmetic: ender_diadem
+
+  crystal_diadem:
+    slots:
+      - 26
+    item:
+      material: itemsadder:crowns:crystal_diadem
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_crystal_diadem%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_crystal_diadem%"
+    type: cosmetic
+    cosmetic: crystal_diadem
+
+  harpers_headset:
+    slots:
+      - 28
+    item:
+      material: itemsadder:crowns:harpers_headset
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_harpers_headset%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_harpers_headset%"
+    type: cosmetic
+    cosmetic: harpers_headset
+
+  eversource_crown:
+    slots:
+      - 29
+    item:
+      material: itemsadder:crowns:eversource_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_eversource_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_eversource_crown%"
+    type: cosmetic
+    cosmetic: eversource_crown
+
+  diving_helmet:
+    slots:
+      - 30
+    item:
+      material: itemsadder:crowns:diving_helmet
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_diving_helmet%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_diving_helmet%"
+    type: cosmetic
+    cosmetic: diving_helmet
+
+  # ==========================================
+  # Navigation Buttons
+  # ==========================================
+  button_hats_menu:
+    slots:
+      - 0
+    item:
+      material: itemsadder:hmccosmetics:hmc_hat_icon
+      name: "<blue>Hat Cosmetics"
+      amount: 1
+    type: empty
+    actions:
+      any:
+        - "[MENU] defaultmenu_hats"
+        - "[SOUND] minecraft:ui.button.click 1 1"
+
+  button_backpacks_menu:
+    slots:
+      - 18
+    item:
+      material: itemsadder:hmccosmetics:hmc_backpack_icon
+      name: "<blue>Backpack Cosmetics"
+      amount: 1
+    type: empty
+    actions:
+      any:
+        - "[MENU] defaultmenu_backpacks"
+        - "[SOUND] minecraft:ui.button.click 1 1"
+
+  button_hand_menu:
+    slots:
+      - 27
+    item:
+      material: itemsadder:hmccosmetics:hmc_hand_icon
+      name: "<blue>Hand Cosmetics"
+      amount: 1
+    type: empty
+    actions:
+      any:
+        - "[MENU] defaultmenu_hands"
+        - "[SOUND] minecraft:ui.button.click 1 1"
+
+  button_balloon_menu:
+    slots:
+      - 36
+    item:
+      material: itemsadder:hmccosmetics:hmc_balloon_icon
+      name: "<blue>Balloon Cosmetics"
+      amount: 1
+    type: empty
+    actions:
+      any:
+        - "[MENU] defaultmenu_balloons"
+        - "[SOUND] minecraft:ui.button.click 1 1"
+
+  button_crowns_menu:
+    slots:
+      - 45
+    item:
+      material: itemsadder:crowns:royal_crown
+      name: "<gold>Crowns & Diadems"
+      amount: 1
+    type: empty
+    actions:
+      any:
+        - "[MENU] defaultmenu_crowns"
+        - "[SOUND] minecraft:ui.button.click 1 1"

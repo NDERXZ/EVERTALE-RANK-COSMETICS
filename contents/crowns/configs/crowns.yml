@@ -1,0 +1,274 @@
+info:
+  namespace: crowns
+
+items:
+  royal_crown:
+    display_name: "&6Royal Crown"
+    permission: "crowns.royal_crown"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:royal_crown
+
+  renegade_crown:
+    display_name: "&4Renegade Crown"
+    permission: "crowns.renegade_crown"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:renegade_crown
+
+  sculk_crown:
+    display_name: "&3Sculk Crown"
+    permission: "crowns.sculk_crown"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:sculk_crown
+
+  skull_crown:
+    display_name: "&7Skull Crown"
+    permission: "crowns.skull_crown"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:skull_crown
+
+  floral_crown:
+    display_name: "&dFloral Crown"
+    permission: "crowns.floral_crown"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:floral_crown
+
+  rose_crown:
+    display_name: "&cRose Crown"
+    permission: "crowns.rose_crown"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:rose_crown
+
+  lavender_crown:
+    display_name: "&5Lavender Crown"
+    permission: "crowns.lavender_crown"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:lavender_crown
+
+  dandelion_crown:
+    display_name: "&eDandelion Crown"
+    permission: "crowns.dandelion_crown"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:dandelion_crown
+
+  wreath_crown:
+    display_name: "&aWreath Crown"
+    permission: "crowns.wreath_crown"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:wreath_crown
+
+  goldleaf_wreath:
+    display_name: "&6Goldleaf Wreath"
+    permission: "crowns.goldleaf_wreath"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:goldleaf_wreath
+
+  autumn_wreath:
+    display_name: "&6Autumn Wreath"
+    permission: "crowns.autumn_wreath"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:autumn_wreath
+
+  blackleaf_wreath:
+    display_name: "&8Blackleaf Wreath"
+    permission: "crowns.blackleaf_wreath"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:blackleaf_wreath
+
+  frost_circlet:
+    display_name: "&bFrost Circlet"
+    permission: "crowns.frost_circlet"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:frost_circlet
+
+  flame_circlet:
+    display_name: "&cFlame Circlet"
+    permission: "crowns.flame_circlet"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:flame_circlet
+
+  water_circlet:
+    display_name: "&9Water Circlet"
+    permission: "crowns.water_circlet"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:water_circlet
+
+  thunder_circlet:
+    display_name: "&eThunder Circlet"
+    permission: "crowns.thunder_circlet"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:thunder_circlet
+
+  diamond_coronet:
+    display_name: "&bDiamond Coronet"
+    permission: "crowns.diamond_coronet"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:diamond_coronet
+
+  emerald_coronet:
+    display_name: "&aEmerald Coronet"
+    permission: "crowns.emerald_coronet"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:emerald_coronet
+
+  netherite_coronet:
+    display_name: "&8Netherite Coronet"
+    permission: "crowns.netherite_coronet"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:netherite_coronet
+
+  lapis_lazuli_coronet:
+    display_name: "&9Lapis Lazuli Coronet"
+    permission: "crowns.lapis_lazuli_coronet"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:lapis_lazuli_coronet
+
+  amethyst_diadem:
+    display_name: "&dAmethyst Diadem"
+    permission: "crowns.amethyst_diadem"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:amethyst_diadem
+
+  ruby_diadem:
+    display_name: "&cRuby Diadem"
+    permission: "crowns.ruby_diadem"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:ruby_diadem
+
+  ender_diadem:
+    display_name: "&5Ender Diadem"
+    permission: "crowns.ender_diadem"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:ender_diadem
+
+  crystal_diadem:
+    display_name: "&fCrystal Diadem"
+    permission: "crowns.crystal_diadem"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:crystal_diadem
+
+  harpers_headset:
+    display_name: "&bHarper's Headset"
+    permission: "crowns.harpers_headset"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:harpers_headset
+
+  eversource_crown:
+    display_name: "&eEversource Crown"
+    permission: "crowns.eversource_crown"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:eversource_crown
+
+  diving_helmet:
+    display_name: "&6Diving Helmet"
+    permission: "crowns.diving_helmet"
+    behaviours:
+      hat: true
+    resource:
+      material: PAPER
+      generate: false
+      model_path: crowns:diving_helmet
+

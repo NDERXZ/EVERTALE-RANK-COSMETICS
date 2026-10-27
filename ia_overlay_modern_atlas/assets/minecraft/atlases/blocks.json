@@ -1,1 +1,399 @@
-{"sources":[{"type":"single","resource":"dark_fantasy_cosmetics_vol_1:cemetery_witch_broom","sprite":"ia:39"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_1:cemetery_witch_cloak","sprite":"ia:40"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_1:cemetery_witch_hat","sprite":"ia:41"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_1:chained_monstruosity_back","sprite":"ia:42"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_1:chained_monstruosity_collar","sprite":"ia:43"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_1:chained_monstruosity_sword","sprite":"ia:44"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_1:crow_lord_hat","sprite":"ia:45"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_1:crow_lord_staff","sprite":"ia:46"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_1:crow_lord_wings","sprite":"ia:47"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_1:noir_elegance_shoulderpads","sprite":"ia:48"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_1:noir_elegance_staff","sprite":"ia:49"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_1:noir_elegance_tophat","sprite":"ia:50"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_4:archmage_hat","sprite":"ia:51"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_4:archmage_shoulderpads","sprite":"ia:52"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_4:archmage_staff","sprite":"ia:53"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_4:ritualistic_back","sprite":"ia:54"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_4:ritualistic_hoodie","sprite":"ia:55"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_4:ritualistic_staff","sprite":"ia:56"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_4:skeleton_control_hat","sprite":"ia:57"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_4:skeleton_control_mace","sprite":"ia:58"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_4:skeleton_control_wings","sprite":"ia:59"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_4:spike_lord_helmet","sprite":"ia:60"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_4:spike_lord_sword","sprite":"ia:61"},{"type":"single","resource":"dark_fantasy_cosmetics_vol_4:spike_lord_wings","sprite":"ia:62"},{"type":"single","resource":"hmccosmetics:item/backpack","sprite":"ia:66"},{"type":"single","resource":"hmccosmetics:item/baseball_hat","sprite":"ia:67"},{"type":"single","resource":"hmccosmetics:item/frog_hat","sprite":"ia:71"},{"type":"single","resource":"hmccosmetics:item/future_wings","sprite":"ia:72"},{"type":"single","resource":"hmccosmetics:item/garbage_truck_balloon","sprite":"ia:73"},{"type":"single","resource":"hmccosmetics:item/hammer","sprite":"ia:74"},{"type":"single","resource":"hmccosmetics:item/hibiscus_flower","sprite":"ia:75"},{"type":"single","resource":"hmccosmetics:item/jetpack_animation","sprite":"ia:76"},{"type":"single","resource":"hmccosmetics:item/jetpack","sprite":"ia:77"},{"type":"single","resource":"hmccosmetics:item/kite_colors","sprite":"ia:78"},{"type":"single","resource":"hmccosmetics:item/kite","sprite":"ia:79"},{"type":"single","resource":"hmccosmetics:item/lantern_cosmetic","sprite":"ia:80"},{"type":"single","resource":"mocosmetics:angel_ring","sprite":"ia:83"},{"type":"single","resource":"mocosmetics:angel_wings","sprite":"ia:84"},{"type":"single","resource":"mocosmetics:chick_hat","sprite":"ia:85"},{"type":"single","resource":"mocosmetics:cyber_glasses","sprite":"ia:86"},{"type":"single","resource":"mocosmetics:cyber_glasses_blue","sprite":"ia:87"},{"type":"single","resource":"mocosmetics:cyber_glasses_red","sprite":"ia:88"},{"type":"single","resource":"mocosmetics:cyber_machine","sprite":"ia:89"},{"type":"single","resource":"mocosmetics:cyber_machine_blue","sprite":"ia:90"},{"type":"single","resource":"mocosmetics:cyber_machine_red","sprite":"ia:91"},{"type":"single","resource":"mocosmetics:demon_horns","sprite":"ia:92"},{"type":"single","resource":"mocosmetics:demon_wings","sprite":"ia:93"},{"type":"single","resource":"mocosmetics:dragon_hat","sprite":"ia:94"},{"type":"single","resource":"mocosmetics:dragon_hat_blue","sprite":"ia:95"},{"type":"single","resource":"mocosmetics:dragon_hat_red","sprite":"ia:96"},{"type":"single","resource":"mocosmetics:dragon_wings","sprite":"ia:97"},{"type":"single","resource":"mocosmetics:dragon_wings_blue","sprite":"ia:98"},{"type":"single","resource":"mocosmetics:dragon_wings_red","sprite":"ia:99"},{"type":"single","resource":"mocosmetics:mythical_blades","sprite":"ia:100"},{"type":"single","resource":"mocosmetics:panda_hat","sprite":"ia:101"},{"type":"single","resource":"mocosmetics:phoenix_wings","sprite":"ia:102"},{"type":"single","resource":"cosmetics:sniffer_cloak","sprite":"ia:103"},{"type":"single","resource":"cosmetics:sniffer_crown","sprite":"ia:104"},{"type":"single","resource":"cosmetics:sniffer_staff","sprite":"ia:105"},{"type":"single","resource":"unicorn_cosmetics:cosmetics/unicorn_backpack_texture","sprite":"ia:107"},{"type":"single","resource":"unicorn_cosmetics:cosmetics/unicorn_animation_texture","sprite":"ia:108"},{"type":"single","resource":"unicorn_cosmetics:cosmetics/unicorn_balloon_texture","sprite":"ia:111"},{"type":"single","resource":"unicorn_cosmetics:cosmetics/unicorn_hat_texture","sprite":"ia:113"},{"type":"single","resource":"unicorn_cosmetics:cosmetics/unicorn_staff_texture","sprite":"ia:115"},{"type":"single","resource":"hmccosmetics:icons/arrow_back","sprite":"ia:117"},{"type":"single","resource":"_iainternal:icons/icon_cancel","sprite":"ia:118"},{"type":"single","resource":"_iainternal:icons/icon_search","sprite":"ia:119"},{"type":"single","resource":"hmccosmetics:icons/balloon_icon","sprite":"ia:120"},{"type":"single","resource":"hmccosmetics:icons/colorful","sprite":"ia:121"},{"type":"single","resource":"hmccosmetics:icons/arrow_next","sprite":"ia:122"},{"type":"single","resource":"_iainternal:icons/icon_next_orange","sprite":"ia:123"},{"type":"single","resource":"_iainternal:icons/icon_back_orange","sprite":"ia:124"},{"type":"single","resource":"hmccosmetics:icons/hand_icon","sprite":"ia:125"},{"type":"single","resource":"_iainternal:icons/icon_right_blue","sprite":"ia:126"},{"type":"single","resource":"_iainternal:icons/icon_left_blue","sprite":"ia:127"},{"type":"single","resource":"hmccosmetics:icons/backpack_icon","sprite":"ia:128"},{"type":"single","resource":"hmccosmetics:icons/hat_icon","sprite":"ia:129"},{"type":"single","resource":"_iainternal:icons/icon_arrow_chest","sprite":"ia:130"}]}
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:cemetery_witch_broom",
+      "sprite": "ia:39"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:cemetery_witch_cloak",
+      "sprite": "ia:40"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:cemetery_witch_hat",
+      "sprite": "ia:41"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:chained_monstruosity_back",
+      "sprite": "ia:42"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:chained_monstruosity_collar",
+      "sprite": "ia:43"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:chained_monstruosity_sword",
+      "sprite": "ia:44"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:crow_lord_hat",
+      "sprite": "ia:45"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:crow_lord_staff",
+      "sprite": "ia:46"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:crow_lord_wings",
+      "sprite": "ia:47"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:noir_elegance_shoulderpads",
+      "sprite": "ia:48"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:noir_elegance_staff",
+      "sprite": "ia:49"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:noir_elegance_tophat",
+      "sprite": "ia:50"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:archmage_hat",
+      "sprite": "ia:51"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:archmage_shoulderpads",
+      "sprite": "ia:52"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:archmage_staff",
+      "sprite": "ia:53"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:ritualistic_back",
+      "sprite": "ia:54"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:ritualistic_hoodie",
+      "sprite": "ia:55"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:ritualistic_staff",
+      "sprite": "ia:56"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:skeleton_control_hat",
+      "sprite": "ia:57"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:skeleton_control_mace",
+      "sprite": "ia:58"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:skeleton_control_wings",
+      "sprite": "ia:59"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:spike_lord_helmet",
+      "sprite": "ia:60"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:spike_lord_sword",
+      "sprite": "ia:61"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:spike_lord_wings",
+      "sprite": "ia:62"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/backpack",
+      "sprite": "ia:66"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/baseball_hat",
+      "sprite": "ia:67"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/frog_hat",
+      "sprite": "ia:71"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/future_wings",
+      "sprite": "ia:72"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/garbage_truck_balloon",
+      "sprite": "ia:73"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/hammer",
+      "sprite": "ia:74"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/hibiscus_flower",
+      "sprite": "ia:75"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/jetpack_animation",
+      "sprite": "ia:76"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/jetpack",
+      "sprite": "ia:77"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/kite_colors",
+      "sprite": "ia:78"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/kite",
+      "sprite": "ia:79"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/lantern_cosmetic",
+      "sprite": "ia:80"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:angel_ring",
+      "sprite": "ia:83"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:angel_wings",
+      "sprite": "ia:84"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:chick_hat",
+      "sprite": "ia:85"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:cyber_glasses",
+      "sprite": "ia:86"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:cyber_glasses_blue",
+      "sprite": "ia:87"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:cyber_glasses_red",
+      "sprite": "ia:88"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:cyber_machine",
+      "sprite": "ia:89"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:cyber_machine_blue",
+      "sprite": "ia:90"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:cyber_machine_red",
+      "sprite": "ia:91"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:demon_horns",
+      "sprite": "ia:92"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:demon_wings",
+      "sprite": "ia:93"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:dragon_hat",
+      "sprite": "ia:94"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:dragon_hat_blue",
+      "sprite": "ia:95"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:dragon_hat_red",
+      "sprite": "ia:96"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:dragon_wings",
+      "sprite": "ia:97"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:dragon_wings_blue",
+      "sprite": "ia:98"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:dragon_wings_red",
+      "sprite": "ia:99"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:mythical_blades",
+      "sprite": "ia:100"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:panda_hat",
+      "sprite": "ia:101"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:phoenix_wings",
+      "sprite": "ia:102"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetics:sniffer_cloak",
+      "sprite": "ia:103"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetics:sniffer_crown",
+      "sprite": "ia:104"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetics:sniffer_staff",
+      "sprite": "ia:105"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_backpack_texture",
+      "sprite": "ia:107"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_animation_texture",
+      "sprite": "ia:108"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_balloon_texture",
+      "sprite": "ia:111"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_hat_texture",
+      "sprite": "ia:113"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_staff_texture",
+      "sprite": "ia:115"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/arrow_back",
+      "sprite": "ia:117"
+    },
+    {
+      "type": "single",
+      "resource": "_iainternal:icons/icon_cancel",
+      "sprite": "ia:118"
+    },
+    {
+      "type": "single",
+      "resource": "_iainternal:icons/icon_search",
+      "sprite": "ia:119"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/balloon_icon",
+      "sprite": "ia:120"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/colorful",
+      "sprite": "ia:121"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/arrow_next",
+      "sprite": "ia:122"
+    },
+    {
+      "type": "single",
+      "resource": "_iainternal:icons/icon_next_orange",
+      "sprite": "ia:123"
+    },
+    {
+      "type": "single",
+      "resource": "_iainternal:icons/icon_back_orange",
+      "sprite": "ia:124"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/hand_icon",
+      "sprite": "ia:125"
+    },
+    {
+      "type": "single",
+      "resource": "_iainternal:icons/icon_right_blue",
+      "sprite": "ia:126"
+    },
+    {
+      "type": "single",
+      "resource": "_iainternal:icons/icon_left_blue",
+      "sprite": "ia:127"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/backpack_icon",
+      "sprite": "ia:128"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/hat_icon",
+      "sprite": "ia:129"
+    },
+    {
+      "type": "single",
+      "resource": "_iainternal:icons/icon_arrow_chest",
+      "sprite": "ia:130"
+    },
+    {
+      "type": "directory",
+      "source": "crowns",
+      "prefix": "crowns/"
+    }
+  ]
+}

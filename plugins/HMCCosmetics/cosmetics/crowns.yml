@@ -1,0 +1,220 @@
+# ==========================================
+# Crowns & Diadems - HMCCosmetics Config
+# ==========================================
+
+royal_crown:
+  slot: HELMET
+  permission: "crowns.royal_crown"
+  item:
+    material: itemsadder:crowns:royal_crown
+    name: "<gold>Royal Crown"
+    amount: 1
+
+renegade_crown:
+  slot: HELMET
+  permission: "crowns.renegade_crown"
+  item:
+    material: itemsadder:crowns:renegade_crown
+    name: "<dark_red>Renegade Crown"
+    amount: 1
+
+sculk_crown:
+  slot: HELMET
+  permission: "crowns.sculk_crown"
+  item:
+    material: itemsadder:crowns:sculk_crown
+    name: "<dark_aqua>Sculk Crown"
+    amount: 1
+
+skull_crown:
+  slot: HELMET
+  permission: "crowns.skull_crown"
+  item:
+    material: itemsadder:crowns:skull_crown
+    name: "<gray>Skull Crown"
+    amount: 1
+
+floral_crown:
+  slot: HELMET
+  permission: "crowns.floral_crown"
+  item:
+    material: itemsadder:crowns:floral_crown
+    name: "<light_purple>Floral Crown"
+    amount: 1
+
+rose_crown:
+  slot: HELMET
+  permission: "crowns.rose_crown"
+  item:
+    material: itemsadder:crowns:rose_crown
+    name: "<red>Rose Crown"
+    amount: 1
+
+lavender_crown:
+  slot: HELMET
+  permission: "crowns.lavender_crown"
+  item:
+    material: itemsadder:crowns:lavender_crown
+    name: "<purple>Lavender Crown"
+    amount: 1
+
+dandelion_crown:
+  slot: HELMET
+  permission: "crowns.dandelion_crown"
+  item:
+    material: itemsadder:crowns:dandelion_crown
+    name: "<yellow>Dandelion Crown"
+    amount: 1
+
+wreath_crown:
+  slot: HELMET
+  permission: "crowns.wreath_crown"
+  item:
+    material: itemsadder:crowns:wreath_crown
+    name: "<green>Wreath Crown"
+    amount: 1
+
+goldleaf_wreath:
+  slot: HELMET
+  permission: "crowns.goldleaf_wreath"
+  item:
+    material: itemsadder:crowns:goldleaf_wreath
+    name: "<gold>Goldleaf Wreath"
+    amount: 1
+
+autumn_wreath:
+  slot: HELMET
+  permission: "crowns.autumn_wreath"
+  item:
+    material: itemsadder:crowns:autumn_wreath
+    name: "<gold>Autumn Wreath"
+    amount: 1
+
+blackleaf_wreath:
+  slot: HELMET
+  permission: "crowns.blackleaf_wreath"
+  item:
+    material: itemsadder:crowns:blackleaf_wreath
+    name: "<dark_gray>Blackleaf Wreath"
+    amount: 1
+
+frost_circlet:
+  slot: HELMET
+  permission: "crowns.frost_circlet"
+  item:
+    material: itemsadder:crowns:frost_circlet
+    name: "<aqua>Frost Circlet"
+    amount: 1
+
+flame_circlet:
+  slot: HELMET
+  permission: "crowns.flame_circlet"
+  item:
+    material: itemsadder:crowns:flame_circlet
+    name: "<red>Flame Circlet"
+    amount: 1
+
+water_circlet:
+  slot: HELMET
+  permission: "crowns.water_circlet"
+  item:
+    material: itemsadder:crowns:water_circlet
+    name: "<blue>Water Circlet"
+    amount: 1
+
+thunder_circlet:
+  slot: HELMET
+  permission: "crowns.thunder_circlet"
+  item:
+    material: itemsadder:crowns:thunder_circlet
+    name: "<yellow>Thunder Circlet"
+    amount: 1
+
+diamond_coronet:
+  slot: HELMET
+  permission: "crowns.diamond_coronet"
+  item:
+    material: itemsadder:crowns:diamond_coronet
+    name: "<aqua>Diamond Coronet"
+    amount: 1
+
+emerald_coronet:
+  slot: HELMET
+  permission: "crowns.emerald_coronet"
+  item:
+    material: itemsadder:crowns:emerald_coronet
+    name: "<green>Emerald Coronet"
+    amount: 1
+
+netherite_coronet:
+  slot: HELMET
+  permission: "crowns.netherite_coronet"
+  item:
+    material: itemsadder:crowns:netherite_coronet
+    name: "<dark_gray>Netherite Coronet"
+    amount: 1
+
+lapis_lazuli_coronet:
+  slot: HELMET
+  permission: "crowns.lapis_lazuli_coronet"
+  item:
+    material: itemsadder:crowns:lapis_lazuli_coronet
+    name: "<blue>Lapis Lazuli Coronet"
+    amount: 1
+
+amethyst_diadem:
+  slot: HELMET
+  permission: "crowns.amethyst_diadem"
+  item:
+    material: itemsadder:crowns:amethyst_diadem
+    name: "<light_purple>Amethyst Diadem"
+    amount: 1
+
+ruby_diadem:
+  slot: HELMET
+  permission: "crowns.ruby_diadem"
+  item:
+    material: itemsadder:crowns:ruby_diadem
+    name: "<red>Ruby Diadem"
+    amount: 1
+
+ender_diadem:
+  slot: HELMET
+  permission: "crowns.ender_diadem"
+  item:
+    material: itemsadder:crowns:ender_diadem
+    name: "<dark_purple>Ender Diadem"
+    amount: 1
+
+crystal_diadem:
+  slot: HELMET
+  permission: "crowns.crystal_diadem"
+  item:
+    material: itemsadder:crowns:crystal_diadem
+    name: "<white>Crystal Diadem"
+    amount: 1
+
+harpers_headset:
+  slot: HELMET
+  permission: "crowns.harpers_headset"
+  item:
+    material: itemsadder:crowns:harpers_headset
+    name: "<aqua>Harper's Headset"
+    amount: 1
+
+eversource_crown:
+  slot: HELMET
+  permission: "crowns.eversource_crown"
+  item:
+    material: itemsadder:crowns:eversource_crown
+    name: "<yellow>Eversource Crown"
+    amount: 1
+
+diving_helmet:
+  slot: HELMET
+  permission: "crowns.diving_helmet"
+  item:
+    material: itemsadder:crowns:diving_helmet
+    name: "<gold>Diving Helmet"
+    amount: 1
+
