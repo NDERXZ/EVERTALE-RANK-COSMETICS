@@ -391,9 +391,316 @@
       "sprite": "ia:130"
     },
     {
-      "type": "directory",
-      "source": "crowns",
-      "prefix": "crowns/"
+      "type": "single",
+      "resource": "crowns:amethyst_diadem"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:amethyst_diadem_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:amethyst_diadem_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:amethyst_diadem_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:autumn_wreath"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:autumn_wreath_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:blackleaf_wreath"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:blackleaf_wreath_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:crystal_diadem"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:crystal_diadem_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:crystal_diadem_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:crystal_diadem_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:dandelion_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:dandelion_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:diamond_coronet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:diamond_coronet_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:diamond_coronet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:diamond_coronet_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:diving_helmet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:diving_helmet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:emerald_coronet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:emerald_coronet_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:emerald_coronet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:emerald_coronet_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ender_diadem"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ender_diadem_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ender_diadem_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ender_diadem_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:eversource_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:eversource_crown_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:eversource_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:eversource_crown_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:flame_circlet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:flame_circlet_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:flame_circlet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:flame_circlet_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:floral_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:floral_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:frost_circlet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:frost_circlet_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:frost_circlet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:frost_circlet_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:goldleaf_wreath"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:goldleaf_wreath_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:harpers_headset"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:harpers_headset_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:harpers_headset_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:harpers_headset_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:lapis_lazuli_coronet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:lapis_lazuli_coronet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:lavender_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:lavender_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:netherite_coronet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:netherite_coronet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:renegade_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:renegade_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:rose_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:rose_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:royal_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:royal_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ruby_diadem"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ruby_diadem_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ruby_diadem_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ruby_diadem_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:sculk_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:sculk_crown_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:sculk_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:sculk_crown_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:skull_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:skull_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:thunder_circlet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:thunder_circlet_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:thunder_circlet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:thunder_circlet_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:water_circlet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:water_circlet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:wreath_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:wreath_crown_model"
     }
   ]
 }
