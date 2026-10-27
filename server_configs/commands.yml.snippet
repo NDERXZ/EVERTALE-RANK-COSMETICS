@@ -1,0 +1,12 @@
+# ==============================================================================
+# commands.yml - Custom /txt and /texturepack Alias Configuration
+# Add this under the 'aliases:' section in your server root 'commands.yml'
+# ==============================================================================
+aliases:
+  txt:
+    - "iaapply $$1"
+    - "tellraw $$1 [\"\",{\"text\":\"[EvertaleMC] \",\"color\":\"gold\",\"bold\":true},{\"text\":\"Mengirim ulang resource pack... Jika gagal, klik: \",\"color\":\"yellow\"},{\"text\":\"[Unduh Manual]\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.0.0/Evertale-Rank-Cosmetics-v1.0.0.zip\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Klik untuk mengunduh Evertale-Rank-Cosmetics-v1.0.0.zip\"}}] "
+  texturepack:
+    - "txt"
+  pack:
+    - "txt"

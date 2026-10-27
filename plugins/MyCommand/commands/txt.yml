@@ -1,0 +1,21 @@
+# ==============================================================================
+# MyCommand /txt and /texturepack command configuration
+# Place this file in: plugins/MyCommand/commands/txt.yml
+# ==============================================================================
+txt_command:
+  command: /txt
+  type: RUN_COMMAND
+  runcmd:
+    - "$text$&8&m----------------------------------------"
+    - "$text$&6&lEVERTALE MC &8» &eMengirim ulang Resource Pack..."
+    - "$text$&7Jika tidak muncul otomatis, unduh manual di:"
+    - "$text$&b&nhttps://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.0.0/Evertale-Rank-Cosmetics-v1.0.0.zip"
+    - "$text$&8&m----------------------------------------"
+    - "$execute$iaapply $player"
+  permission-required: false
+
+texturepack_alias:
+  command: /texturepack
+  type: ALIAS
+  alias: /txt
+  permission-required: false

@@ -33,6 +33,7 @@
     <li><a href="#repository-structure">Repository Structure</a></li>
     <li><a href="#resource-pack-installation">Resource Pack Setup (Auto & Manual)</a></li>
     <li><a href="#staff-and-media-permissions">Rank Permissions (Admin & Media Setup)</a></li>
+    <li><a href="#enforcing-resource-pack">Enforcing Resource Pack & /txt Command</a></li>
   </ol>
 </details>
 
@@ -541,5 +542,54 @@ Run these commands in your server console:
 
 > [!NOTE]
 > All permission command scripts and files are also saved in [`plugins/LuckPerms/commands.txt`](plugins/LuckPerms/commands.txt).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+<!-- ENFORCING PACK & /TXT SECTION (LEFT-ALIGNED) -->
+<a id="enforcing-resource-pack"></a>
+<h3>Enforcing Resource Pack & /txt Command Setup</h3>
+
+#### 1. Enforce Resource Pack For All Connecting Players
+To ensure **all players** are required to use the resource pack upon joining (preventing missing textures or bypassed packs), set `require-resource-pack=true` in `server.properties`:
+
+```properties
+resource-pack=https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.0.0/Evertale-Rank-Cosmetics-v1.0.0.zip
+resource-pack-sha1=645eedc334f69c188afc9895ec36c781ac54ee90
+require-resource-pack=true
+resource-pack-prompt={"text":"Kamu wajib menggunakan Resource Pack resmi EvertaleMC untuk melihat rank badges dan 3D cosmetics!","color":"gold"}
+```
+
+#### 2. Push Update Live to All Currently Online Players
+To send the new resource pack to players who are already in-game without restarting the server, execute in console:
+```text
+# If using ItemsAdder:
+/iaapply @a
+
+# Or via vanilla command:
+/minecraft:sendresourcepack @a https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.0.0/Evertale-Rank-Cosmetics-v1.0.0.zip 645eedc334f69c188afc9895ec36c781ac54ee90 true
+```
+
+#### 3. Setting Up the `/txt` In-Game Command
+Players can type `/txt` or `/texturepack` at any time to re-download or refresh their pack if it glitched or unloaded:
+
+* **Native Bukkit / Paper (`commands.yml`)**:
+  Add to your server root `commands.yml` (file: [`server_configs/commands.yml.snippet`](server_configs/commands.yml.snippet)):
+  ```yaml
+  aliases:
+    txt:
+      - "iaapply $$1"
+    texturepack:
+      - "txt"
+    pack:
+      - "txt"
+  ```
+
+* **DeluxeMenus GUI (`plugins/DeluxeMenus/`)**:
+  Interactive GUI menu available at [`plugins/DeluxeMenus/gui_menus/texturepack.yml`](plugins/DeluxeMenus/gui_menus/texturepack.yml) featuring 1-click automatic apply or manual zip download link.
+
+* **MyCommand (`plugins/MyCommand/`)**:
+  Custom command configuration available at [`plugins/MyCommand/commands/txt.yml`](plugins/MyCommand/commands/txt.yml).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

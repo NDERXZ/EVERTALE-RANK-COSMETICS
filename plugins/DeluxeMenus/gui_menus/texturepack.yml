@@ -1,0 +1,77 @@
+# ==============================================================================
+# DeluxeMenus GUI Configuration for /txt, /texturepack, and /pack
+# Place this file in: plugins/DeluxeMenus/gui_menus/texturepack.yml
+# Add to plugins/DeluxeMenus/config.yml:
+#   texturepack:
+#     file: texturepack.yml
+# ==============================================================================
+menu_title: '&6&lEVERTALE &8» &eResource Pack'
+open_command:
+  - txt
+  - texturepack
+  - pack
+size: 27
+
+items:
+  border:
+    material: BLACK_STAINED_GLASS_PANE
+    slots:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+      - 24
+      - 25
+      - 26
+    display_name: '&8'
+
+  auto_apply:
+    material: EMERALD_BLOCK
+    slot: 11
+    display_name: '&#55FF55&lPASANG OTOMATIS'
+    lore:
+      - '&7Kirim ulang resource pack langsung'
+      - '&7ke layar permainanmu.'
+      - ''
+      - '&8▪ &7Status: &aAktif (v1.0.0)'
+      - '&8▪ &7Ukuran: &e2.00 MB'
+      - ''
+      - '&e▶ Klik untuk memasang otomatis!'
+    left_click_commands:
+      - '[close]'
+      - '[player] iaapply'
+      - '[message] &6&lEVERTALE &8» &aMengirim ulang permintaan Resource Pack...'
+      - '[sound] ENTITY_EXPERIENCE_ORB_PICKUP'
+
+  manual_download:
+    material: BOOK
+    slot: 15
+    display_name: '&#FFAA00&lUNDUH MANUAL (ZIP)'
+    lore:
+      - '&7Jika resource pack tidak otomatis muncul,'
+      - '&7kamu bisa mengunduh file .zip secara manual.'
+      - ''
+      - '&8▪ &7Versi: &e1.0.0'
+      - '&8▪ &7SHA-1: &7645eedc334f6...'
+      - ''
+      - '&e▶ Klik untuk mendapatkan link unduh!'
+    left_click_commands:
+      - '[close]'
+      - '[message] &8&m----------------------------------------'
+      - '[message] &6&lEVERTALE MC &8» &eLink Unduh Resource Pack:'
+      - '[message] &bhttps://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.0.0/Evertale-Rank-Cosmetics-v1.0.0.zip'
+      - '[message] &8&m----------------------------------------'
+      - '[sound] BLOCK_NOTE_BLOCK_PLING'
