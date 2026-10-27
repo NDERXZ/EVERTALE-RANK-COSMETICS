@@ -454,8 +454,8 @@ When configured on your server, players joining **EvertaleMC** receive an automa
 Add or update the following lines in your server root `server.properties`:
 
 ```properties
-resource-pack=https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.0.0/Evertale-Rank-Cosmetics-v1.0.0.zip
-resource-pack-sha1=645eedc334f69c188afc9895ec36c781ac54ee90
+resource-pack=https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.1.0/Evertale-Rank-Cosmetics-v1.1.0.zip
+resource-pack-sha1=dadfe55eb7084e6762e46aa92e751516b3380bea
 require-resource-pack=true
 resource-pack-prompt={"text":"Please accept the EvertaleMC resource pack to view server ranks and 3D cosmetics!","color":"gold"}
 ```
@@ -474,7 +474,7 @@ resource-pack:
       enabled: false
     external-host:
       enabled: true
-      url: "https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.0.0/Evertale-Rank-Cosmetics-v1.0.0.zip"
+      url: "https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.1.0/Evertale-Rank-Cosmetics-v1.1.0.zip"
 ```
 
 #### Option C: Bedrock Edition Players (GeyserMC)
@@ -487,13 +487,13 @@ resource-pack:
 Players who prefer to install the resource pack locally or offline can follow these steps:
 
 #### Java Edition
-1. Download **[Evertale-Rank-Cosmetics-v1.0.0.zip](https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.0.0/Evertale-Rank-Cosmetics-v1.0.0.zip)** from the latest release.
+1. Download **[Evertale-Rank-Cosmetics-v1.1.0.zip](https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.1.0/Evertale-Rank-Cosmetics-v1.1.0.zip)** from the latest release.
 2. Open your Minecraft resource packs folder:
    * **Windows**: Press `Win + R`, type `%appdata%\.minecraft\resourcepacks\`, and press **Enter**.
    * **macOS**: `~/Library/Application Support/minecraft/resourcepacks/`
    * **Linux**: `~/.minecraft/resourcepacks/`
-3. Copy `Evertale-Rank-Cosmetics-v1.0.0.zip` into the folder.
-4. In Minecraft, navigate to **Options** -> **Resource Packs...** -> Move **Evertale-Rank-Cosmetics-v1.0.0** to the right column (**Selected**) -> Click **Done**.
+3. Copy `Evertale-Rank-Cosmetics-v1.1.0.zip` into the folder.
+4. In Minecraft, navigate to **Options** -> **Resource Packs...** -> Move **Evertale-Rank-Cosmetics-v1.1.0** to the right column (**Selected**) -> Click **Done**.
 
 #### Bedrock Edition
 * Download the Bedrock pack package from the release or join the server directly to receive the pack automatically.
@@ -555,8 +555,8 @@ Run these commands in your server console:
 To ensure **all players** are required to use the resource pack upon joining (preventing missing textures or bypassed packs), set `require-resource-pack=true` in `server.properties`:
 
 ```properties
-resource-pack=https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.0.0/Evertale-Rank-Cosmetics-v1.0.0.zip
-resource-pack-sha1=645eedc334f69c188afc9895ec36c781ac54ee90
+resource-pack=https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.1.0/Evertale-Rank-Cosmetics-v1.1.0.zip
+resource-pack-sha1=dadfe55eb7084e6762e46aa92e751516b3380bea
 require-resource-pack=true
 resource-pack-prompt={"text":"Kamu wajib menggunakan Resource Pack resmi EvertaleMC untuk melihat rank badges dan 3D cosmetics!","color":"gold"}
 ```
@@ -568,7 +568,7 @@ To send the new resource pack to players who are already in-game without restart
 /iaapply @a
 
 # Or via vanilla command:
-/minecraft:sendresourcepack @a https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.0.0/Evertale-Rank-Cosmetics-v1.0.0.zip 645eedc334f69c188afc9895ec36c781ac54ee90 true
+/minecraft:sendresourcepack @a https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.1.0/Evertale-Rank-Cosmetics-v1.1.0.zip dadfe55eb7084e6762e46aa92e751516b3380bea true
 ```
 
 #### 3. Setting Up the `/txt` In-Game Command
