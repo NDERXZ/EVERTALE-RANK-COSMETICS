@@ -1,0 +1,36 @@
+info:
+  namespace: crowns
+categories:
+  crowns:
+    name: "&6Crowns & Diadems"
+    enabled: true
+    icon: crowns:royal_crown
+    permission: ia.menu
+    items:
+    - "crowns:royal_crown"
+    - "crowns:renegade_crown"
+    - "crowns:sculk_crown"
+    - "crowns:skull_crown"
+    - "crowns:floral_crown"
+    - "crowns:rose_crown"
+    - "crowns:lavender_crown"
+    - "crowns:dandelion_crown"
+    - "crowns:wreath_crown"
+    - "crowns:goldleaf_wreath"
+    - "crowns:autumn_wreath"
+    - "crowns:blackleaf_wreath"
+    - "crowns:frost_circlet"
+    - "crowns:flame_circlet"
+    - "crowns:water_circlet"
+    - "crowns:thunder_circlet"
+    - "crowns:diamond_coronet"
+    - "crowns:emerald_coronet"
+    - "crowns:netherite_coronet"
+    - "crowns:lapis_lazuli_coronet"
+    - "crowns:amethyst_diadem"
+    - "crowns:ruby_diadem"
+    - "crowns:ender_diadem"
+    - "crowns:crystal_diadem"
+    - "crowns:harpers_headset"
+    - "crowns:eversource_crown"
+    - "crowns:diving_helmet"
