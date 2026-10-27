@@ -31,7 +31,8 @@
     <li><a href="#included-3d-cosmetics--models">Included 3D Cosmetics & Models</a></li>
     <li><a href="#crowns--diadems-cosmetics">Crowns & Diadems Cosmetics</a></li>
     <li><a href="#repository-structure">Repository Structure</a></li>
-    <li><a href="#installation-guide">Installation Guide</a></li>
+    <li><a href="#resource-pack-installation">Resource Pack Setup (Auto & Manual)</a></li>
+    <li><a href="#staff-and-media-permissions">Rank Permissions (Admin & Media Setup)</a></li>
   </ol>
 </details>
 
@@ -441,18 +442,104 @@ EVERTALE-RANK-COSMETICS/
 ---
 
 <!-- HOW TO USE / INSTALLATION SECTION (LEFT-ALIGNED) -->
-<a id="installation-guide"></a>
-<img src=".github/assets/how-to-use.png" alt="Installation Guide / How To Use" width="380" />
+<a id="resource-pack-installation"></a>
+<img src=".github/assets/how-to-use.png" alt="Resource Pack Setup" width="380" />
 
-### For Java Edition Players
-1. Click **Code** -> **Download ZIP** at the top right of this repository, or grab the compiled release package.
-2. Place the downloaded `.zip` file into your Minecraft resource packs directory:
-   * **Windows**: `%appdata%\.minecraft\resourcepacks\`
+### 1. Automatic Server Resource Pack (Recommended)
+
+When configured on your server, players joining **EvertaleMC** receive an automatic prompt to download and apply the resource pack without needing to install anything manually.
+
+#### Option A: Vanilla Server Configuration (`server.properties`)
+Add or update the following lines in your server root `server.properties`:
+
+```properties
+resource-pack=https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.0.0/Evertale-Rank-Cosmetics-v1.0.0.zip
+resource-pack-sha1=645eedc334f69c188afc9895ec36c781ac54ee90
+require-resource-pack=true
+resource-pack-prompt={"text":"Please accept the EvertaleMC resource pack to view server ranks and 3D cosmetics!","color":"gold"}
+```
+
+#### Option B: ItemsAdder Auto-Hosting (`plugins/ItemsAdder/config.yml`)
+If using ItemsAdder to manage server packs, configure the `resource-pack.hosting` section:
+
+```yaml
+resource-pack:
+  hosting:
+    no-host:
+      enabled: false
+    auto-external-host:
+      enabled: false
+    self-host:
+      enabled: false
+    external-host:
+      enabled: true
+      url: "https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.0.0/Evertale-Rank-Cosmetics-v1.0.0.zip"
+```
+
+#### Option C: Bedrock Edition Players (GeyserMC)
+* Bedrock players joining via **Geyser-Spigot / Floodgate** automatically receive all cosmetics and rank badges during the server handshake protocol. Custom mappings are registered in `plugins/Geyser/crowns_mappings.json`.
+
+---
+
+### 2. Manual Client Installation
+
+Players who prefer to install the resource pack locally or offline can follow these steps:
+
+#### Java Edition
+1. Download **[Evertale-Rank-Cosmetics-v1.0.0.zip](https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.0.0/Evertale-Rank-Cosmetics-v1.0.0.zip)** from the latest release.
+2. Open your Minecraft resource packs folder:
+   * **Windows**: Press `Win + R`, type `%appdata%\.minecraft\resourcepacks\`, and press **Enter**.
    * **macOS**: `~/Library/Application Support/minecraft/resourcepacks/`
    * **Linux**: `~/.minecraft/resourcepacks/`
-3. Launch Minecraft -> Navigate to **Options** -> **Resource Packs...** -> Move **EVERTALE-RANK-COSMETICS** to the right column (Active) -> Click **Done**.
+3. Copy `Evertale-Rank-Cosmetics-v1.0.0.zip` into the folder.
+4. In Minecraft, navigate to **Options** -> **Resource Packs...** -> Move **Evertale-Rank-Cosmetics-v1.0.0** to the right column (**Selected**) -> Click **Done**.
 
-### For Bedrock Edition Players
-* Bedrock players joining EvertaleMC receive this resource pack automatically during server connection handshake via **Geyser-Spigot**!
+#### Bedrock Edition
+* Download the Bedrock pack package from the release or join the server directly to receive the pack automatically.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+<!-- STAFF & MEDIA PERMISSIONS SECTION (LEFT-ALIGNED) -->
+<a id="staff-and-media-permissions"></a>
+<h3>Rank Permissions (Admin & Media Setup)</h3>
+
+To ensure **Admin** and **Media** ranks have full access to wear all 27 crowns, hats, wings, backpacks, and exclusive server cosmetics, grant the following wildcard permissions in **LuckPerms**:
+
+#### 1. Granting Permissions to Admin Rank
+Run these commands in your server console:
+
+```text
+/lp group admin permission set hmccosmetics.* true
+/lp group admin permission set crowns.* true
+/lp group admin permission set cosmetic_packv1.* true
+/lp group admin permission set cosmetic_packv2.* true
+/lp group admin permission set dark_fantasy_cosmetics.* true
+/lp group admin permission set mocosmetics.* true
+/lp group admin permission set sniffer.cosmetics true
+/lp group admin permission set unicorn_cosmetics.* true
+/lp group admin permission set ia.user.image.* true
+/lp group admin permission set ia.menu.* true
+```
+
+#### 2. Granting Permissions to Media Rank
+Run these commands in your server console:
+
+```text
+/lp group media permission set hmccosmetics.* true
+/lp group media permission set crowns.* true
+/lp group media permission set cosmetic_packv1.* true
+/lp group media permission set cosmetic_packv2.* true
+/lp group media permission set dark_fantasy_cosmetics.* true
+/lp group media permission set mocosmetics.* true
+/lp group media permission set sniffer.cosmetics true
+/lp group media permission set unicorn_cosmetics.* true
+/lp group media permission set ia.user.image.* true
+/lp group media permission set ia.menu.* true
+```
+
+> [!NOTE]
+> All permission command scripts and files are also saved in [`plugins/LuckPerms/commands.txt`](plugins/LuckPerms/commands.txt).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

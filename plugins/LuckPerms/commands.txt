@@ -1,0 +1,28 @@
+# ==============================================================================
+# LuckPerms Commands: Grant All Cosmetics to Media and Admin Ranks
+# Run these commands in your Minecraft Server Console or in-game with /lp permission
+# ==============================================================================
+
+# --- ADMIN RANK (Can wear and use all cosmetics) ---
+/lp group admin permission set hmccosmetics.* true
+/lp group admin permission set crowns.* true
+/lp group admin permission set cosmetic_packv1.* true
+/lp group admin permission set cosmetic_packv2.* true
+/lp group admin permission set dark_fantasy_cosmetics.* true
+/lp group admin permission set mocosmetics.* true
+/lp group admin permission set sniffer.cosmetics true
+/lp group admin permission set unicorn_cosmetics.* true
+/lp group admin permission set ia.user.image.* true
+/lp group admin permission set ia.menu.* true
+
+# --- MEDIA RANK (Can wear and use all cosmetics) ---
+/lp group media permission set hmccosmetics.* true
+/lp group media permission set crowns.* true
+/lp group media permission set cosmetic_packv1.* true
+/lp group media permission set cosmetic_packv2.* true
+/lp group media permission set dark_fantasy_cosmetics.* true
+/lp group media permission set mocosmetics.* true
+/lp group media permission set sniffer.cosmetics true
+/lp group media permission set unicorn_cosmetics.* true
+/lp group media permission set ia.user.image.* true
+/lp group media permission set ia.menu.* true

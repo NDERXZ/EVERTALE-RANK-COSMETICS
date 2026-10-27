@@ -1,0 +1,15 @@
+# ==============================================================================
+# ItemsAdder config.yml Hosting Snippet
+# Replace the resource-pack.hosting section in plugins/ItemsAdder/config.yml
+# ==============================================================================
+resource-pack:
+  hosting:
+    no-host:
+      enabled: false
+    auto-external-host:
+      enabled: false
+    self-host:
+      enabled: false
+    external-host:
+      enabled: true
+      url: "https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.0.0/Evertale-Rank-Cosmetics-v1.0.0.zip"
