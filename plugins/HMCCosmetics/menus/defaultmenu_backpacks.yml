@@ -1,0 +1,445 @@
+title: "<white>:offset_-8::hmcc_cosmetics_gui:"
+rows: 6
+items:
+  # ==========================================
+  # Default Cosmetics
+  # ==========================================
+  backpack:
+    slots:
+      - 1
+    item:
+      material: itemsadder:hmccosmetics:backpack
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_backpack%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_backpack%"
+    type: cosmetic
+    cosmetic: backpack
+  future_wings:
+    slots:
+      - 2
+    item:
+      material: itemsadder:hmccosmetics:future_wings
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_future_wings%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_future_wings%"
+    type: cosmetic
+    cosmetic: future_wings
+  jetpack:
+    slots:
+      - 3
+    item:
+      material: itemsadder:hmccosmetics:jetpack
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_jetpack%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_jetpack%" 
+    type: cosmetic
+    cosmetic: jetpack
+  explorer_backpack:
+    slots:
+      - 4
+    item:
+      material: itemsadder:hmccosmetics:explorer_backpack
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_explorer_backpack%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_explorer_backpack%" 
+    type: cosmetic
+    cosmetic: explorer_backpack
+
+  # ==========================================
+  # Cosmetic Pack V1
+  # ==========================================
+  cp1_ninja_backpack:
+    slots:
+      - 5
+    item:
+      material: itemsadder:cosmetic_packv1:cp1_ninja_backpack
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp1_ninja_backpack%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp1_ninja_backpack%"
+    type: cosmetic
+    cosmetic: cp1_ninja_backpack
+  cp1_knight_backpack:
+    slots:
+      - 6
+    item:
+      material: itemsadder:cosmetic_packv1:cp1_knight_backpack
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp1_knight_backpack%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp1_knight_backpack%"
+    type: cosmetic
+    cosmetic: cp1_knight_backpack
+  cp1_wizard_backpack:
+    slots:
+      - 7
+    item:
+      material: itemsadder:cosmetic_packv1:cp1_wizard_backpack
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp1_wizard_backpack%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp1_wizard_backpack%"
+    type: cosmetic
+    cosmetic: cp1_wizard_backpack
+  cp1_frozen_backpack:
+    slots:
+      - 8
+    item:
+      material: itemsadder:cosmetic_packv1:cp1_frozen_backpack
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp1_frozen_backpack%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp1_frozen_backpack%"
+    type: cosmetic
+    cosmetic: cp1_frozen_backpack
+  cp1_ender_backpack:
+    slots:
+      - 10
+    item:
+      material: itemsadder:cosmetic_packv1:cp1_ender_backpack
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp1_ender_backpack%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp1_ender_backpack%"
+    type: cosmetic
+    cosmetic: cp1_ender_backpack
+
+  # ==========================================
+  # Cosmetic Pack V2
+  # ==========================================
+  cp2_diver_backpack:
+    slots:
+      - 11
+    item:
+      material: itemsadder:cosmetic_packv2:cp2_diver_backpack
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp2_diver_backpack%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp2_diver_backpack%"
+    type: cosmetic
+    cosmetic: cp2_diver_backpack
+  cp2_nether_beetle_backpack:
+    slots:
+      - 12
+    item:
+      material: itemsadder:cosmetic_packv2:cp2_nether_beetle_backpack
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp2_nether_beetle_backpack%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp2_nether_beetle_backpack%"
+    type: cosmetic
+    cosmetic: cp2_nether_beetle_backpack
+  cp2_skulk_backpack:
+    slots:
+      - 13
+    item:
+      material: itemsadder:cosmetic_packv2:cp2_skulk_backpack
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp2_skulk_backpack%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp2_skulk_backpack%"
+    type: cosmetic
+    cosmetic: cp2_skulk_backpack
+  cp2_summer_backpack:
+    slots:
+      - 14
+    item:
+      material: itemsadder:cosmetic_packv2:cp2_summer_backpack
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp2_summer_backpack%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp2_summer_backpack%"
+    type: cosmetic
+    cosmetic: cp2_summer_backpack
+  cp2_tiki_backpack:
+    slots:
+      - 15
+    item:
+      material: itemsadder:cosmetic_packv2:cp2_tiki_backpack
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp2_tiki_backpack%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp2_tiki_backpack%"
+    type: cosmetic
+    cosmetic: cp2_tiki_backpack
+
+  # ==========================================
+  # Sniffer Cosmetics
+  # ==========================================
+  sniffer_cloak:
+    slots:
+      - 16
+    item:
+      material: itemsadder:cosmetics:sniffer_cloak
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_sniffer_cloak%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_sniffer_cloak%"
+    type: cosmetic
+    cosmetic: sniffer_cloak
+
+  # ==========================================
+  # Dark Fantasy Vol. 1
+  # ==========================================
+  cemetery_witch_cloak:
+    slots:
+      - 17
+    item:
+      material: itemsadder:dark_fantasy_cosmetics_vol_1:cemetery_witch_cloak
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cemetery_witch_cloak%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cemetery_witch_cloak%"
+    type: cosmetic
+    cosmetic: cemetery_witch_cloak
+  chained_monstruosity_back:
+    slots:
+      - 19
+    item:
+      material: itemsadder:dark_fantasy_cosmetics_vol_1:chained_monstruosity_back
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_chained_monstruosity_back%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_chained_monstruosity_back%"
+    type: cosmetic
+    cosmetic: chained_monstruosity_back
+  crow_lord_wings:
+    slots:
+      - 20
+    item:
+      material: itemsadder:dark_fantasy_cosmetics_vol_1:crow_lord_wings
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_crow_lord_wings%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_crow_lord_wings%"
+    type: cosmetic
+    cosmetic: crow_lord_wings
+  noir_elegance_shoulderpads:
+    slots:
+      - 21
+    item:
+      material: itemsadder:dark_fantasy_cosmetics_vol_1:noir_elegance_shoulderpads
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_noir_elegance_shoulderpads%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_noir_elegance_shoulderpads%"
+    type: cosmetic
+    cosmetic: noir_elegance_shoulderpads
+
+  # ==========================================
+  # Dark Fantasy Vol. 4
+  # ==========================================
+  archmage_shoulderpads:
+    slots:
+      - 22
+    item:
+      material: itemsadder:dark_fantasy_cosmetics_vol_4:archmage_shoulderpads
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_archmage_shoulderpads%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_archmage_shoulderpads%"
+    type: cosmetic
+    cosmetic: archmage_shoulderpads
+  ritualistic_back:
+    slots:
+      - 23
+    item:
+      material: itemsadder:dark_fantasy_cosmetics_vol_4:ritualistic_back
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_ritualistic_back%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_ritualistic_back%"
+    type: cosmetic
+    cosmetic: ritualistic_back
+  skeleton_control_wings:
+    slots:
+      - 24
+    item:
+      material: itemsadder:dark_fantasy_cosmetics_vol_4:skeleton_control_wings
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_skeleton_control_wings%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_skeleton_control_wings%"
+    type: cosmetic
+    cosmetic: skeleton_control_wings
+  spike_lord_wings:
+    slots:
+      - 25
+    item:
+      material: itemsadder:dark_fantasy_cosmetics_vol_4:spike_lord_wings
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_spike_lord_wings%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_spike_lord_wings%"
+    type: cosmetic
+    cosmetic: spike_lord_wings
+
+  # ==========================================
+  # MOCOSMETICS
+  # ==========================================
+  angel_wings:
+    slots:
+      - 26
+    item:
+      material: itemsadder:mocosmetics:angel_wings
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_angel_wings%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_angel_wings%"
+    type: cosmetic
+    cosmetic: angel_wings
+  cyber_machine:
+    slots:
+      - 28
+    item:
+      material: itemsadder:mocosmetics:cyber_machine
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cyber_machine%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cyber_machine%"
+    type: cosmetic
+    cosmetic: cyber_machine
+  cyber_machine_blue:
+    slots:
+      - 29
+    item:
+      material: itemsadder:mocosmetics:cyber_machine_blue
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cyber_machine_blue%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cyber_machine_blue%"
+    type: cosmetic
+    cosmetic: cyber_machine_blue
+  cyber_machine_red:
+    slots:
+      - 30
+    item:
+      material: itemsadder:mocosmetics:cyber_machine_red
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cyber_machine_red%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cyber_machine_red%"
+    type: cosmetic
+    cosmetic: cyber_machine_red
+  demon_wings:
+    slots:
+      - 31
+    item:
+      material: itemsadder:mocosmetics:demon_wings
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_demon_wings%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_demon_wings%"
+    type: cosmetic
+    cosmetic: demon_wings
+  dragon_wings:
+    slots:
+      - 32
+    item:
+      material: itemsadder:mocosmetics:dragon_wings
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_dragon_wings%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_dragon_wings%"
+    type: cosmetic
+    cosmetic: dragon_wings
+  dragon_wings_blue:
+    slots:
+      - 33
+    item:
+      material: itemsadder:mocosmetics:dragon_wings_blue
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_dragon_wings_blue%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_dragon_wings_blue%"
+    type: cosmetic
+    cosmetic: dragon_wings_blue
+  dragon_wings_red:
+    slots:
+      - 34
+    item:
+      material: itemsadder:mocosmetics:dragon_wings_red
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_dragon_wings_red%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_dragon_wings_red%"
+    type: cosmetic
+    cosmetic: dragon_wings_red
+  phoenix_wings:
+    slots:
+      - 35
+    item:
+      material: itemsadder:mocosmetics:phoenix_wings
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_phoenix_wings%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_phoenix_wings%"
+    type: cosmetic
+    cosmetic: phoenix_wings
+  mythical_blades:
+    slots:
+      - 37
+    item:
+      material: itemsadder:mocosmetics:mythical_blades
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_mythical_blades%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_mythical_blades%"
+    type: cosmetic
+    cosmetic: mythical_blades
+
+  # ==========================================
+  # Navigation Buttons
+  # ==========================================
+  button_backpacks_menu:
+    slots:
+      - 0
+    item:
+      material: itemsadder:hmccosmetics:hmc_backpack_icon
+      name: "<blue>Backpack Cosmetics"
+      amount: 1
+    type: empty
+    actions:
+      any:
+        - "[MENU] defaultmenu_backpacks"
+        - "[SOUND] minecraft:ui.button.click 1 1"
+  button_hand_menu:
+    slots:
+      - 18
+    item:
+      material: itemsadder:hmccosmetics:hmc_hand_icon
+      name: "<blue>Hand Cosmetics"
+      amount: 1
+    type: empty
+    actions:
+      any:
+        - "[MENU] defaultmenu_hands"
+        - "[SOUND] minecraft:ui.button.click 1 1"
+  button_balloon_menu:
+    slots:
+      - 27
+    item:
+      material: itemsadder:hmccosmetics:hmc_balloon_icon
+      name: "<blue>Balloon Cosmetics"
+      amount: 1
+    type: empty
+    actions:
+      any:
+        - "[MENU] defaultmenu_balloons"
+        - "[SOUND] minecraft:ui.button.click 1 1"
+  button_hats_menu:
+    slots:
+      - 36
+    item:
+      material: itemsadder:hmccosmetics:hmc_hat_icon
+      name: "<blue>Hat Cosmetics"
+      amount: 1
+    type: empty
+    actions:
+      any:
+        - "[MENU] defaultmenu_hats"
+        - "[SOUND] minecraft:ui.button.click 1 1"

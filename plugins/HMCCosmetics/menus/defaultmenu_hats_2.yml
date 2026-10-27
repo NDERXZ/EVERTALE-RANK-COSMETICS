@@ -4,9 +4,153 @@ items:
   # ==========================================
   # Crowns & Diadems (Page 2)
   # ==========================================
-  frost_circlet:
+  royal_crown:
     slots:
       - 1
+    item:
+      material: itemsadder:crowns:royal_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_royal_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_royal_crown%"
+    type: cosmetic
+    cosmetic: royal_crown
+
+  renegade_crown:
+    slots:
+      - 2
+    item:
+      material: itemsadder:crowns:renegade_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_renegade_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_renegade_crown%"
+    type: cosmetic
+    cosmetic: renegade_crown
+
+  sculk_crown:
+    slots:
+      - 3
+    item:
+      material: itemsadder:crowns:sculk_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_sculk_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_sculk_crown%"
+    type: cosmetic
+    cosmetic: sculk_crown
+
+  skull_crown:
+    slots:
+      - 4
+    item:
+      material: itemsadder:crowns:skull_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_skull_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_skull_crown%"
+    type: cosmetic
+    cosmetic: skull_crown
+
+  floral_crown:
+    slots:
+      - 5
+    item:
+      material: itemsadder:crowns:floral_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_floral_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_floral_crown%"
+    type: cosmetic
+    cosmetic: floral_crown
+
+  rose_crown:
+    slots:
+      - 6
+    item:
+      material: itemsadder:crowns:rose_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_rose_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_rose_crown%"
+    type: cosmetic
+    cosmetic: rose_crown
+
+  lavender_crown:
+    slots:
+      - 7
+    item:
+      material: itemsadder:crowns:lavender_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_lavender_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_lavender_crown%"
+    type: cosmetic
+    cosmetic: lavender_crown
+
+  dandelion_crown:
+    slots:
+      - 8
+    item:
+      material: itemsadder:crowns:dandelion_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_dandelion_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_dandelion_crown%"
+    type: cosmetic
+    cosmetic: dandelion_crown
+
+  wreath_crown:
+    slots:
+      - 10
+    item:
+      material: itemsadder:crowns:wreath_crown
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_wreath_crown%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_wreath_crown%"
+    type: cosmetic
+    cosmetic: wreath_crown
+
+  goldleaf_wreath:
+    slots:
+      - 11
+    item:
+      material: itemsadder:crowns:goldleaf_wreath
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_goldleaf_wreath%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_goldleaf_wreath%"
+    type: cosmetic
+    cosmetic: goldleaf_wreath
+
+  autumn_wreath:
+    slots:
+      - 12
+    item:
+      material: itemsadder:crowns:autumn_wreath
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_autumn_wreath%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_autumn_wreath%"
+    type: cosmetic
+    cosmetic: autumn_wreath
+
+  blackleaf_wreath:
+    slots:
+      - 13
+    item:
+      material: itemsadder:crowns:blackleaf_wreath
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_blackleaf_wreath%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_blackleaf_wreath%"
+    type: cosmetic
+    cosmetic: blackleaf_wreath
+
+  frost_circlet:
+    slots:
+      - 14
     item:
       material: itemsadder:crowns:frost_circlet
       lore:
@@ -18,7 +162,7 @@ items:
 
   flame_circlet:
     slots:
-      - 2
+      - 15
     item:
       material: itemsadder:crowns:flame_circlet
       lore:
@@ -30,7 +174,7 @@ items:
 
   water_circlet:
     slots:
-      - 3
+      - 16
     item:
       material: itemsadder:crowns:water_circlet
       lore:
@@ -42,7 +186,7 @@ items:
 
   thunder_circlet:
     slots:
-      - 4
+      - 17
     item:
       material: itemsadder:crowns:thunder_circlet
       lore:
@@ -54,7 +198,7 @@ items:
 
   diamond_coronet:
     slots:
-      - 5
+      - 19
     item:
       material: itemsadder:crowns:diamond_coronet
       lore:
@@ -66,7 +210,7 @@ items:
 
   emerald_coronet:
     slots:
-      - 6
+      - 20
     item:
       material: itemsadder:crowns:emerald_coronet
       lore:
@@ -78,7 +222,7 @@ items:
 
   netherite_coronet:
     slots:
-      - 7
+      - 21
     item:
       material: itemsadder:crowns:netherite_coronet
       lore:
@@ -90,7 +234,7 @@ items:
 
   lapis_lazuli_coronet:
     slots:
-      - 8
+      - 22
     item:
       material: itemsadder:crowns:lapis_lazuli_coronet
       lore:
@@ -102,7 +246,7 @@ items:
 
   amethyst_diadem:
     slots:
-      - 10
+      - 23
     item:
       material: itemsadder:crowns:amethyst_diadem
       lore:
@@ -114,7 +258,7 @@ items:
 
   ruby_diadem:
     slots:
-      - 11
+      - 24
     item:
       material: itemsadder:crowns:ruby_diadem
       lore:
@@ -126,7 +270,7 @@ items:
 
   ender_diadem:
     slots:
-      - 12
+      - 25
     item:
       material: itemsadder:crowns:ender_diadem
       lore:
@@ -138,7 +282,7 @@ items:
 
   crystal_diadem:
     slots:
-      - 13
+      - 26
     item:
       material: itemsadder:crowns:crystal_diadem
       lore:
@@ -150,7 +294,7 @@ items:
 
   harpers_headset:
     slots:
-      - 14
+      - 28
     item:
       material: itemsadder:crowns:harpers_headset
       lore:
@@ -162,7 +306,7 @@ items:
 
   eversource_crown:
     slots:
-      - 15
+      - 29
     item:
       material: itemsadder:crowns:eversource_crown
       lore:
@@ -174,7 +318,7 @@ items:
 
   diving_helmet:
     slots:
-      - 16
+      - 30
     item:
       material: itemsadder:crowns:diving_helmet
       lore:
@@ -185,8 +329,25 @@ items:
     cosmetic: diving_helmet
 
   # ==========================================
-  # Navigation Buttons
+  # Pagination & Navigation Buttons
   # ==========================================
+  button_previous_page:
+    slots:
+      - 46
+    item:
+      material: itemsadder:hmccosmetics:arrow_back
+      name: "<blue><bold>« Topi Standar (Halaman 1)</bold></blue>"
+      lore:
+        - ""
+        - "<gray>Klik untuk kembali ke"
+        - "<aqua>Topi Standar (Halaman 1)"
+      amount: 1
+    type: empty
+    actions:
+      any:
+        - "[MENU] defaultmenu_hats"
+        - "[SOUND] minecraft:ui.button.click 1 1"
+
   button_hats_menu:
     slots:
       - 0
@@ -237,30 +398,4 @@ items:
     actions:
       any:
         - "[MENU] defaultmenu_balloons"
-        - "[SOUND] minecraft:ui.button.click 1 1"
-
-  button_crowns_menu:
-    slots:
-      - 45
-    item:
-      material: itemsadder:crowns:royal_crown
-      name: "<gold>Crowns & Diadems"
-      amount: 1
-    type: empty
-    actions:
-      any:
-        - "[MENU] defaultmenu_crowns"
-        - "[SOUND] minecraft:ui.button.click 1 1"
-
-  button_previous_page:
-    slots:
-      - 46
-    item:
-      material: itemsadder:hmccosmetics:arrow_back
-      name: "<blue>Previous Page"
-      amount: 1
-    type: empty
-    actions:
-      any:
-        - "[MENU] defaultmenu_hats"
         - "[SOUND] minecraft:ui.button.click 1 1"

@@ -2,7 +2,7 @@ title: "<white>:offset_-8::hmcc_cosmetics_gui:"
 rows: 6
 items:
   # ==========================================
-  # Crowns & Diadems Cosmetics
+  # Crowns & Diadems (Page 2)
   # ==========================================
   royal_crown:
     slots:
@@ -329,14 +329,31 @@ items:
     cosmetic: diving_helmet
 
   # ==========================================
-  # Navigation Buttons
+  # Pagination & Navigation Buttons
   # ==========================================
+  button_previous_page:
+    slots:
+      - 46
+    item:
+      material: itemsadder:hmccosmetics:arrow_back
+      name: "<blue><bold>« Topi Standar (Halaman 1)</bold></blue>"
+      lore:
+        - ""
+        - "<gray>Klik untuk kembali ke"
+        - "<aqua>Topi Standar (Halaman 1)"
+      amount: 1
+    type: empty
+    actions:
+      any:
+        - "[MENU] defaultmenu_hats"
+        - "[SOUND] minecraft:ui.button.click 1 1"
+
   button_hats_menu:
     slots:
       - 0
     item:
       material: itemsadder:hmccosmetics:hmc_hat_icon
-      name: "<blue>Hat Cosmetics"
+      name: "<blue>Hat Cosmetics (Page 1)"
       amount: 1
     type: empty
     actions:
@@ -381,17 +398,4 @@ items:
     actions:
       any:
         - "[MENU] defaultmenu_balloons"
-        - "[SOUND] minecraft:ui.button.click 1 1"
-
-  button_crowns_menu:
-    slots:
-      - 45
-    item:
-      material: itemsadder:crowns:royal_crown
-      name: "<gold>Crowns & Diadems"
-      amount: 1
-    type: empty
-    actions:
-      any:
-        - "[MENU] defaultmenu_crowns"
         - "[SOUND] minecraft:ui.button.click 1 1"

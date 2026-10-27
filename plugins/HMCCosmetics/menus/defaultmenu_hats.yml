@@ -393,8 +393,7 @@ items:
     cosmetic: panda_hat
 
   # ==========================================
-  # Unicorn Cosmetics
-  # ==========================================
+
   unicorn_hat:
     slots:
       - 38
@@ -406,6 +405,7 @@ items:
         - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_unicorn_hat%"
     type: cosmetic
     cosmetic: unicorn_hat
+
   unicorn_hat_dyeable:
     slots:
       - 39
@@ -418,159 +418,16 @@ items:
     type: cosmetic
     cosmetic: unicorn_hat_dyeable
 
-  # ==========================================
-  # Crowns & Diadems (Page 1)
-  # ==========================================
-  royal_crown:
-    slots:
-      - 40
-    item:
-      material: itemsadder:crowns:royal_crown
-      lore:
-        - ""
-        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_royal_crown%"
-        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_royal_crown%"
-    type: cosmetic
-    cosmetic: royal_crown
-
-  renegade_crown:
-    slots:
-      - 41
-    item:
-      material: itemsadder:crowns:renegade_crown
-      lore:
-        - ""
-        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_renegade_crown%"
-        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_renegade_crown%"
-    type: cosmetic
-    cosmetic: renegade_crown
-
-  sculk_crown:
-    slots:
-      - 42
-    item:
-      material: itemsadder:crowns:sculk_crown
-      lore:
-        - ""
-        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_sculk_crown%"
-        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_sculk_crown%"
-    type: cosmetic
-    cosmetic: sculk_crown
-
-  skull_crown:
-    slots:
-      - 43
-    item:
-      material: itemsadder:crowns:skull_crown
-      lore:
-        - ""
-        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_skull_crown%"
-        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_skull_crown%"
-    type: cosmetic
-    cosmetic: skull_crown
-
-  floral_crown:
-    slots:
-      - 44
-    item:
-      material: itemsadder:crowns:floral_crown
-      lore:
-        - ""
-        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_floral_crown%"
-        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_floral_crown%"
-    type: cosmetic
-    cosmetic: floral_crown
-
-  rose_crown:
-    slots:
-      - 46
-    item:
-      material: itemsadder:crowns:rose_crown
-      lore:
-        - ""
-        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_rose_crown%"
-        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_rose_crown%"
-    type: cosmetic
-    cosmetic: rose_crown
-
-  lavender_crown:
-    slots:
-      - 47
-    item:
-      material: itemsadder:crowns:lavender_crown
-      lore:
-        - ""
-        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_lavender_crown%"
-        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_lavender_crown%"
-    type: cosmetic
-    cosmetic: lavender_crown
-
-  dandelion_crown:
-    slots:
-      - 48
-    item:
-      material: itemsadder:crowns:dandelion_crown
-      lore:
-        - ""
-        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_dandelion_crown%"
-        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_dandelion_crown%"
-    type: cosmetic
-    cosmetic: dandelion_crown
-
-  wreath_crown:
-    slots:
-      - 49
-    item:
-      material: itemsadder:crowns:wreath_crown
-      lore:
-        - ""
-        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_wreath_crown%"
-        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_wreath_crown%"
-    type: cosmetic
-    cosmetic: wreath_crown
-
-  goldleaf_wreath:
-    slots:
-      - 50
-    item:
-      material: itemsadder:crowns:goldleaf_wreath
-      lore:
-        - ""
-        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_goldleaf_wreath%"
-        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_goldleaf_wreath%"
-    type: cosmetic
-    cosmetic: goldleaf_wreath
-
-  autumn_wreath:
-    slots:
-      - 51
-    item:
-      material: itemsadder:crowns:autumn_wreath
-      lore:
-        - ""
-        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_autumn_wreath%"
-        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_autumn_wreath%"
-    type: cosmetic
-    cosmetic: autumn_wreath
-
-  blackleaf_wreath:
-    slots:
-      - 52
-    item:
-      material: itemsadder:crowns:blackleaf_wreath
-      lore:
-        - ""
-        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_blackleaf_wreath%"
-        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_blackleaf_wreath%"
-    type: cosmetic
-    cosmetic: blackleaf_wreath
-
   button_next_page:
     slots:
       - 53
     item:
       material: itemsadder:hmccosmetics:arrow_next
-      name: "<blue>Next Page"
+      name: "<gold><bold>Kategori Mahkota (Crowns) »</bold></gold>"
+      lore:
+        - ""
+        - "<gray>Klik untuk membuka koleksi"
+        - "<yellow>Mahkota & Diadem (Halaman 2)"
       amount: 1
     type: empty
     actions:
@@ -578,7 +435,6 @@ items:
         - "[MENU] defaultmenu_hats_2"
         - "[SOUND] minecraft:ui.button.click 1 1"
 
-  # ==========================================
   # Navigation Buttons
   # ==========================================
   button_hats_menu:
@@ -628,16 +484,4 @@ items:
     actions:
       any:
         - "[MENU] defaultmenu_balloons"
-        - "[SOUND] minecraft:ui.button.click 1 1"
-  button_crowns_menu:
-    slots:
-      - 45
-    item:
-      material: itemsadder:crowns:royal_crown
-      name: "<gold>Crowns & Diadems"
-      amount: 1
-    type: empty
-    actions:
-      any:
-        - "[MENU] defaultmenu_crowns"
         - "[SOUND] minecraft:ui.button.click 1 1"

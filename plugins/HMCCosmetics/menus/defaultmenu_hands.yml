@@ -1,0 +1,331 @@
+title: "<white>:offset_-8::hmcc_cosmetics_gui:"
+rows: 6
+items:
+  # ==========================================
+  # Default Cosmetics
+  # ==========================================
+  lantern_cosmetic:
+    slots:
+      - 1
+    item:
+      material: itemsadder:hmccosmetics:lantern_cosmetic
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_lantern_cosmetic%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_lantern_cosmetic%"
+    type: cosmetic
+    cosmetic: lantern_cosmetic
+  hammer:
+    slots:
+      - 2
+    item:
+      material: itemsadder:hmccosmetics:hammer
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_hammer%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_hammer%" 
+    type: cosmetic
+    cosmetic: hammer
+  earth_day_grabber:
+    slots:
+      - 3
+    item:
+      material: itemsadder:hmccosmetics:earth_day_grabber
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_earth_day_grabber%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_earth_day_grabber%" 
+    type: cosmetic
+    cosmetic: earth_day_grabber
+
+  # ==========================================
+  # Cosmetic Pack V1
+  # ==========================================
+  cp1_ninja_hand:
+    slots:
+      - 4
+    item:
+      material: itemsadder:cosmetic_packv1:cp1_ninja_hand
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp1_ninja_hand%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp1_ninja_hand%"
+    type: cosmetic
+    cosmetic: cp1_ninja_hand
+  cp1_knight_hand:
+    slots:
+      - 5
+    item:
+      material: itemsadder:cosmetic_packv1:cp1_knight_hand
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp1_knight_hand%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp1_knight_hand%"
+    type: cosmetic
+    cosmetic: cp1_knight_hand
+  cp1_wizard_hand:
+    slots:
+      - 6
+    item:
+      material: itemsadder:cosmetic_packv1:cp1_wizard_hand
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp1_wizard_hand%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp1_wizard_hand%"
+    type: cosmetic
+    cosmetic: cp1_wizard_hand
+  cp1_frozen_hand:
+    slots:
+      - 7
+    item:
+      material: itemsadder:cosmetic_packv1:cp1_frozen_hand
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp1_frozen_hand%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp1_frozen_hand%"
+    type: cosmetic
+    cosmetic: cp1_frozen_hand
+  cp1_ender_hand:
+    slots:
+      - 8
+    item:
+      material: itemsadder:cosmetic_packv1:cp1_ender_hand
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp1_ender_hand%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp1_ender_hand%"
+    type: cosmetic
+    cosmetic: cp1_ender_hand
+
+  # ==========================================
+  # Cosmetic Pack V2
+  # ==========================================
+  cp2_diver_hand:
+    slots:
+      - 10
+    item:
+      material: itemsadder:cosmetic_packv2:cp2_diver_hand
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp2_diver_hand%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp2_diver_hand%"
+    type: cosmetic
+    cosmetic: cp2_diver_hand
+  cp2_nether_beetle_hand:
+    slots:
+      - 11
+    item:
+      material: itemsadder:cosmetic_packv2:cp2_nether_beetle_hand
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp2_nether_beetle_hand%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp2_nether_beetle_hand%"
+    type: cosmetic
+    cosmetic: cp2_nether_beetle_hand
+  cp2_skulk_hand:
+    slots:
+      - 12
+    item:
+      material: itemsadder:cosmetic_packv2:cp2_skulk_hand
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp2_skulk_hand%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp2_skulk_hand%"
+    type: cosmetic
+    cosmetic: cp2_skulk_hand
+  cp2_summer_hand:
+    slots:
+      - 13
+    item:
+      material: itemsadder:cosmetic_packv2:cp2_summer_hand
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp2_summer_hand%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp2_summer_hand%"
+    type: cosmetic
+    cosmetic: cp2_summer_hand
+  cp2_tiki_hand:
+    slots:
+      - 14
+    item:
+      material: itemsadder:cosmetic_packv2:cp2_tiki_hand
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cp2_tiki_hand%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cp2_tiki_hand%"
+    type: cosmetic
+    cosmetic: cp2_tiki_hand
+
+  # ==========================================
+  # Sniffer Cosmetics
+  # ==========================================
+  sniffer_staff:
+    slots:
+      - 15
+    item:
+      material: itemsadder:cosmetics:sniffer_staff
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_sniffer_staff%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_sniffer_staff%"
+    type: cosmetic
+    cosmetic: sniffer_staff
+  sniffer_sword:
+    slots:
+      - 16
+    item:
+      material: itemsadder:cosmetics:sniffer_sword
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_sniffer_sword%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_sniffer_sword%"
+    type: cosmetic
+    cosmetic: sniffer_sword
+
+  # ==========================================
+  # Dark Fantasy Vol. 1
+  # ==========================================
+  cemetery_witch_broom:
+    slots:
+      - 17
+    item:
+      material: itemsadder:dark_fantasy_cosmetics_vol_1:cemetery_witch_broom
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_cemetery_witch_broom%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_cemetery_witch_broom%"
+    type: cosmetic
+    cosmetic: cemetery_witch_broom
+  chained_monstruosity_sword:
+    slots:
+      - 19
+    item:
+      material: itemsadder:dark_fantasy_cosmetics_vol_1:chained_monstruosity_sword
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_chained_monstruosity_sword%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_chained_monstruosity_sword%"
+    type: cosmetic
+    cosmetic: chained_monstruosity_sword
+  crow_lord_staff:
+    slots:
+      - 20
+    item:
+      material: itemsadder:dark_fantasy_cosmetics_vol_1:crow_lord_staff
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_crow_lord_staff%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_crow_lord_staff%"
+    type: cosmetic
+    cosmetic: crow_lord_staff
+  noir_elegance_staff:
+    slots:
+      - 21
+    item:
+      material: itemsadder:dark_fantasy_cosmetics_vol_1:noir_elegance_staff
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_noir_elegance_staff%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_noir_elegance_staff%"
+    type: cosmetic
+    cosmetic: noir_elegance_staff
+
+  # ==========================================
+  # Dark Fantasy Vol. 4
+  # ==========================================
+  archmage_staff:
+    slots:
+      - 22
+    item:
+      material: itemsadder:dark_fantasy_cosmetics_vol_4:archmage_staff
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_archmage_staff%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_archmage_staff%"
+    type: cosmetic
+    cosmetic: archmage_staff
+  ritualistic_staff:
+    slots:
+      - 23
+    item:
+      material: itemsadder:dark_fantasy_cosmetics_vol_4:ritualistic_staff
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_ritualistic_staff%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_ritualistic_staff%"
+    type: cosmetic
+    cosmetic: ritualistic_staff
+  skeleton_control_mace:
+    slots:
+      - 24
+    item:
+      material: itemsadder:dark_fantasy_cosmetics_vol_4:skeleton_control_mace
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_skeleton_control_mace%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_skeleton_control_mace%"
+    type: cosmetic
+    cosmetic: skeleton_control_mace
+  spike_lord_sword:
+    slots:
+      - 25
+    item:
+      material: itemsadder:dark_fantasy_cosmetics_vol_4:spike_lord_sword
+      lore:
+        - ""
+        - "<gray>Enabled: <#6D9DC5>%HMCCosmetics_equipped_spike_lord_sword%"
+        - "<gray>Allowed: <#6D9DC5>%HMCCosmetics_unlocked_spike_lord_sword%"
+    type: cosmetic
+    cosmetic: spike_lord_sword
+
+  # ==========================================
+  # Navigation Buttons
+  # ==========================================
+  button_backpacks_menu:
+    slots:
+      - 36
+    item:
+      material: itemsadder:hmccosmetics:hmc_backpack_icon
+      name: "<blue>Backpack Cosmetics"
+      amount: 1
+    type: empty
+    actions:
+      any:
+        - "[MENU] defaultmenu_backpacks"
+        - "[SOUND] minecraft:ui.button.click 1 1"
+  button_hand_menu:
+    slots:
+      - 0
+    item:
+      material: itemsadder:hmccosmetics:hmc_hand_icon
+      name: "<blue>Hand Cosmetics"
+      amount: 1
+    type: empty
+    actions:
+      any:
+        - "[MENU] defaultmenu_hands"
+        - "[SOUND] minecraft:ui.button.click 1 1"
+  button_balloon_menu:
+    slots:
+      - 18
+    item:
+      material: itemsadder:hmccosmetics:hmc_balloon_icon
+      name: "<blue>Balloon Cosmetics"
+      amount: 1
+    type: empty
+    actions:
+      any:
+        - "[MENU] defaultmenu_balloons"
+        - "[SOUND] minecraft:ui.button.click 1 1"
+  button_hats_menu:
+    slots:
+      - 27
+    item:
+      material: itemsadder:hmccosmetics:hmc_hat_icon
+      name: "<blue>Hat Cosmetics"
+      amount: 1
+    type: empty
+    actions:
+      any:
+        - "[MENU] defaultmenu_hats"
+        - "[SOUND] minecraft:ui.button.click 1 1"
