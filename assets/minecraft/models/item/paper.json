@@ -540,171 +540,165 @@
     },
     {
       "predicate": {
-        "custom_model_data": 10090
+        "custom_model_data": 10089
       },
       "model": "crowns:royal_crown"
     },
     {
       "predicate": {
-        "custom_model_data": 10091
+        "custom_model_data": 10090
       },
       "model": "crowns:renegade_crown"
     },
     {
       "predicate": {
-        "custom_model_data": 10092
+        "custom_model_data": 10091
       },
       "model": "crowns:sculk_crown"
     },
     {
       "predicate": {
-        "custom_model_data": 10093
+        "custom_model_data": 10092
       },
       "model": "crowns:skull_crown"
     },
     {
       "predicate": {
-        "custom_model_data": 10094
+        "custom_model_data": 10093
       },
       "model": "crowns:floral_crown"
     },
     {
       "predicate": {
-        "custom_model_data": 10095
+        "custom_model_data": 10094
       },
       "model": "crowns:rose_crown"
     },
     {
       "predicate": {
-        "custom_model_data": 10096
+        "custom_model_data": 10095
       },
       "model": "crowns:lavender_crown"
     },
     {
       "predicate": {
-        "custom_model_data": 10097
+        "custom_model_data": 10096
       },
       "model": "crowns:dandelion_crown"
     },
     {
       "predicate": {
-        "custom_model_data": 10098
+        "custom_model_data": 10097
       },
       "model": "crowns:wreath_crown"
     },
     {
       "predicate": {
-        "custom_model_data": 10099
+        "custom_model_data": 10098
       },
       "model": "crowns:goldleaf_wreath"
     },
     {
       "predicate": {
-        "custom_model_data": 10100
+        "custom_model_data": 10099
       },
       "model": "crowns:autumn_wreath"
     },
     {
       "predicate": {
-        "custom_model_data": 10101
+        "custom_model_data": 10100
       },
       "model": "crowns:blackleaf_wreath"
     },
     {
       "predicate": {
-        "custom_model_data": 10102
+        "custom_model_data": 10101
       },
       "model": "crowns:frost_circlet"
     },
     {
       "predicate": {
-        "custom_model_data": 10103
+        "custom_model_data": 10102
       },
       "model": "crowns:flame_circlet"
     },
     {
       "predicate": {
-        "custom_model_data": 10104
+        "custom_model_data": 10103
       },
       "model": "crowns:water_circlet"
     },
     {
       "predicate": {
-        "custom_model_data": 10105
+        "custom_model_data": 10104
       },
       "model": "crowns:thunder_circlet"
     },
     {
       "predicate": {
-        "custom_model_data": 10106
+        "custom_model_data": 10105
       },
       "model": "crowns:diamond_coronet"
     },
     {
       "predicate": {
-        "custom_model_data": 10107
+        "custom_model_data": 10106
       },
       "model": "crowns:emerald_coronet"
     },
     {
       "predicate": {
-        "custom_model_data": 10108
+        "custom_model_data": 10107
       },
       "model": "crowns:netherite_coronet"
     },
     {
       "predicate": {
-        "custom_model_data": 10109
+        "custom_model_data": 10108
       },
       "model": "crowns:lapis_lazuli_coronet"
     },
     {
       "predicate": {
-        "custom_model_data": 10110
+        "custom_model_data": 10109
       },
       "model": "crowns:amethyst_diadem"
     },
     {
       "predicate": {
-        "custom_model_data": 10111
+        "custom_model_data": 10110
       },
       "model": "crowns:ruby_diadem"
     },
     {
       "predicate": {
-        "custom_model_data": 10112
+        "custom_model_data": 10111
       },
       "model": "crowns:ender_diadem"
     },
     {
       "predicate": {
-        "custom_model_data": 10113
+        "custom_model_data": 10112
       },
       "model": "crowns:crystal_diadem"
     },
     {
       "predicate": {
-        "custom_model_data": 10114
+        "custom_model_data": 10113
       },
       "model": "crowns:harpers_headset"
     },
     {
       "predicate": {
-        "custom_model_data": 10115
+        "custom_model_data": 10114
       },
       "model": "crowns:eversource_crown"
     },
     {
       "predicate": {
-        "custom_model_data": 10116
+        "custom_model_data": 10115
       },
       "model": "crowns:diving_helmet"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 10089
-      },
-      "model": "item/paper"
     }
   ]
 }

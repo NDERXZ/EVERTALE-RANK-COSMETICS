@@ -635,193 +635,186 @@
         "threshold": 10089,
         "model": {
           "type": "model",
-          "model": "item/paper"
+          "model": "crowns:royal_crown"
         }
       },
       {
         "threshold": 10090,
         "model": {
           "type": "model",
-          "model": "crowns:royal_crown"
+          "model": "crowns:renegade_crown"
         }
       },
       {
         "threshold": 10091,
         "model": {
           "type": "model",
-          "model": "crowns:renegade_crown"
+          "model": "crowns:sculk_crown"
         }
       },
       {
         "threshold": 10092,
         "model": {
           "type": "model",
-          "model": "crowns:sculk_crown"
+          "model": "crowns:skull_crown"
         }
       },
       {
         "threshold": 10093,
         "model": {
           "type": "model",
-          "model": "crowns:skull_crown"
+          "model": "crowns:floral_crown"
         }
       },
       {
         "threshold": 10094,
         "model": {
           "type": "model",
-          "model": "crowns:floral_crown"
+          "model": "crowns:rose_crown"
         }
       },
       {
         "threshold": 10095,
         "model": {
           "type": "model",
-          "model": "crowns:rose_crown"
+          "model": "crowns:lavender_crown"
         }
       },
       {
         "threshold": 10096,
         "model": {
           "type": "model",
-          "model": "crowns:lavender_crown"
+          "model": "crowns:dandelion_crown"
         }
       },
       {
         "threshold": 10097,
         "model": {
           "type": "model",
-          "model": "crowns:dandelion_crown"
+          "model": "crowns:wreath_crown"
         }
       },
       {
         "threshold": 10098,
         "model": {
           "type": "model",
-          "model": "crowns:wreath_crown"
+          "model": "crowns:goldleaf_wreath"
         }
       },
       {
         "threshold": 10099,
         "model": {
           "type": "model",
-          "model": "crowns:goldleaf_wreath"
+          "model": "crowns:autumn_wreath"
         }
       },
       {
         "threshold": 10100,
         "model": {
           "type": "model",
-          "model": "crowns:autumn_wreath"
+          "model": "crowns:blackleaf_wreath"
         }
       },
       {
         "threshold": 10101,
         "model": {
           "type": "model",
-          "model": "crowns:blackleaf_wreath"
+          "model": "crowns:frost_circlet"
         }
       },
       {
         "threshold": 10102,
         "model": {
           "type": "model",
-          "model": "crowns:frost_circlet"
+          "model": "crowns:flame_circlet"
         }
       },
       {
         "threshold": 10103,
         "model": {
           "type": "model",
-          "model": "crowns:flame_circlet"
+          "model": "crowns:water_circlet"
         }
       },
       {
         "threshold": 10104,
         "model": {
           "type": "model",
-          "model": "crowns:water_circlet"
+          "model": "crowns:thunder_circlet"
         }
       },
       {
         "threshold": 10105,
         "model": {
           "type": "model",
-          "model": "crowns:thunder_circlet"
+          "model": "crowns:diamond_coronet"
         }
       },
       {
         "threshold": 10106,
         "model": {
           "type": "model",
-          "model": "crowns:diamond_coronet"
+          "model": "crowns:emerald_coronet"
         }
       },
       {
         "threshold": 10107,
         "model": {
           "type": "model",
-          "model": "crowns:emerald_coronet"
+          "model": "crowns:netherite_coronet"
         }
       },
       {
         "threshold": 10108,
         "model": {
           "type": "model",
-          "model": "crowns:netherite_coronet"
+          "model": "crowns:lapis_lazuli_coronet"
         }
       },
       {
         "threshold": 10109,
         "model": {
           "type": "model",
-          "model": "crowns:lapis_lazuli_coronet"
+          "model": "crowns:amethyst_diadem"
         }
       },
       {
         "threshold": 10110,
         "model": {
           "type": "model",
-          "model": "crowns:amethyst_diadem"
+          "model": "crowns:ruby_diadem"
         }
       },
       {
         "threshold": 10111,
         "model": {
           "type": "model",
-          "model": "crowns:ruby_diadem"
+          "model": "crowns:ender_diadem"
         }
       },
       {
         "threshold": 10112,
         "model": {
           "type": "model",
-          "model": "crowns:ender_diadem"
+          "model": "crowns:crystal_diadem"
         }
       },
       {
         "threshold": 10113,
         "model": {
           "type": "model",
-          "model": "crowns:crystal_diadem"
+          "model": "crowns:harpers_headset"
         }
       },
       {
         "threshold": 10114,
         "model": {
           "type": "model",
-          "model": "crowns:harpers_headset"
-        }
-      },
-      {
-        "threshold": 10115,
-        "model": {
-          "type": "model",
           "model": "crowns:eversource_crown"
         }
       },
       {
-        "threshold": 10116,
+        "threshold": 10115,
         "model": {
           "type": "model",
           "model": "crowns:diving_helmet"

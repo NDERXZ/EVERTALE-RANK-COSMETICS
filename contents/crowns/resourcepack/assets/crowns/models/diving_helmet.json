@@ -1,8 +1,8 @@
 {
   "credit": "EvertaleMC Crowns & Diadems",
   "texture_size": [
-    64,
-    32
+    128,
+    64
   ],
   "textures": {
     "0": "crowns:diving_helmet_model",
@@ -12,14 +12,14 @@
     {
       "name": "inner_head",
       "from": [
-        0,
-        0,
-        0
+        -0.4,
+        -0.4,
+        -0.4
       ],
       "to": [
-        16,
-        16,
-        16
+        16.4,
+        16.4,
+        16.4
       ],
       "faces": {
         "north": {
@@ -81,14 +81,14 @@
     {
       "name": "outer_overlay",
       "from": [
-        -0.5,
-        -0.5,
-        -0.5
+        -0.8,
+        -0.8,
+        -0.8
       ],
       "to": [
-        16.5,
-        16.5,
-        16.5
+        16.8,
+        16.8,
+        16.8
       ],
       "faces": {
         "north": {
@@ -239,7 +239,7 @@
     "head": {
       "translation": [
         0,
-        0,
+        1,
         0
       ],
       "scale": [

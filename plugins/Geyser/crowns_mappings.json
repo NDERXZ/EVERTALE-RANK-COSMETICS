@@ -6,163 +6,163 @@
         "name": "crowns_royal_crown",
         "allow_offhand": false,
         "icon": "crowns_royal_crown",
-        "custom_model_data": 10090
+        "custom_model_data": 10089
       },
       {
         "name": "crowns_renegade_crown",
         "allow_offhand": false,
         "icon": "crowns_renegade_crown",
-        "custom_model_data": 10091
+        "custom_model_data": 10090
       },
       {
         "name": "crowns_sculk_crown",
         "allow_offhand": false,
         "icon": "crowns_sculk_crown",
-        "custom_model_data": 10092
+        "custom_model_data": 10091
       },
       {
         "name": "crowns_skull_crown",
         "allow_offhand": false,
         "icon": "crowns_skull_crown",
-        "custom_model_data": 10093
+        "custom_model_data": 10092
       },
       {
         "name": "crowns_floral_crown",
         "allow_offhand": false,
         "icon": "crowns_floral_crown",
-        "custom_model_data": 10094
+        "custom_model_data": 10093
       },
       {
         "name": "crowns_rose_crown",
         "allow_offhand": false,
         "icon": "crowns_rose_crown",
-        "custom_model_data": 10095
+        "custom_model_data": 10094
       },
       {
         "name": "crowns_lavender_crown",
         "allow_offhand": false,
         "icon": "crowns_lavender_crown",
-        "custom_model_data": 10096
+        "custom_model_data": 10095
       },
       {
         "name": "crowns_dandelion_crown",
         "allow_offhand": false,
         "icon": "crowns_dandelion_crown",
-        "custom_model_data": 10097
+        "custom_model_data": 10096
       },
       {
         "name": "crowns_wreath_crown",
         "allow_offhand": false,
         "icon": "crowns_wreath_crown",
-        "custom_model_data": 10098
+        "custom_model_data": 10097
       },
       {
         "name": "crowns_goldleaf_wreath",
         "allow_offhand": false,
         "icon": "crowns_goldleaf_wreath",
-        "custom_model_data": 10099
+        "custom_model_data": 10098
       },
       {
         "name": "crowns_autumn_wreath",
         "allow_offhand": false,
         "icon": "crowns_autumn_wreath",
-        "custom_model_data": 10100
+        "custom_model_data": 10099
       },
       {
         "name": "crowns_blackleaf_wreath",
         "allow_offhand": false,
         "icon": "crowns_blackleaf_wreath",
-        "custom_model_data": 10101
+        "custom_model_data": 10100
       },
       {
         "name": "crowns_frost_circlet",
         "allow_offhand": false,
         "icon": "crowns_frost_circlet",
-        "custom_model_data": 10102
+        "custom_model_data": 10101
       },
       {
         "name": "crowns_flame_circlet",
         "allow_offhand": false,
         "icon": "crowns_flame_circlet",
-        "custom_model_data": 10103
+        "custom_model_data": 10102
       },
       {
         "name": "crowns_water_circlet",
         "allow_offhand": false,
         "icon": "crowns_water_circlet",
-        "custom_model_data": 10104
+        "custom_model_data": 10103
       },
       {
         "name": "crowns_thunder_circlet",
         "allow_offhand": false,
         "icon": "crowns_thunder_circlet",
-        "custom_model_data": 10105
+        "custom_model_data": 10104
       },
       {
         "name": "crowns_diamond_coronet",
         "allow_offhand": false,
         "icon": "crowns_diamond_coronet",
-        "custom_model_data": 10106
+        "custom_model_data": 10105
       },
       {
         "name": "crowns_emerald_coronet",
         "allow_offhand": false,
         "icon": "crowns_emerald_coronet",
-        "custom_model_data": 10107
+        "custom_model_data": 10106
       },
       {
         "name": "crowns_netherite_coronet",
         "allow_offhand": false,
         "icon": "crowns_netherite_coronet",
-        "custom_model_data": 10108
+        "custom_model_data": 10107
       },
       {
         "name": "crowns_lapis_lazuli_coronet",
         "allow_offhand": false,
         "icon": "crowns_lapis_lazuli_coronet",
-        "custom_model_data": 10109
+        "custom_model_data": 10108
       },
       {
         "name": "crowns_amethyst_diadem",
         "allow_offhand": false,
         "icon": "crowns_amethyst_diadem",
-        "custom_model_data": 10110
+        "custom_model_data": 10109
       },
       {
         "name": "crowns_ruby_diadem",
         "allow_offhand": false,
         "icon": "crowns_ruby_diadem",
-        "custom_model_data": 10111
+        "custom_model_data": 10110
       },
       {
         "name": "crowns_ender_diadem",
         "allow_offhand": false,
         "icon": "crowns_ender_diadem",
-        "custom_model_data": 10112
+        "custom_model_data": 10111
       },
       {
         "name": "crowns_crystal_diadem",
         "allow_offhand": false,
         "icon": "crowns_crystal_diadem",
-        "custom_model_data": 10113
+        "custom_model_data": 10112
       },
       {
         "name": "crowns_harpers_headset",
         "allow_offhand": false,
         "icon": "crowns_harpers_headset",
-        "custom_model_data": 10114
+        "custom_model_data": 10113
       },
       {
         "name": "crowns_eversource_crown",
         "allow_offhand": false,
         "icon": "crowns_eversource_crown",
-        "custom_model_data": 10115
+        "custom_model_data": 10114
       },
       {
         "name": "crowns_diving_helmet",
         "allow_offhand": false,
         "icon": "crowns_diving_helmet",
-        "custom_model_data": 10116
+        "custom_model_data": 10115
       }
     ]
   }
