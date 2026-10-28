@@ -52,7 +52,7 @@ items:
       - '&e▶ Klik untuk memasang otomatis!'
     left_click_commands:
       - '[close]'
-      - '[player] iaapply'
+      - '[console] iatexture %player_name%'
       - '[message] &6&lEVERTALE &8» &aMengirim ulang permintaan Resource Pack...'
       - '[sound] ENTITY_EXPERIENCE_ORB_PICKUP'
 

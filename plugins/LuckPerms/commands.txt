@@ -1,7 +1,13 @@
 # ==============================================================================
-# LuckPerms Commands: Grant All Cosmetics to Media and Admin Ranks
+# LuckPerms Commands: Permissions for Default Players, Admin and Media Ranks
 # Run these commands in your Minecraft Server Console or in-game with /lp permission
 # ==============================================================================
+
+# --- DEFAULT PLAYERS (Texturepack & Basic ItemsAdder usage) ---
+/lp group default permission set ia.user.iatexture true
+/lp group default permission set ia.user.iapack true
+/lp group default permission set ia.user.ia true
+/lp group default permission set ia.user.iarecipe true
 
 # --- ADMIN RANK (Can wear and use all cosmetics) ---
 /lp group admin permission set hmccosmetics.* true
