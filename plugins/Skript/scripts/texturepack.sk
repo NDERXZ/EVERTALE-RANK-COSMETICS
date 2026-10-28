@@ -1,71 +1,40 @@
-# ==============================================================================
-# EvertaleMC - Texturepack Management Script
-# Handles automatic texture pack loading on join & /txt command
-# ==============================================================================
-
-command /txt [<text>]:
-    aliases: /texture, /texturepack, /pack, /resourcepack
-    description: Pasang otomatis dan download texturepack EvertaleMC
+command /txt:
+    aliases: /texture, /texturepack
+    description: Informasi dan link download texturepack EvertaleMC
     trigger:
-        if name of player starts with ".":
-            send "&8&m----------------------------------------" to player
-            send "&6&l           EVERTALE MC TEXTUREPACK" to player
-            send "&8&m----------------------------------------" to player
-            send "&b&l📱 Pemain Bedrock / Mobile:" to player
-            send "&eTexturepack dan cosmetic pemain Bedrock sudah otomatis" to player
-            send "&eaktif melalui Geyser. Kamu tidak perlu memasang pack Java!" to player
-            send "&8&m----------------------------------------" to player
-            stop
-        
-        execute console command "iatexture %player%"
-        send title "&6&lEVERTALE MC" with subtitle "&eMengirim texture pack..." to player for 3 seconds
-        send action bar "&a✔ Mengirim texturepack ke layar kamu!" to player
-        
         send "&8&m----------------------------------------" to player
         send "&6&l           EVERTALE MC TEXTUREPACK" to player
         send "&8&m----------------------------------------" to player
-        send "&a✔ Texture pack sedang dikirim ke layar kamu!" to player
-        send "&7Klik &a'Yes' &7pada prompt konfirmasi di layar Minecraft kamu." to player
+        send "&eLink Download Manual:" to player
+        send formatted "<link:http://185.207.166.46:12004/generated.zip><tooltip:&eKlik untuk membuka link download>&b&n[KLIK DI SINI UNTUK DOWNLOAD TEXTUREPACK]<reset>" to player
+        send "&7Atau salin link berikut:" to player
+        send "&fhttp://185.207.166.46:12004/generated.zip" to player
         send "" to player
-        send "&e&lJika popup tidak muncul di layar:" to player
+        send "&6&lCara Mengatur Texture Otomatis Server:" to player
         send "&71. Keluar ke &fMultiplayer / Server List&7." to player
-        send "&72. Klik server &6EvertaleMC &7» tombol &fEdit&7." to player
-        send "&73. Ubah &fServer Resource Packs &7menjadi &aPrompt &7(atau &aEnabled&7)." to player
+        send "&72. Klik server &6EvertaleMC &7lalu klik tombol &fEdit&7." to player
+        send "&73. Ubah pilihan &fServer Resource Packs &7menjadi &aPrompt &7(atau &aEnabled&7)." to player
         send "&74. Klik &aDone &7dan masuk kembali ke server." to player
         send "" to player
-        send "&e&lLink Download Manual (v1.1.0):" to player
-        send formatted "<link:https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.1.0/Evertale-Rank-Cosmetics-v1.1.0.zip><tooltip:&eKlik untuk unduh via GitHub Release>&b&n[DOWNLOAD VIA GITHUB (v1.1.0)]<reset>" to player
-        send formatted "<link:http://185.207.166.46:12004/generated.zip><tooltip:&eKlik untuk unduh langsung dari server>&e&n[DOWNLOAD DIRECT DARI SERVER]<reset>" to player
+        send "&b&l📱 Info Pemain Bedrock:" to player
+        send "&7Pemain Bedrock otomatis mendapatkan resourcepack saat login ke server." to player
         send "&8&m----------------------------------------" to player
-
-on join:
-    delete {-evertale_pack_loaded::%player's uuid%}
-    if name of player does not start with ".":
-        wait 3 seconds
-        if player is online:
-            if {-evertale_pack_loaded::%player's uuid%} is not set:
-                execute console command "iatexture %player%"
 
 on resource pack response:
     if resource pack was accepted:
         send title "&6&lEVERTALE MC" with subtitle "&eSedang mendownload texture pack..." to player for 4 seconds
     if resource pack was successfully loaded:
-        set {-evertale_pack_loaded::%player's uuid%} to true
         send title "&a&lBERHASIL!" with subtitle "&fTexturepack EvertaleMC aktif" to player for 3 seconds
-        send action bar "&a✔ Texturepack EvertaleMC berhasil dimuat!" to player
         wait 1 second
         send "&8&m----------------------------------------" to player
         send "&a&l✔ Texturepack otomatis server berhasil terpasang!" to player
-        send "&7Jika kamu ingin mendownload file manual atau mengatur texture," to player
+        send "&7Jika kamu ingin mendownload file manual atau mengatur texture otomatis," to player
         send "&7kamu bisa mengetik perintah &e/txt &7kapan saja." to player
-        send formatted "<link:https://github.com/NDERXZ/EVERTALE-RANK-COSMETICS/releases/download/v1.1.0/Evertale-Rank-Cosmetics-v1.1.0.zip><tooltip:&eKlik untuk link download>&b&n[KLIK DI SINI UNTUK LINK GITHUB]<reset>" to player
+        send formatted "<link:http://185.207.166.46:12004/generated.zip><tooltip:&eKlik untuk membuka link download>&b&n[KLIK DI SINI UNTUK LINK MANUAL]<reset>" to player
         send "&8&m----------------------------------------" to player
     if resource pack was declined:
         send "&8&m----------------------------------------" to player
         send "&6&lEVERTALE MC &7» &cKamu memilih untuk tidak memasang texturepack." to player
         send "&7Kamu tetap bisa bermain normal. Jika ingin memasangnya nanti," to player
-        send "&7ketik perintah &e/txt &7kapan saja." to player
+        send "&7ketik perintah &e/txt &7atau &e/iatexture &7kapan saja." to player
         send "&8&m----------------------------------------" to player
-
-on quit:
-    delete {-evertale_pack_loaded::%player's uuid%}
