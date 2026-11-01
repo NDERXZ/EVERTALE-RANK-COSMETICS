@@ -7,42 +7,42 @@ items:
     resource:
       material: FISHING_ROD
       generate: false
-      model_path: "ec_fishing_rods_vol2:blaze_fishing_rod"
+      model_path: "blaze_fishing_rod"
   darkworld_fishing_rod:
     display_name: "&5Darkworld Fishing Rod"
     permission: "ec_fishing_rods.darkworld"
     resource:
       material: FISHING_ROD
       generate: false
-      model_path: "ec_fishing_rods_vol2:darkworld_fishing_rod"
+      model_path: "darkworld_fishing_rod"
   dread_knight_fishing_rod:
     display_name: "&4Dread Knight Fishing Rod"
     permission: "ec_fishing_rods.dread_knight"
     resource:
       material: FISHING_ROD
       generate: false
-      model_path: "ec_fishing_rods_vol2:dread_knight_fishing_rod"
+      model_path: "dread_knight_fishing_rod"
   emissary_fishing_rod:
     display_name: "&bEmissary Fishing Rod"
     permission: "ec_fishing_rods.emissary"
     resource:
       material: FISHING_ROD
       generate: false
-      model_path: "ec_fishing_rods_vol2:emissary_fishing_rod"
+      model_path: "emissary_fishing_rod"
   karoz_fishing_rod:
     display_name: "&cKaroz Fishing Rod"
     permission: "ec_fishing_rods.karoz"
     resource:
       material: FISHING_ROD
       generate: false
-      model_path: "ec_fishing_rods_vol2:karoz_fishing_rod"
+      model_path: "karoz_fishing_rod"
   redlord_fishing_rod:
     display_name: "&4Redlord Fishing Rod"
     permission: "ec_fishing_rods.redlord"
     resource:
       material: FISHING_ROD
       generate: false
-      model_path: "ec_fishing_rods_vol2:redlord_fishing_rod"
+      model_path: "redlord_fishing_rod"
 categories:
   vol2_rods:
     name: "&6Custom Fishing Rods &7- &fVol 2"

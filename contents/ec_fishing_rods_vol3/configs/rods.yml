@@ -7,42 +7,42 @@ items:
     resource:
       material: FISHING_ROD
       generate: false
-      model_path: "ec_fishing_rods_vol3:dragonic_born_fishing_rod"
+      model_path: "dragonic_born_fishing_rod"
   forest_fishing_rod:
     display_name: "&aForest Fishing Rod"
     permission: "ec_fishing_rods.forest"
     resource:
       material: FISHING_ROD
       generate: false
-      model_path: "ec_fishing_rods_vol3:forest_fishing_rod"
+      model_path: "forest_fishing_rod"
   ragnarok_fishing_rod:
     display_name: "&4Ragnarok Fishing Rod"
     permission: "ec_fishing_rods.ragnarok"
     resource:
       material: FISHING_ROD
       generate: false
-      model_path: "ec_fishing_rods_vol3:ragnarok_fishing_rod"
+      model_path: "ragnarok_fishing_rod"
   rose_fishing_rod:
     display_name: "&dRose Fishing Rod"
     permission: "ec_fishing_rods.rose"
     resource:
       material: FISHING_ROD
       generate: false
-      model_path: "ec_fishing_rods_vol3:rose_fishing_rod"
+      model_path: "rose_fishing_rod"
   terra_fishing_rod:
     display_name: "&2Terra Fishing Rod"
     permission: "ec_fishing_rods.terra"
     resource:
       material: FISHING_ROD
       generate: false
-      model_path: "ec_fishing_rods_vol3:terra_fishing_rod"
+      model_path: "terra_fishing_rod"
   wukong_fishing_rod:
     display_name: "&6Wukong Fishing Rod"
     permission: "ec_fishing_rods.wukong"
     resource:
       material: FISHING_ROD
       generate: false
-      model_path: "ec_fishing_rods_vol3:wukong_fishing_rod"
+      model_path: "wukong_fishing_rod"
 categories:
   vol3_rods:
     name: "&aCustom Fishing Rods &7- &fVol 3"
