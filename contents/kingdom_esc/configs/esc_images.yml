@@ -1,0 +1,9 @@
+info:
+  namespace: kingdom_esc
+font_images:
+  bottom_news:
+    path: "bottom_news.png"
+    y_position: 128
+    scale_ratio: 256
+    suggest_in_command: false
+    show_in_gui: false
