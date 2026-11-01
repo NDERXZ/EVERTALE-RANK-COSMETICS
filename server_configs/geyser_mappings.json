@@ -1,0 +1,3329 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:iron_sword": [
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_1",
+        "bedrock_options": {
+          "icon": "gmdl_1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10000
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_2",
+        "bedrock_options": {
+          "icon": "gmdl_2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10001
+      }
+    ],
+    "minecraft:leather_horse_armor": [
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_3",
+        "bedrock_options": {
+          "icon": "gmdl_3",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10000
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_4",
+        "bedrock_options": {
+          "icon": "gmdl_4",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10001
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_5",
+        "bedrock_options": {
+          "icon": "gmdl_5",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10002
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_6",
+        "bedrock_options": {
+          "icon": "gmdl_6",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10003
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_7",
+        "bedrock_options": {
+          "icon": "gmdl_7",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10004
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_8",
+        "bedrock_options": {
+          "icon": "gmdl_8",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10005
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_9",
+        "bedrock_options": {
+          "icon": "gmdl_9",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10006
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_10",
+        "bedrock_options": {
+          "icon": "gmdl_10",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10007
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_11",
+        "bedrock_options": {
+          "icon": "gmdl_11",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10008
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_12",
+        "bedrock_options": {
+          "icon": "gmdl_12",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10009
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_13",
+        "bedrock_options": {
+          "icon": "gmdl_13",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10010
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_14",
+        "bedrock_options": {
+          "icon": "gmdl_14",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10011
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_15",
+        "bedrock_options": {
+          "icon": "gmdl_15",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10012
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_16",
+        "bedrock_options": {
+          "icon": "gmdl_16",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10013
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_17",
+        "bedrock_options": {
+          "icon": "gmdl_17",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10014
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_18",
+        "bedrock_options": {
+          "icon": "gmdl_18",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10015
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_19",
+        "bedrock_options": {
+          "icon": "gmdl_19",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10016
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_20",
+        "bedrock_options": {
+          "icon": "gmdl_20",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10017
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_21",
+        "bedrock_options": {
+          "icon": "gmdl_21",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10018
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_22",
+        "bedrock_options": {
+          "icon": "gmdl_22",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10019
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_23",
+        "bedrock_options": {
+          "icon": "gmdl_23",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10020
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_24",
+        "bedrock_options": {
+          "icon": "gmdl_24",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10021
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_25",
+        "bedrock_options": {
+          "icon": "gmdl_25",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10022
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_26",
+        "bedrock_options": {
+          "icon": "gmdl_26",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10023
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_27",
+        "bedrock_options": {
+          "icon": "gmdl_27",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10024
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_28",
+        "bedrock_options": {
+          "icon": "gmdl_28",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10025
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_29",
+        "bedrock_options": {
+          "icon": "gmdl_29",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10026
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_30",
+        "bedrock_options": {
+          "icon": "gmdl_30",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10027
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_31",
+        "bedrock_options": {
+          "icon": "gmdl_31",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10028
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_32",
+        "bedrock_options": {
+          "icon": "gmdl_32",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10029
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_33",
+        "bedrock_options": {
+          "icon": "gmdl_33",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10030
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_34",
+        "bedrock_options": {
+          "icon": "gmdl_34",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10031
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_35",
+        "bedrock_options": {
+          "icon": "gmdl_35",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10032
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_36",
+        "bedrock_options": {
+          "icon": "gmdl_36",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10033
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_37",
+        "bedrock_options": {
+          "icon": "gmdl_37",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10034
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_38",
+        "bedrock_options": {
+          "icon": "gmdl_38",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10035
+      }
+    ],
+    "minecraft:paper": [
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_39",
+        "bedrock_options": {
+          "icon": "gmdl_39",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10000
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_40",
+        "bedrock_options": {
+          "icon": "gmdl_40",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10001
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_41",
+        "bedrock_options": {
+          "icon": "gmdl_41",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10002
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_42",
+        "bedrock_options": {
+          "icon": "gmdl_42",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10003
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_43",
+        "bedrock_options": {
+          "icon": "gmdl_43",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10004
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_44",
+        "bedrock_options": {
+          "icon": "gmdl_44",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10005
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_45",
+        "bedrock_options": {
+          "icon": "gmdl_45",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10006
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_46",
+        "bedrock_options": {
+          "icon": "gmdl_46",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10007
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_47",
+        "bedrock_options": {
+          "icon": "gmdl_47",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10008
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_48",
+        "bedrock_options": {
+          "icon": "gmdl_48",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10009
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_49",
+        "bedrock_options": {
+          "icon": "gmdl_49",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10010
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_50",
+        "bedrock_options": {
+          "icon": "gmdl_50",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10011
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_51",
+        "bedrock_options": {
+          "icon": "gmdl_51",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10012
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_52",
+        "bedrock_options": {
+          "icon": "gmdl_52",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10013
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_53",
+        "bedrock_options": {
+          "icon": "gmdl_53",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10014
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_54",
+        "bedrock_options": {
+          "icon": "gmdl_54",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10015
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_55",
+        "bedrock_options": {
+          "icon": "gmdl_55",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10016
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_56",
+        "bedrock_options": {
+          "icon": "gmdl_56",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10017
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_57",
+        "bedrock_options": {
+          "icon": "gmdl_57",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10018
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_58",
+        "bedrock_options": {
+          "icon": "gmdl_58",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10019
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_59",
+        "bedrock_options": {
+          "icon": "gmdl_59",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10020
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_60",
+        "bedrock_options": {
+          "icon": "gmdl_60",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10021
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_61",
+        "bedrock_options": {
+          "icon": "gmdl_61",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10022
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_62",
+        "bedrock_options": {
+          "icon": "gmdl_62",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10023
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_63",
+        "bedrock_options": {
+          "icon": "gmdl_63",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10024
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_64",
+        "bedrock_options": {
+          "icon": "gmdl_64",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10025
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_65",
+        "bedrock_options": {
+          "icon": "gmdl_65",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10026
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_66",
+        "bedrock_options": {
+          "icon": "gmdl_66",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10027
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_67",
+        "bedrock_options": {
+          "icon": "gmdl_67",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10028
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_68",
+        "bedrock_options": {
+          "icon": "gmdl_68",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10029
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_69",
+        "bedrock_options": {
+          "icon": "gmdl_69",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10030
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_70",
+        "bedrock_options": {
+          "icon": "gmdl_70",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10031
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_71",
+        "bedrock_options": {
+          "icon": "gmdl_71",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10032
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_72",
+        "bedrock_options": {
+          "icon": "gmdl_72",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10033
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_73",
+        "bedrock_options": {
+          "icon": "gmdl_73",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10034
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_74",
+        "bedrock_options": {
+          "icon": "gmdl_74",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10035
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_75",
+        "bedrock_options": {
+          "icon": "gmdl_75",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10036
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_76",
+        "bedrock_options": {
+          "icon": "gmdl_76",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10037
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_77",
+        "bedrock_options": {
+          "icon": "gmdl_77",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10038
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_78",
+        "bedrock_options": {
+          "icon": "gmdl_78",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10039
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_79",
+        "bedrock_options": {
+          "icon": "gmdl_79",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10040
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_80",
+        "bedrock_options": {
+          "icon": "gmdl_80",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10041
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_81",
+        "bedrock_options": {
+          "icon": "gmdl_81",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10042
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_82",
+        "bedrock_options": {
+          "icon": "gmdl_82",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10043
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_83",
+        "bedrock_options": {
+          "icon": "gmdl_83",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10044
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_84",
+        "bedrock_options": {
+          "icon": "gmdl_84",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10045
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_85",
+        "bedrock_options": {
+          "icon": "gmdl_85",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10046
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_86",
+        "bedrock_options": {
+          "icon": "gmdl_86",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10047
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_87",
+        "bedrock_options": {
+          "icon": "gmdl_87",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10048
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_88",
+        "bedrock_options": {
+          "icon": "gmdl_88",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10049
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_89",
+        "bedrock_options": {
+          "icon": "gmdl_89",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10050
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_90",
+        "bedrock_options": {
+          "icon": "gmdl_90",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10051
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_91",
+        "bedrock_options": {
+          "icon": "gmdl_91",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10052
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_92",
+        "bedrock_options": {
+          "icon": "gmdl_92",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10053
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_93",
+        "bedrock_options": {
+          "icon": "gmdl_93",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10054
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_94",
+        "bedrock_options": {
+          "icon": "gmdl_94",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10055
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_95",
+        "bedrock_options": {
+          "icon": "gmdl_95",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10056
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_96",
+        "bedrock_options": {
+          "icon": "gmdl_96",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10057
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_97",
+        "bedrock_options": {
+          "icon": "gmdl_97",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10058
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_98",
+        "bedrock_options": {
+          "icon": "gmdl_98",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10059
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_99",
+        "bedrock_options": {
+          "icon": "gmdl_99",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10060
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_100",
+        "bedrock_options": {
+          "icon": "gmdl_100",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10061
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_101",
+        "bedrock_options": {
+          "icon": "gmdl_101",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10062
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_102",
+        "bedrock_options": {
+          "icon": "gmdl_102",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10063
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_103",
+        "bedrock_options": {
+          "icon": "gmdl_103",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10064
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_104",
+        "bedrock_options": {
+          "icon": "gmdl_104",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10065
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_105",
+        "bedrock_options": {
+          "icon": "gmdl_105",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10066
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_106",
+        "bedrock_options": {
+          "icon": "gmdl_106",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10067
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_107",
+        "bedrock_options": {
+          "icon": "gmdl_107",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10068
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_108",
+        "bedrock_options": {
+          "icon": "gmdl_108",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10069
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_109",
+        "bedrock_options": {
+          "icon": "gmdl_109",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10070
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_110",
+        "bedrock_options": {
+          "icon": "gmdl_110",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10071
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_111",
+        "bedrock_options": {
+          "icon": "gmdl_111",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10072
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_112",
+        "bedrock_options": {
+          "icon": "gmdl_112",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10073
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_113",
+        "bedrock_options": {
+          "icon": "gmdl_113",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10074
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_114",
+        "bedrock_options": {
+          "icon": "gmdl_114",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10075
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_115",
+        "bedrock_options": {
+          "icon": "gmdl_115",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10076
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_116",
+        "bedrock_options": {
+          "icon": "gmdl_116",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10077
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_117",
+        "bedrock_options": {
+          "icon": "gmdl_117",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10078
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_118",
+        "bedrock_options": {
+          "icon": "gmdl_118",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10079
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_119",
+        "bedrock_options": {
+          "icon": "gmdl_119",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10080
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_120",
+        "bedrock_options": {
+          "icon": "gmdl_120",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10081
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_121",
+        "bedrock_options": {
+          "icon": "gmdl_121",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10082
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_122",
+        "bedrock_options": {
+          "icon": "gmdl_122",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10083
+      }
+    ],
+    "minecraft:player_head": [
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_123",
+        "bedrock_options": {
+          "icon": "gmdl_123",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10000
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_124",
+        "bedrock_options": {
+          "icon": "gmdl_124",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10001
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_125",
+        "bedrock_options": {
+          "icon": "gmdl_125",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10002
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_126",
+        "bedrock_options": {
+          "icon": "gmdl_126",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10003
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_127",
+        "bedrock_options": {
+          "icon": "gmdl_127",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10004
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_128",
+        "bedrock_options": {
+          "icon": "gmdl_128",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10005
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_129",
+        "bedrock_options": {
+          "icon": "gmdl_129",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10006
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_130",
+        "bedrock_options": {
+          "icon": "gmdl_130",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10007
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_131",
+        "bedrock_options": {
+          "icon": "gmdl_131",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10008
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_132",
+        "bedrock_options": {
+          "icon": "gmdl_132",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10009
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_133",
+        "bedrock_options": {
+          "icon": "gmdl_133",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10010
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_134",
+        "bedrock_options": {
+          "icon": "gmdl_134",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10011
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:gmdl_135",
+        "bedrock_options": {
+          "icon": "gmdl_135",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10012
+      }
+    ],
+    "minecraft:fishing_rod": [
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10000",
+        "bedrock_options": {
+          "icon": "grod_10000",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10000
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10001",
+        "bedrock_options": {
+          "icon": "grod_10001",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10001
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10002",
+        "bedrock_options": {
+          "icon": "grod_10002",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10002
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10003",
+        "bedrock_options": {
+          "icon": "grod_10003",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10003
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10004",
+        "bedrock_options": {
+          "icon": "grod_10004",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10004
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10005",
+        "bedrock_options": {
+          "icon": "grod_10005",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10005
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10006",
+        "bedrock_options": {
+          "icon": "grod_10006",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10006
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10007",
+        "bedrock_options": {
+          "icon": "grod_10007",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10007
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10008",
+        "bedrock_options": {
+          "icon": "grod_10008",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10008
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10009",
+        "bedrock_options": {
+          "icon": "grod_10009",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10009
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10010",
+        "bedrock_options": {
+          "icon": "grod_10010",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10010
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10011",
+        "bedrock_options": {
+          "icon": "grod_10011",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10011
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10012",
+        "bedrock_options": {
+          "icon": "grod_10012",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10012
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10013",
+        "bedrock_options": {
+          "icon": "grod_10013",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10013
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10014",
+        "bedrock_options": {
+          "icon": "grod_10014",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10014
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10015",
+        "bedrock_options": {
+          "icon": "grod_10015",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10015
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10016",
+        "bedrock_options": {
+          "icon": "grod_10016",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10016
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:grod_10017",
+        "bedrock_options": {
+          "icon": "grod_10017",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10017
+      }
+    ],
+    "minecraft:tropical_fish": [
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_4",
+        "bedrock_options": {
+          "icon": "lfish_4",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72000
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_5",
+        "bedrock_options": {
+          "icon": "lfish_5",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72001
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_6",
+        "bedrock_options": {
+          "icon": "lfish_6",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72003
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_7",
+        "bedrock_options": {
+          "icon": "lfish_7",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72002
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_8",
+        "bedrock_options": {
+          "icon": "lfish_8",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72004
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_172",
+        "bedrock_options": {
+          "icon": "lfish_172",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72005
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_173",
+        "bedrock_options": {
+          "icon": "lfish_173",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72006
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_174",
+        "bedrock_options": {
+          "icon": "lfish_174",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72007
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_175",
+        "bedrock_options": {
+          "icon": "lfish_175",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72008
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_176",
+        "bedrock_options": {
+          "icon": "lfish_176",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72009
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_177",
+        "bedrock_options": {
+          "icon": "lfish_177",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72010
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_178",
+        "bedrock_options": {
+          "icon": "lfish_178",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72011
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_179",
+        "bedrock_options": {
+          "icon": "lfish_179",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72012
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_180",
+        "bedrock_options": {
+          "icon": "lfish_180",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72013
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_181",
+        "bedrock_options": {
+          "icon": "lfish_181",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72014
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_182",
+        "bedrock_options": {
+          "icon": "lfish_182",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72015
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_183",
+        "bedrock_options": {
+          "icon": "lfish_183",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72016
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_184",
+        "bedrock_options": {
+          "icon": "lfish_184",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72017
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_185",
+        "bedrock_options": {
+          "icon": "lfish_185",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72018
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_186",
+        "bedrock_options": {
+          "icon": "lfish_186",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72019
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_187",
+        "bedrock_options": {
+          "icon": "lfish_187",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72020
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_188",
+        "bedrock_options": {
+          "icon": "lfish_188",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72021
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_189",
+        "bedrock_options": {
+          "icon": "lfish_189",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72022
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_190",
+        "bedrock_options": {
+          "icon": "lfish_190",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72023
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_191",
+        "bedrock_options": {
+          "icon": "lfish_191",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72024
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_192",
+        "bedrock_options": {
+          "icon": "lfish_192",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72025
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_193",
+        "bedrock_options": {
+          "icon": "lfish_193",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72026
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_194",
+        "bedrock_options": {
+          "icon": "lfish_194",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72027
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_195",
+        "bedrock_options": {
+          "icon": "lfish_195",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72028
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_196",
+        "bedrock_options": {
+          "icon": "lfish_196",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72029
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_197",
+        "bedrock_options": {
+          "icon": "lfish_197",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72030
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_198",
+        "bedrock_options": {
+          "icon": "lfish_198",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72031
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_199",
+        "bedrock_options": {
+          "icon": "lfish_199",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72032
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_200",
+        "bedrock_options": {
+          "icon": "lfish_200",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72033
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_201",
+        "bedrock_options": {
+          "icon": "lfish_201",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72034
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_202",
+        "bedrock_options": {
+          "icon": "lfish_202",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72035
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_203",
+        "bedrock_options": {
+          "icon": "lfish_203",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72036
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_204",
+        "bedrock_options": {
+          "icon": "lfish_204",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72037
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_205",
+        "bedrock_options": {
+          "icon": "lfish_205",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72038
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_206",
+        "bedrock_options": {
+          "icon": "lfish_206",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72039
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_207",
+        "bedrock_options": {
+          "icon": "lfish_207",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72040
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_208",
+        "bedrock_options": {
+          "icon": "lfish_208",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72041
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_209",
+        "bedrock_options": {
+          "icon": "lfish_209",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72042
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_210",
+        "bedrock_options": {
+          "icon": "lfish_210",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72043
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_211",
+        "bedrock_options": {
+          "icon": "lfish_211",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72044
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_212",
+        "bedrock_options": {
+          "icon": "lfish_212",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72045
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_213",
+        "bedrock_options": {
+          "icon": "lfish_213",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72046
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_214",
+        "bedrock_options": {
+          "icon": "lfish_214",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72047
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_215",
+        "bedrock_options": {
+          "icon": "lfish_215",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72048
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_216",
+        "bedrock_options": {
+          "icon": "lfish_216",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72049
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_217",
+        "bedrock_options": {
+          "icon": "lfish_217",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72050
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_218",
+        "bedrock_options": {
+          "icon": "lfish_218",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72051
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_219",
+        "bedrock_options": {
+          "icon": "lfish_219",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72052
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_220",
+        "bedrock_options": {
+          "icon": "lfish_220",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72053
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_221",
+        "bedrock_options": {
+          "icon": "lfish_221",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72054
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_222",
+        "bedrock_options": {
+          "icon": "lfish_222",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72055
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_223",
+        "bedrock_options": {
+          "icon": "lfish_223",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72056
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_139",
+        "bedrock_options": {
+          "icon": "lfish_139",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72057
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_140",
+        "bedrock_options": {
+          "icon": "lfish_140",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72058
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_141",
+        "bedrock_options": {
+          "icon": "lfish_141",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72059
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_142",
+        "bedrock_options": {
+          "icon": "lfish_142",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72060
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_143",
+        "bedrock_options": {
+          "icon": "lfish_143",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72061
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_144",
+        "bedrock_options": {
+          "icon": "lfish_144",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72062
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_145",
+        "bedrock_options": {
+          "icon": "lfish_145",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72063
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_146",
+        "bedrock_options": {
+          "icon": "lfish_146",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72064
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_147",
+        "bedrock_options": {
+          "icon": "lfish_147",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72065
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_132",
+        "bedrock_options": {
+          "icon": "lfish_132",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72066
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_133",
+        "bedrock_options": {
+          "icon": "lfish_133",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72067
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_134",
+        "bedrock_options": {
+          "icon": "lfish_134",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72068
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_135",
+        "bedrock_options": {
+          "icon": "lfish_135",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72069
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_136",
+        "bedrock_options": {
+          "icon": "lfish_136",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72070
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_137",
+        "bedrock_options": {
+          "icon": "lfish_137",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72071
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_138",
+        "bedrock_options": {
+          "icon": "lfish_138",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72072
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_33",
+        "bedrock_options": {
+          "icon": "lfish_33",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72073
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_34",
+        "bedrock_options": {
+          "icon": "lfish_34",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72074
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_35",
+        "bedrock_options": {
+          "icon": "lfish_35",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72075
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_36",
+        "bedrock_options": {
+          "icon": "lfish_36",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72076
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_37",
+        "bedrock_options": {
+          "icon": "lfish_37",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72077
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_38",
+        "bedrock_options": {
+          "icon": "lfish_38",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72078
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_39",
+        "bedrock_options": {
+          "icon": "lfish_39",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72079
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_40",
+        "bedrock_options": {
+          "icon": "lfish_40",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72080
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_41",
+        "bedrock_options": {
+          "icon": "lfish_41",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72081
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_42",
+        "bedrock_options": {
+          "icon": "lfish_42",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72082
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_43",
+        "bedrock_options": {
+          "icon": "lfish_43",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72083
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_44",
+        "bedrock_options": {
+          "icon": "lfish_44",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72084
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_45",
+        "bedrock_options": {
+          "icon": "lfish_45",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72085
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_46",
+        "bedrock_options": {
+          "icon": "lfish_46",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72086
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_47",
+        "bedrock_options": {
+          "icon": "lfish_47",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72087
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_48",
+        "bedrock_options": {
+          "icon": "lfish_48",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72088
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_49",
+        "bedrock_options": {
+          "icon": "lfish_49",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72089
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_50",
+        "bedrock_options": {
+          "icon": "lfish_50",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72090
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_15",
+        "bedrock_options": {
+          "icon": "lfish_15",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72091
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_16",
+        "bedrock_options": {
+          "icon": "lfish_16",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72092
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_17",
+        "bedrock_options": {
+          "icon": "lfish_17",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72093
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_18",
+        "bedrock_options": {
+          "icon": "lfish_18",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72094
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_19",
+        "bedrock_options": {
+          "icon": "lfish_19",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72095
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_20",
+        "bedrock_options": {
+          "icon": "lfish_20",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72096
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_21",
+        "bedrock_options": {
+          "icon": "lfish_21",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72097
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_22",
+        "bedrock_options": {
+          "icon": "lfish_22",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72098
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_23",
+        "bedrock_options": {
+          "icon": "lfish_23",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72099
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_24",
+        "bedrock_options": {
+          "icon": "lfish_24",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72100
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_25",
+        "bedrock_options": {
+          "icon": "lfish_25",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72101
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_26",
+        "bedrock_options": {
+          "icon": "lfish_26",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72102
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_27",
+        "bedrock_options": {
+          "icon": "lfish_27",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72103
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_28",
+        "bedrock_options": {
+          "icon": "lfish_28",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72104
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_29",
+        "bedrock_options": {
+          "icon": "lfish_29",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72105
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_30",
+        "bedrock_options": {
+          "icon": "lfish_30",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72106
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_31",
+        "bedrock_options": {
+          "icon": "lfish_31",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72107
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_32",
+        "bedrock_options": {
+          "icon": "lfish_32",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72108
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_1",
+        "bedrock_options": {
+          "icon": "lfish_1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72109
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_2",
+        "bedrock_options": {
+          "icon": "lfish_2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72110
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_3",
+        "bedrock_options": {
+          "icon": "lfish_3",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72111
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_13",
+        "bedrock_options": {
+          "icon": "lfish_13",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72112
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_14",
+        "bedrock_options": {
+          "icon": "lfish_14",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72113
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_51",
+        "bedrock_options": {
+          "icon": "lfish_51",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72114
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_52",
+        "bedrock_options": {
+          "icon": "lfish_52",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72115
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_53",
+        "bedrock_options": {
+          "icon": "lfish_53",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72116
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_54",
+        "bedrock_options": {
+          "icon": "lfish_54",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72117
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_111",
+        "bedrock_options": {
+          "icon": "lfish_111",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72118
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_113",
+        "bedrock_options": {
+          "icon": "lfish_113",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72119
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_114",
+        "bedrock_options": {
+          "icon": "lfish_114",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72120
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_112",
+        "bedrock_options": {
+          "icon": "lfish_112",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72121
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_148",
+        "bedrock_options": {
+          "icon": "lfish_148",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72122
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_154",
+        "bedrock_options": {
+          "icon": "lfish_154",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72123
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_160",
+        "bedrock_options": {
+          "icon": "lfish_160",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72124
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_166",
+        "bedrock_options": {
+          "icon": "lfish_166",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72125
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_149",
+        "bedrock_options": {
+          "icon": "lfish_149",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72126
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_155",
+        "bedrock_options": {
+          "icon": "lfish_155",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72127
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_161",
+        "bedrock_options": {
+          "icon": "lfish_161",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72128
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_167",
+        "bedrock_options": {
+          "icon": "lfish_167",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72129
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_150",
+        "bedrock_options": {
+          "icon": "lfish_150",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72130
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_162",
+        "bedrock_options": {
+          "icon": "lfish_162",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72131
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_168",
+        "bedrock_options": {
+          "icon": "lfish_168",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72132
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_151",
+        "bedrock_options": {
+          "icon": "lfish_151",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72133
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_157",
+        "bedrock_options": {
+          "icon": "lfish_157",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72134
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_163",
+        "bedrock_options": {
+          "icon": "lfish_163",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72135
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_169",
+        "bedrock_options": {
+          "icon": "lfish_169",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72136
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_152",
+        "bedrock_options": {
+          "icon": "lfish_152",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72137
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_153",
+        "bedrock_options": {
+          "icon": "lfish_153",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72138
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_159",
+        "bedrock_options": {
+          "icon": "lfish_159",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72139
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_165",
+        "bedrock_options": {
+          "icon": "lfish_165",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72140
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_171",
+        "bedrock_options": {
+          "icon": "lfish_171",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72141
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_158",
+        "bedrock_options": {
+          "icon": "lfish_158",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72142
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_164",
+        "bedrock_options": {
+          "icon": "lfish_164",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72143
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_170",
+        "bedrock_options": {
+          "icon": "lfish_170",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72144
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_55",
+        "bedrock_options": {
+          "icon": "lfish_55",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72145
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_56",
+        "bedrock_options": {
+          "icon": "lfish_56",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72146
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_57",
+        "bedrock_options": {
+          "icon": "lfish_57",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72147
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_58",
+        "bedrock_options": {
+          "icon": "lfish_58",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72148
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_59",
+        "bedrock_options": {
+          "icon": "lfish_59",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72149
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_60",
+        "bedrock_options": {
+          "icon": "lfish_60",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72150
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_61",
+        "bedrock_options": {
+          "icon": "lfish_61",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72151
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_62",
+        "bedrock_options": {
+          "icon": "lfish_62",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72152
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_63",
+        "bedrock_options": {
+          "icon": "lfish_63",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72153
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_64",
+        "bedrock_options": {
+          "icon": "lfish_64",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72154
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_65",
+        "bedrock_options": {
+          "icon": "lfish_65",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72155
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_66",
+        "bedrock_options": {
+          "icon": "lfish_66",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72156
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_67",
+        "bedrock_options": {
+          "icon": "lfish_67",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72157
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_68",
+        "bedrock_options": {
+          "icon": "lfish_68",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72158
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_69",
+        "bedrock_options": {
+          "icon": "lfish_69",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72159
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_70",
+        "bedrock_options": {
+          "icon": "lfish_70",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72160
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_71",
+        "bedrock_options": {
+          "icon": "lfish_71",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72161
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_72",
+        "bedrock_options": {
+          "icon": "lfish_72",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72162
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_73",
+        "bedrock_options": {
+          "icon": "lfish_73",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72163
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_74",
+        "bedrock_options": {
+          "icon": "lfish_74",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72164
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_75",
+        "bedrock_options": {
+          "icon": "lfish_75",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72165
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_76",
+        "bedrock_options": {
+          "icon": "lfish_76",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72166
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_77",
+        "bedrock_options": {
+          "icon": "lfish_77",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72167
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_78",
+        "bedrock_options": {
+          "icon": "lfish_78",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72168
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_79",
+        "bedrock_options": {
+          "icon": "lfish_79",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72169
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_80",
+        "bedrock_options": {
+          "icon": "lfish_80",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72170
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_81",
+        "bedrock_options": {
+          "icon": "lfish_81",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72171
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_82",
+        "bedrock_options": {
+          "icon": "lfish_82",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72172
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_90",
+        "bedrock_options": {
+          "icon": "lfish_90",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72173
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_91",
+        "bedrock_options": {
+          "icon": "lfish_91",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72174
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_92",
+        "bedrock_options": {
+          "icon": "lfish_92",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72175
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_93",
+        "bedrock_options": {
+          "icon": "lfish_93",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72176
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_94",
+        "bedrock_options": {
+          "icon": "lfish_94",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72177
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_95",
+        "bedrock_options": {
+          "icon": "lfish_95",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72178
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_96",
+        "bedrock_options": {
+          "icon": "lfish_96",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72179
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_97",
+        "bedrock_options": {
+          "icon": "lfish_97",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72180
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_98",
+        "bedrock_options": {
+          "icon": "lfish_98",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72181
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_99",
+        "bedrock_options": {
+          "icon": "lfish_99",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72182
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_100",
+        "bedrock_options": {
+          "icon": "lfish_100",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72183
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_101",
+        "bedrock_options": {
+          "icon": "lfish_101",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72184
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_102",
+        "bedrock_options": {
+          "icon": "lfish_102",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72185
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_103",
+        "bedrock_options": {
+          "icon": "lfish_103",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72186
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_104",
+        "bedrock_options": {
+          "icon": "lfish_104",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72187
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_105",
+        "bedrock_options": {
+          "icon": "lfish_105",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72188
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_106",
+        "bedrock_options": {
+          "icon": "lfish_106",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72189
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_107",
+        "bedrock_options": {
+          "icon": "lfish_107",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72190
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_108",
+        "bedrock_options": {
+          "icon": "lfish_108",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72191
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_109",
+        "bedrock_options": {
+          "icon": "lfish_109",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72192
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_110",
+        "bedrock_options": {
+          "icon": "lfish_110",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72193
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_9",
+        "bedrock_options": {
+          "icon": "lfish_9",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72194
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_10",
+        "bedrock_options": {
+          "icon": "lfish_10",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72195
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_11",
+        "bedrock_options": {
+          "icon": "lfish_11",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72196
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_12",
+        "bedrock_options": {
+          "icon": "lfish_12",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72197
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_115",
+        "bedrock_options": {
+          "icon": "lfish_115",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72198
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_116",
+        "bedrock_options": {
+          "icon": "lfish_116",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72199
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_117",
+        "bedrock_options": {
+          "icon": "lfish_117",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72200
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_118",
+        "bedrock_options": {
+          "icon": "lfish_118",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72201
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_119",
+        "bedrock_options": {
+          "icon": "lfish_119",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72202
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_120",
+        "bedrock_options": {
+          "icon": "lfish_120",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72203
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_121",
+        "bedrock_options": {
+          "icon": "lfish_121",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72204
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_122",
+        "bedrock_options": {
+          "icon": "lfish_122",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72205
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_123",
+        "bedrock_options": {
+          "icon": "lfish_123",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72206
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_124",
+        "bedrock_options": {
+          "icon": "lfish_124",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72207
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_125",
+        "bedrock_options": {
+          "icon": "lfish_125",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72208
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_126",
+        "bedrock_options": {
+          "icon": "lfish_126",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72209
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_127",
+        "bedrock_options": {
+          "icon": "lfish_127",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72210
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_128",
+        "bedrock_options": {
+          "icon": "lfish_128",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72211
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_129",
+        "bedrock_options": {
+          "icon": "lfish_129",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72212
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_130",
+        "bedrock_options": {
+          "icon": "lfish_130",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72213
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_131",
+        "bedrock_options": {
+          "icon": "lfish_131",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72214
+      }
+    ]
+  }
+}
