@@ -3,7 +3,7 @@ info:
 font_images:
   bottom_news:
     path: "bottom_news.png"
-    y_position: 128
+    y_position: 152
     scale_ratio: 256
     suggest_in_command: false
     show_in_gui: false

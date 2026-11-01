@@ -785,7 +785,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:logo/logo.png",
+      "file": "minecraft:ranks/logo.png",
       "ascent": 44,
       "height": 48,
       "chars": [
