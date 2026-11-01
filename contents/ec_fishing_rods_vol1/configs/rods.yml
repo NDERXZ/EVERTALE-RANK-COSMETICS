@@ -1,0 +1,58 @@
+info:
+  namespace: ec_fishing_rods_vol1
+items:
+  archangel_fishing_rod:
+    display_name: "&eArchangel Fishing Rod"
+    permission: "ec_fishing_rods.archangel"
+    resource:
+      material: FISHING_ROD
+      generate: false
+      model_path: "ec_fishing_rods_vol1:archangel_fishing_rod"
+  auselly_fishing_rod:
+    display_name: "&bAuselly Fishing Rod"
+    permission: "ec_fishing_rods.auselly"
+    resource:
+      material: FISHING_ROD
+      generate: false
+      model_path: "ec_fishing_rods_vol1:auselly_fishing_rod"
+  mystic_fishing_rod:
+    display_name: "&dMystic Fishing Rod"
+    permission: "ec_fishing_rods.mystic"
+    resource:
+      material: FISHING_ROD
+      generate: false
+      model_path: "ec_fishing_rods_vol1:mystic_fishing_rod"
+  stellar_fishing_rod:
+    display_name: "&9Stellar Fishing Rod"
+    permission: "ec_fishing_rods.stellar"
+    resource:
+      material: FISHING_ROD
+      generate: false
+      model_path: "ec_fishing_rods_vol1:stellar_fishing_rod"
+  sunred_fishing_rod:
+    display_name: "&cSunred Fishing Rod"
+    permission: "ec_fishing_rods.sunred"
+    resource:
+      material: FISHING_ROD
+      generate: false
+      model_path: "ec_fishing_rods_vol1:sunred_fishing_rod"
+  valkyrie_fishing_rod:
+    display_name: "&6Valkyrie Fishing Rod"
+    permission: "ec_fishing_rods.valkyrie"
+    resource:
+      material: FISHING_ROD
+      generate: false
+      model_path: "ec_fishing_rods_vol1:valkyrie_fishing_rod"
+categories:
+  vol1_rods:
+    name: "&eCustom Fishing Rods &7- &fVol 1"
+    enabled: true
+    icon: "ec_fishing_rods_vol1:archangel_fishing_rod"
+    permission: "ia.menu"
+    items:
+      - "ec_fishing_rods_vol1:archangel_fishing_rod"
+      - "ec_fishing_rods_vol1:auselly_fishing_rod"
+      - "ec_fishing_rods_vol1:mystic_fishing_rod"
+      - "ec_fishing_rods_vol1:stellar_fishing_rod"
+      - "ec_fishing_rods_vol1:sunred_fishing_rod"
+      - "ec_fishing_rods_vol1:valkyrie_fishing_rod"

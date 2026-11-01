@@ -1,0 +1,45 @@
+info:
+  namespace: "litefish"
+font_images:
+  fishin_end:
+    permission: 0
+    path: "font/fishin_end.png"
+    symbol: "㋑"
+    scale_ratio: 3
+    y_position: 2
+  fishin_front:
+    permission: 0
+    path: "font/fishin_front.png"
+    symbol: "㋐"
+    scale_ratio: 3
+    y_position: 2
+  fishin_fish:
+    permission: 0
+    path: "font/fishin_fish.png"
+    symbol: "㋓"
+    scale_ratio: 3
+    y_position: 2
+  fishin_heart:
+    permission: 0
+    path: "font/fishin_heart.png"
+    symbol: "㋕"
+    scale_ratio: 3
+    y_position: 2
+  fishin_hook:
+    permission: 0
+    path: "font/fishin_hook.png"
+    symbol: "㋔"
+    scale_ratio: 3
+    y_position: 2
+  fishin_middle:
+    permission: 0
+    path: "font/fishin_middle.png"
+    symbol: "㋒"
+    scale_ratio: 3
+    y_position: 2
+  fishin_onfish:
+    permission: 0
+    path: "font/fishin_onfish.png"
+    symbol: "㋖"
+    scale_ratio: 3
+    y_position: 2
