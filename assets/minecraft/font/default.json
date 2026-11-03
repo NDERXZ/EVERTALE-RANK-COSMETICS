@@ -1,643 +1,652 @@
 {
-  "providers": [
-    {
-      "file": "hmccosmetics:icons/cosmetics_gui.png",
-      "chars": [
-        ""
-      ],
-      "height": 256,
-      "ascent": 14,
-      "type": "bitmap"
-    },
-    {
-      "file": "hmccosmetics:icons/dye_menu.png",
-      "chars": [
-        ""
-      ],
-      "height": 256,
-      "ascent": 14,
-      "type": "bitmap"
-    },
-    {
-      "file": "hmccosmetics:icons/colorful.png",
-      "chars": [
-        ""
-      ],
-      "height": 8,
-      "ascent": 8,
-      "type": "bitmap"
-    },
-    {
-      "file": "hmccosmetics:icons/title.png",
-      "chars": [
-        ""
-      ],
-      "height": 256,
-      "ascent": 128,
-      "type": "bitmap"
-    },
-    {
-      "file": "hmccosmetics:icons/shade.png",
-      "chars": [
-        ""
-      ],
-      "height": 16,
-      "ascent": -5,
-      "type": "bitmap"
-    },
-    {
-      "file": "hmccosmetics:icons/shade.png",
-      "chars": [
-        ""
-      ],
-      "height": 16,
-      "ascent": -23,
-      "type": "bitmap"
-    },
-    {
-      "file": "hmccosmetics:icons/shade.png",
-      "chars": [
-        ""
-      ],
-      "height": 16,
-      "ascent": -41,
-      "type": "bitmap"
-    },
-    {
-      "file": "hmccosmetics:icons/shade.png",
-      "chars": [
-        ""
-      ],
-      "height": 16,
-      "ascent": -59,
-      "type": "bitmap"
-    },
-    {
-      "file": "hmccosmetics:icons/shade.png",
-      "chars": [
-        ""
-      ],
-      "height": 16,
-      "ascent": -77,
-      "type": "bitmap"
-    },
-    {
-      "file": "hmccosmetics:icons/shade.png",
-      "chars": [
-        ""
-      ],
-      "height": 16,
-      "ascent": -95,
-      "type": "bitmap"
-    },
-    {
-      "file": "hmccosmetics:icons/clear_image.png",
-      "chars": [
-        ""
-      ],
-      "height": 16,
-      "ascent": -5,
-      "type": "bitmap"
-    },
-    {
-      "file": "hmccosmetics:icons/clear_image.png",
-      "chars": [
-        ""
-      ],
-      "height": 16,
-      "ascent": -23,
-      "type": "bitmap"
-    },
-    {
-      "file": "hmccosmetics:icons/clear_image.png",
-      "chars": [
-        ""
-      ],
-      "height": 16,
-      "ascent": -41,
-      "type": "bitmap"
-    },
-    {
-      "file": "hmccosmetics:icons/clear_image.png",
-      "chars": [
-        ""
-      ],
-      "height": 16,
-      "ascent": -59,
-      "type": "bitmap"
-    },
-    {
-      "file": "hmccosmetics:icons/clear_image.png",
-      "chars": [
-        ""
-      ],
-      "height": 16,
-      "ascent": -77,
-      "type": "bitmap"
-    },
-    {
-      "file": "hmccosmetics:icons/clear_image.png",
-      "chars": [
-        ""
-      ],
-      "height": 16,
-      "ascent": -95,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:gui/no_recipe.png",
-      "chars": [
-        ""
-      ],
-      "height": 170,
-      "ascent": 47,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:gui/crafting.png",
-      "chars": [
-        ""
-      ],
-      "height": 170,
-      "ascent": 47,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:gui/cooking.png",
-      "chars": [
-        ""
-      ],
-      "height": 170,
-      "ascent": 47,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:gui/blank_menu.png",
-      "chars": [
-        ""
-      ],
-      "height": 170,
-      "ascent": 47,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:gui/anvil_repair.png",
-      "chars": [
-        ""
-      ],
-      "height": 170,
-      "ascent": 47,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:gui/smithing.png",
-      "chars": [
-        ""
-      ],
-      "height": 170,
-      "ascent": 47,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/0.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/1.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/2.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/3.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/4.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/5.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/6.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/7.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/8.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/9.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/10.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/11.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/12.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/13.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/14.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/15.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/16.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/17.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/18.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/19.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "_iainternal:hud/small_cooldown_bar/20.png",
-      "chars": [
-        ""
-      ],
-      "height": 22,
-      "ascent": -42,
-      "type": "bitmap"
-    },
-    {
-      "file": "litefish:font/fishin_end.png",
-      "chars": [
-        "㋑"
-      ],
-      "height": 3,
-      "ascent": 2,
-      "type": "bitmap"
-    },
-    {
-      "file": "litefish:font/fishin_front.png",
-      "chars": [
-        "㋐"
-      ],
-      "height": 3,
-      "ascent": 2,
-      "type": "bitmap"
-    },
-    {
-      "file": "litefish:font/fishin_fish.png",
-      "chars": [
-        "㋓"
-      ],
-      "height": 3,
-      "ascent": 2,
-      "type": "bitmap"
-    },
-    {
-      "file": "litefish:font/fishin_heart.png",
-      "chars": [
-        "㋕"
-      ],
-      "height": 3,
-      "ascent": 2,
-      "type": "bitmap"
-    },
-    {
-      "file": "litefish:font/fishin_hook.png",
-      "chars": [
-        "㋔"
-      ],
-      "height": 3,
-      "ascent": 2,
-      "type": "bitmap"
-    },
-    {
-      "file": "litefish:font/fishin_middle.png",
-      "chars": [
-        "㋒"
-      ],
-      "height": 3,
-      "ascent": 2,
-      "type": "bitmap"
-    },
-    {
-      "file": "litefish:font/fishin_onfish.png",
-      "chars": [
-        "㋖"
-      ],
-      "height": 3,
-      "ascent": 2,
-      "type": "bitmap"
-    },
-    {
-      "type": "space",
-      "advances": {
-        " ": 4,
-        "": -1,
-        "": -2,
-        "": -3,
-        "": -4,
-        "": -5,
-        "": -6,
-        "": -7,
-        "": -8,
-        "": -16,
-        "": -32,
-        "": -64,
-        "": -128,
-        "": -258,
-        "": -512,
-        "": -1024,
-        "": 1,
-        "": 2,
-        "": 3,
-        "": 4,
-        "": 5,
-        "": 6,
-        "": 7,
-        "": 8,
-        "": 16,
-        "": 32,
-        "": 64,
-        "": 128,
-        "": 256,
-        "": 512,
-        "": 1024
-      }
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:ranks/owner.png",
-      "ascent": 10,
-      "height": 12,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:ranks/coowner.png",
-      "ascent": 10,
-      "height": 12,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:ranks/admin.png",
-      "ascent": 10,
-      "height": 12,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:ranks/helper.png",
-      "ascent": 10,
-      "height": 12,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:ranks/eclipsion.png",
-      "ascent": 10,
-      "height": 12,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:ranks/moonveil.png",
-      "ascent": 10,
-      "height": 12,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:ranks/selene.png",
-      "ascent": 10,
-      "height": 12,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:ranks/lunaris.png",
-      "ascent": 10,
-      "height": 12,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:ranks/crescent.png",
-      "ascent": 10,
-      "height": 12,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:ranks/noctis.png",
-      "ascent": 10,
-      "height": 12,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:ranks/everie.png",
-      "ascent": 10,
-      "height": 12,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:ranks/dev.png",
-      "ascent": 10,
-      "height": 12,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:ranks/media.png",
-      "ascent": 10,
-      "height": 12,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:ranks/princess.png",
-      "ascent": 10,
-      "height": 12,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:ranks/mvp.png",
-      "ascent": 10,
-      "height": 12,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:ranks/logo.png",
-      "ascent": 44,
-      "height": 48,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:logo/logo.png",
-      "ascent": 44,
-      "height": 48,
-      "chars": [
-        ""
-      ]
-    }
-  ]
+    "providers": [
+        {
+            "file": "hmccosmetics:icons/cosmetics_gui.png",
+            "chars": [
+                "\ue01b"
+            ],
+            "height": 256,
+            "ascent": 14,
+            "type": "bitmap"
+        },
+        {
+            "file": "hmccosmetics:icons/dye_menu.png",
+            "chars": [
+                "\ue01c"
+            ],
+            "height": 256,
+            "ascent": 14,
+            "type": "bitmap"
+        },
+        {
+            "file": "hmccosmetics:icons/colorful.png",
+            "chars": [
+                "\ue01d"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "hmccosmetics:icons/title.png",
+            "chars": [
+                "\ue01e"
+            ],
+            "height": 256,
+            "ascent": 128,
+            "type": "bitmap"
+        },
+        {
+            "file": "hmccosmetics:icons/shade.png",
+            "chars": [
+                "\ue01f"
+            ],
+            "height": 16,
+            "ascent": -5,
+            "type": "bitmap"
+        },
+        {
+            "file": "hmccosmetics:icons/shade.png",
+            "chars": [
+                "\ue020"
+            ],
+            "height": 16,
+            "ascent": -23,
+            "type": "bitmap"
+        },
+        {
+            "file": "hmccosmetics:icons/shade.png",
+            "chars": [
+                "\ue021"
+            ],
+            "height": 16,
+            "ascent": -41,
+            "type": "bitmap"
+        },
+        {
+            "file": "hmccosmetics:icons/shade.png",
+            "chars": [
+                "\ue022"
+            ],
+            "height": 16,
+            "ascent": -59,
+            "type": "bitmap"
+        },
+        {
+            "file": "hmccosmetics:icons/shade.png",
+            "chars": [
+                "\ue023"
+            ],
+            "height": 16,
+            "ascent": -77,
+            "type": "bitmap"
+        },
+        {
+            "file": "hmccosmetics:icons/shade.png",
+            "chars": [
+                "\ue024"
+            ],
+            "height": 16,
+            "ascent": -95,
+            "type": "bitmap"
+        },
+        {
+            "file": "hmccosmetics:icons/clear_image.png",
+            "chars": [
+                "\ue025"
+            ],
+            "height": 16,
+            "ascent": -5,
+            "type": "bitmap"
+        },
+        {
+            "file": "hmccosmetics:icons/clear_image.png",
+            "chars": [
+                "\ue026"
+            ],
+            "height": 16,
+            "ascent": -23,
+            "type": "bitmap"
+        },
+        {
+            "file": "hmccosmetics:icons/clear_image.png",
+            "chars": [
+                "\ue027"
+            ],
+            "height": 16,
+            "ascent": -41,
+            "type": "bitmap"
+        },
+        {
+            "file": "hmccosmetics:icons/clear_image.png",
+            "chars": [
+                "\ue028"
+            ],
+            "height": 16,
+            "ascent": -59,
+            "type": "bitmap"
+        },
+        {
+            "file": "hmccosmetics:icons/clear_image.png",
+            "chars": [
+                "\ue029"
+            ],
+            "height": 16,
+            "ascent": -77,
+            "type": "bitmap"
+        },
+        {
+            "file": "hmccosmetics:icons/clear_image.png",
+            "chars": [
+                "\ue02a"
+            ],
+            "height": 16,
+            "ascent": -95,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:gui/no_recipe.png",
+            "chars": [
+                "\ue000"
+            ],
+            "height": 170,
+            "ascent": 47,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:gui/crafting.png",
+            "chars": [
+                "\ue001"
+            ],
+            "height": 170,
+            "ascent": 47,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:gui/cooking.png",
+            "chars": [
+                "\ue002"
+            ],
+            "height": 170,
+            "ascent": 47,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:gui/blank_menu.png",
+            "chars": [
+                "\ue003"
+            ],
+            "height": 170,
+            "ascent": 47,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:gui/anvil_repair.png",
+            "chars": [
+                "\ue004"
+            ],
+            "height": 170,
+            "ascent": 47,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:gui/smithing.png",
+            "chars": [
+                "\ue005"
+            ],
+            "height": 170,
+            "ascent": 47,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/0.png",
+            "chars": [
+                "\ue006"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/1.png",
+            "chars": [
+                "\ue007"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/2.png",
+            "chars": [
+                "\ue008"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/3.png",
+            "chars": [
+                "\ue009"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/4.png",
+            "chars": [
+                "\ue00a"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/5.png",
+            "chars": [
+                "\ue00b"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/6.png",
+            "chars": [
+                "\ue00c"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/7.png",
+            "chars": [
+                "\ue00d"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/8.png",
+            "chars": [
+                "\ue00e"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/9.png",
+            "chars": [
+                "\ue00f"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/10.png",
+            "chars": [
+                "\ue010"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/11.png",
+            "chars": [
+                "\ue011"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/12.png",
+            "chars": [
+                "\ue012"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/13.png",
+            "chars": [
+                "\ue013"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/14.png",
+            "chars": [
+                "\ue014"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/15.png",
+            "chars": [
+                "\ue015"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/16.png",
+            "chars": [
+                "\ue016"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/17.png",
+            "chars": [
+                "\ue017"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/18.png",
+            "chars": [
+                "\ue018"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/19.png",
+            "chars": [
+                "\ue019"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "_iainternal:hud/small_cooldown_bar/20.png",
+            "chars": [
+                "\ue01a"
+            ],
+            "height": 22,
+            "ascent": -42,
+            "type": "bitmap"
+        },
+        {
+            "file": "litefish:font/fishin_end.png",
+            "chars": [
+                "\u32d1"
+            ],
+            "height": 3,
+            "ascent": 2,
+            "type": "bitmap"
+        },
+        {
+            "file": "litefish:font/fishin_front.png",
+            "chars": [
+                "\u32d0"
+            ],
+            "height": 3,
+            "ascent": 2,
+            "type": "bitmap"
+        },
+        {
+            "file": "litefish:font/fishin_fish.png",
+            "chars": [
+                "\u32d3"
+            ],
+            "height": 3,
+            "ascent": 2,
+            "type": "bitmap"
+        },
+        {
+            "file": "litefish:font/fishin_heart.png",
+            "chars": [
+                "\u32d5"
+            ],
+            "height": 3,
+            "ascent": 2,
+            "type": "bitmap"
+        },
+        {
+            "file": "litefish:font/fishin_hook.png",
+            "chars": [
+                "\u32d4"
+            ],
+            "height": 3,
+            "ascent": 2,
+            "type": "bitmap"
+        },
+        {
+            "file": "litefish:font/fishin_middle.png",
+            "chars": [
+                "\u32d2"
+            ],
+            "height": 3,
+            "ascent": 2,
+            "type": "bitmap"
+        },
+        {
+            "file": "litefish:font/fishin_onfish.png",
+            "chars": [
+                "\u32d6"
+            ],
+            "height": 3,
+            "ascent": 2,
+            "type": "bitmap"
+        },
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\uf801": -1,
+                "\uf802": -2,
+                "\uf803": -3,
+                "\uf804": -4,
+                "\uf805": -5,
+                "\uf806": -6,
+                "\uf807": -7,
+                "\uf808": -8,
+                "\uf809": -16,
+                "\uf80a": -32,
+                "\uf80b": -64,
+                "\uf80c": -128,
+                "\uf80d": -258,
+                "\uf80e": -512,
+                "\uf80f": -1024,
+                "\uf821": 1,
+                "\uf822": 2,
+                "\uf823": 3,
+                "\uf824": 4,
+                "\uf825": 5,
+                "\uf826": 6,
+                "\uf827": 7,
+                "\uf828": 8,
+                "\uf829": 16,
+                "\uf82a": 32,
+                "\uf82b": 64,
+                "\uf82c": 128,
+                "\uf82d": 256,
+                "\uf82e": 512,
+                "\uf82f": 1024
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/owner.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\ue800"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/coowner.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\ue801"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/admin.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\ue802"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/helper.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\ue803"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/eclipsion.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\ue804"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/moonveil.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\ue805"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/selene.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\ue806"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/lunaris.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\ue807"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/crescent.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\ue808"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/noctis.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\ue809"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/everie.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\ue80a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/dev.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\ue80b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/media.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\ue80c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/princess.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\ue80d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/mvp.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\ue80e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/logo.png",
+            "ascent": 44,
+            "height": 48,
+            "chars": [
+                "\ue80f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:logo/logo.png",
+            "ascent": 44,
+            "height": 48,
+            "chars": [
+                "\ue80f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/miaw.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\ue810"
+            ]
+        }
+    ]
 }

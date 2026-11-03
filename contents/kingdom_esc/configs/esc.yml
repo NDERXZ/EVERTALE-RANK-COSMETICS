@@ -4,5 +4,6 @@ minecraft_lang_overwrite:
   esc_menu_texts:
     entries:
       "menu.disconnect": ":offset_-10::offset_-256::bottom_news::offset_-256:"
+      "menu.returnToMenu": ":offset_-10::offset_-256::bottom_news::offset_-256:"
     languages:
       - ALL
