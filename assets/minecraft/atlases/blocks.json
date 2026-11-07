@@ -11,11 +11,6 @@
       "prefix": "item/"
     },
     {
-      "type": "directory",
-      "source": "fahfish:item",
-      "prefix": "fahfish:item/"
-    },
-    {
       "type": "single",
       "resource": "cosmetic_packv1:ender_backpack",
       "sprite": "ia:0"
