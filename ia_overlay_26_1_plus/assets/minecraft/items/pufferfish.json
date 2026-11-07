@@ -1,0 +1,111 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/pufferfish"
+    },
+    "entries": [
+      {
+        "threshold": 10000,
+        "model": {
+          "type": "model",
+          "model": "fahfish:item/fahfish_endlerfish"
+        }
+      },
+      {
+        "threshold": 10001,
+        "model": {
+          "type": "model",
+          "model": "fahfish:item/fahfish_sculk_whale"
+        }
+      },
+      {
+        "threshold": 10002,
+        "model": {
+          "type": "model",
+          "model": "fahfish:item/fahfish_sea_seraphs_v1"
+        }
+      },
+      {
+        "threshold": 10003,
+        "model": {
+          "type": "model",
+          "model": "fahfish:item/fahfish_sea_seraphs_v2"
+        }
+      },
+      {
+        "threshold": 10004,
+        "model": {
+          "type": "model",
+          "model": "fahfish:item/fahfish_sea_seraphs_v3"
+        }
+      },
+      {
+        "threshold": 10005,
+        "model": {
+          "type": "model",
+          "model": "fahfish:item/fahfish_sea_seraphs_v4"
+        }
+      },
+      {
+        "threshold": 10006,
+        "model": {
+          "type": "model",
+          "model": "fahfish:item/fahfish_sea_seraphs_v5"
+        }
+      },
+      {
+        "threshold": 10007,
+        "model": {
+          "type": "model",
+          "model": "fahfish:item/fahfish_sea_seraphs_v6"
+        }
+      },
+      {
+        "threshold": 10008,
+        "model": {
+          "type": "model",
+          "model": "fahfish:item/fahfish_sea_seraphs_v7"
+        }
+      },
+      {
+        "threshold": 10009,
+        "model": {
+          "type": "model",
+          "model": "fahfish:item/fahfish_swamp_king"
+        }
+      },
+      {
+        "threshold": 10010,
+        "model": {
+          "type": "model",
+          "model": "fahfish:item/fahfish_the_ancient"
+        }
+      },
+      {
+        "threshold": 10011,
+        "model": {
+          "type": "model",
+          "model": "fahfish:item/fahfish_thermalfish_v1"
+        }
+      },
+      {
+        "threshold": 10012,
+        "model": {
+          "type": "model",
+          "model": "fahfish:item/fahfish_thermalfish_v2"
+        }
+      },
+      {
+        "threshold": 10013,
+        "model": {
+          "type": "model",
+          "model": "fahfish:item/fahfish_wart_netherhorse"
+        }
+      }
+    ]
+  }
+}

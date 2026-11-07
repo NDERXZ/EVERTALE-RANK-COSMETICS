@@ -1,1 +1,1526 @@
-{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/tropical_fish"},"entries":[{"threshold":72000,"model":{"type":"model","model":"litefish:item/ia_auto/fish_4"}},{"threshold":72001,"model":{"type":"model","model":"litefish:item/ia_auto/fish_5"}},{"threshold":72002,"model":{"type":"model","model":"litefish:item/ia_auto/fish_7"}},{"threshold":72003,"model":{"type":"model","model":"litefish:item/ia_auto/fish_6"}},{"threshold":72004,"model":{"type":"model","model":"litefish:item/ia_auto/fish_8"}},{"threshold":72005,"model":{"type":"model","model":"litefish:item/ia_auto/fish_172"}},{"threshold":72006,"model":{"type":"model","model":"litefish:item/ia_auto/fish_173"}},{"threshold":72007,"model":{"type":"model","model":"litefish:item/ia_auto/fish_174"}},{"threshold":72008,"model":{"type":"model","model":"litefish:item/ia_auto/fish_175"}},{"threshold":72009,"model":{"type":"model","model":"litefish:item/ia_auto/fish_176"}},{"threshold":72010,"model":{"type":"model","model":"litefish:item/ia_auto/fish_177"}},{"threshold":72011,"model":{"type":"model","model":"litefish:item/ia_auto/fish_178"}},{"threshold":72012,"model":{"type":"model","model":"litefish:item/ia_auto/fish_179"}},{"threshold":72013,"model":{"type":"model","model":"litefish:item/ia_auto/fish_180"}},{"threshold":72014,"model":{"type":"model","model":"litefish:item/ia_auto/fish_181"}},{"threshold":72015,"model":{"type":"model","model":"litefish:item/ia_auto/fish_182"}},{"threshold":72016,"model":{"type":"model","model":"litefish:item/ia_auto/fish_183"}},{"threshold":72017,"model":{"type":"model","model":"litefish:item/ia_auto/fish_184"}},{"threshold":72018,"model":{"type":"model","model":"litefish:item/ia_auto/fish_185"}},{"threshold":72019,"model":{"type":"model","model":"litefish:item/ia_auto/fish_186"}},{"threshold":72020,"model":{"type":"model","model":"litefish:item/ia_auto/fish_187"}},{"threshold":72021,"model":{"type":"model","model":"litefish:item/ia_auto/fish_188"}},{"threshold":72022,"model":{"type":"model","model":"litefish:item/ia_auto/fish_189"}},{"threshold":72023,"model":{"type":"model","model":"litefish:item/ia_auto/fish_190"}},{"threshold":72024,"model":{"type":"model","model":"litefish:item/ia_auto/fish_191"}},{"threshold":72025,"model":{"type":"model","model":"litefish:item/ia_auto/fish_192"}},{"threshold":72026,"model":{"type":"model","model":"litefish:item/ia_auto/fish_193"}},{"threshold":72027,"model":{"type":"model","model":"litefish:item/ia_auto/fish_194"}},{"threshold":72028,"model":{"type":"model","model":"litefish:item/ia_auto/fish_195"}},{"threshold":72029,"model":{"type":"model","model":"litefish:item/ia_auto/fish_196"}},{"threshold":72030,"model":{"type":"model","model":"litefish:item/ia_auto/fish_197"}},{"threshold":72031,"model":{"type":"model","model":"litefish:item/ia_auto/fish_198"}},{"threshold":72032,"model":{"type":"model","model":"litefish:item/ia_auto/fish_199"}},{"threshold":72033,"model":{"type":"model","model":"litefish:item/ia_auto/fish_200"}},{"threshold":72034,"model":{"type":"model","model":"litefish:item/ia_auto/fish_201"}},{"threshold":72035,"model":{"type":"model","model":"litefish:item/ia_auto/fish_202"}},{"threshold":72036,"model":{"type":"model","model":"litefish:item/ia_auto/fish_203"}},{"threshold":72037,"model":{"type":"model","model":"litefish:item/ia_auto/fish_204"}},{"threshold":72038,"model":{"type":"model","model":"litefish:item/ia_auto/fish_205"}},{"threshold":72039,"model":{"type":"model","model":"litefish:item/ia_auto/fish_206"}},{"threshold":72040,"model":{"type":"model","model":"litefish:item/ia_auto/fish_207"}},{"threshold":72041,"model":{"type":"model","model":"litefish:item/ia_auto/fish_208"}},{"threshold":72042,"model":{"type":"model","model":"litefish:item/ia_auto/fish_209"}},{"threshold":72043,"model":{"type":"model","model":"litefish:item/ia_auto/fish_210"}},{"threshold":72044,"model":{"type":"model","model":"litefish:item/ia_auto/fish_211"}},{"threshold":72045,"model":{"type":"model","model":"litefish:item/ia_auto/fish_212"}},{"threshold":72046,"model":{"type":"model","model":"litefish:item/ia_auto/fish_213"}},{"threshold":72047,"model":{"type":"model","model":"litefish:item/ia_auto/fish_214"}},{"threshold":72048,"model":{"type":"model","model":"litefish:item/ia_auto/fish_215"}},{"threshold":72049,"model":{"type":"model","model":"litefish:item/ia_auto/fish_216"}},{"threshold":72050,"model":{"type":"model","model":"litefish:item/ia_auto/fish_217"}},{"threshold":72051,"model":{"type":"model","model":"litefish:item/ia_auto/fish_218"}},{"threshold":72052,"model":{"type":"model","model":"litefish:item/ia_auto/fish_219"}},{"threshold":72053,"model":{"type":"model","model":"litefish:item/ia_auto/fish_220"}},{"threshold":72054,"model":{"type":"model","model":"litefish:item/ia_auto/fish_221"}},{"threshold":72055,"model":{"type":"model","model":"litefish:item/ia_auto/fish_222"}},{"threshold":72056,"model":{"type":"model","model":"litefish:item/ia_auto/fish_223"}},{"threshold":72057,"model":{"type":"model","model":"litefish:item/ia_auto/fish_139"}},{"threshold":72058,"model":{"type":"model","model":"litefish:item/ia_auto/fish_140"}},{"threshold":72059,"model":{"type":"model","model":"litefish:item/ia_auto/fish_141"}},{"threshold":72060,"model":{"type":"model","model":"litefish:item/ia_auto/fish_142"}},{"threshold":72061,"model":{"type":"model","model":"litefish:item/ia_auto/fish_143"}},{"threshold":72062,"model":{"type":"model","model":"litefish:item/ia_auto/fish_144"}},{"threshold":72063,"model":{"type":"model","model":"litefish:item/ia_auto/fish_145"}},{"threshold":72064,"model":{"type":"model","model":"litefish:item/ia_auto/fish_146"}},{"threshold":72065,"model":{"type":"model","model":"litefish:item/ia_auto/fish_147"}},{"threshold":72066,"model":{"type":"model","model":"litefish:item/ia_auto/fish_132"}},{"threshold":72067,"model":{"type":"model","model":"litefish:item/ia_auto/fish_133"}},{"threshold":72068,"model":{"type":"model","model":"litefish:item/ia_auto/fish_134"}},{"threshold":72069,"model":{"type":"model","model":"litefish:item/ia_auto/fish_135"}},{"threshold":72070,"model":{"type":"model","model":"litefish:item/ia_auto/fish_136"}},{"threshold":72071,"model":{"type":"model","model":"litefish:item/ia_auto/fish_137"}},{"threshold":72072,"model":{"type":"model","model":"litefish:item/ia_auto/fish_138"}},{"threshold":72073,"model":{"type":"model","model":"litefish:item/ia_auto/fish_33"}},{"threshold":72074,"model":{"type":"model","model":"litefish:item/ia_auto/fish_34"}},{"threshold":72075,"model":{"type":"model","model":"litefish:item/ia_auto/fish_35"}},{"threshold":72076,"model":{"type":"model","model":"litefish:item/ia_auto/fish_36"}},{"threshold":72077,"model":{"type":"model","model":"litefish:item/ia_auto/fish_37"}},{"threshold":72078,"model":{"type":"model","model":"litefish:item/ia_auto/fish_38"}},{"threshold":72079,"model":{"type":"model","model":"litefish:item/ia_auto/fish_39"}},{"threshold":72080,"model":{"type":"model","model":"litefish:item/ia_auto/fish_40"}},{"threshold":72081,"model":{"type":"model","model":"litefish:item/ia_auto/fish_41"}},{"threshold":72082,"model":{"type":"model","model":"litefish:item/ia_auto/fish_42"}},{"threshold":72083,"model":{"type":"model","model":"litefish:item/ia_auto/fish_43"}},{"threshold":72084,"model":{"type":"model","model":"litefish:item/ia_auto/fish_44"}},{"threshold":72085,"model":{"type":"model","model":"litefish:item/ia_auto/fish_45"}},{"threshold":72086,"model":{"type":"model","model":"litefish:item/ia_auto/fish_46"}},{"threshold":72087,"model":{"type":"model","model":"litefish:item/ia_auto/fish_47"}},{"threshold":72088,"model":{"type":"model","model":"litefish:item/ia_auto/fish_48"}},{"threshold":72089,"model":{"type":"model","model":"litefish:item/ia_auto/fish_49"}},{"threshold":72090,"model":{"type":"model","model":"litefish:item/ia_auto/fish_50"}},{"threshold":72091,"model":{"type":"model","model":"litefish:item/ia_auto/fish_15"}},{"threshold":72092,"model":{"type":"model","model":"litefish:item/ia_auto/fish_16"}},{"threshold":72093,"model":{"type":"model","model":"litefish:item/ia_auto/fish_17"}},{"threshold":72094,"model":{"type":"model","model":"litefish:item/ia_auto/fish_18"}},{"threshold":72095,"model":{"type":"model","model":"litefish:item/ia_auto/fish_19"}},{"threshold":72096,"model":{"type":"model","model":"litefish:item/ia_auto/fish_20"}},{"threshold":72097,"model":{"type":"model","model":"litefish:item/ia_auto/fish_21"}},{"threshold":72098,"model":{"type":"model","model":"litefish:item/ia_auto/fish_22"}},{"threshold":72099,"model":{"type":"model","model":"litefish:item/ia_auto/fish_23"}},{"threshold":72100,"model":{"type":"model","model":"litefish:item/ia_auto/fish_24"}},{"threshold":72101,"model":{"type":"model","model":"litefish:item/ia_auto/fish_25"}},{"threshold":72102,"model":{"type":"model","model":"litefish:item/ia_auto/fish_26"}},{"threshold":72103,"model":{"type":"model","model":"litefish:item/ia_auto/fish_27"}},{"threshold":72104,"model":{"type":"model","model":"litefish:item/ia_auto/fish_28"}},{"threshold":72105,"model":{"type":"model","model":"litefish:item/ia_auto/fish_29"}},{"threshold":72106,"model":{"type":"model","model":"litefish:item/ia_auto/fish_30"}},{"threshold":72107,"model":{"type":"model","model":"litefish:item/ia_auto/fish_31"}},{"threshold":72108,"model":{"type":"model","model":"litefish:item/ia_auto/fish_32"}},{"threshold":72109,"model":{"type":"model","model":"litefish:item/ia_auto/fish_1"}},{"threshold":72110,"model":{"type":"model","model":"litefish:item/ia_auto/fish_2"}},{"threshold":72111,"model":{"type":"model","model":"litefish:item/ia_auto/fish_3"}},{"threshold":72112,"model":{"type":"model","model":"litefish:item/ia_auto/fish_13"}},{"threshold":72113,"model":{"type":"model","model":"litefish:item/ia_auto/fish_14"}},{"threshold":72114,"model":{"type":"model","model":"litefish:item/ia_auto/fish_51"}},{"threshold":72115,"model":{"type":"model","model":"litefish:item/ia_auto/fish_52"}},{"threshold":72116,"model":{"type":"model","model":"litefish:item/ia_auto/fish_53"}},{"threshold":72117,"model":{"type":"model","model":"litefish:item/ia_auto/fish_54"}},{"threshold":72118,"model":{"type":"model","model":"litefish:item/ia_auto/fish_111"}},{"threshold":72119,"model":{"type":"model","model":"litefish:item/ia_auto/fish_113"}},{"threshold":72120,"model":{"type":"model","model":"litefish:item/ia_auto/fish_114"}},{"threshold":72121,"model":{"type":"model","model":"litefish:item/ia_auto/fish_112"}},{"threshold":72122,"model":{"type":"model","model":"litefish:item/ia_auto/fish_148"}},{"threshold":72123,"model":{"type":"model","model":"litefish:item/ia_auto/fish_154"}},{"threshold":72124,"model":{"type":"model","model":"litefish:item/ia_auto/fish_160"}},{"threshold":72125,"model":{"type":"model","model":"litefish:item/ia_auto/fish_166"}},{"threshold":72126,"model":{"type":"model","model":"litefish:item/ia_auto/fish_149"}},{"threshold":72127,"model":{"type":"model","model":"litefish:item/ia_auto/fish_155"}},{"threshold":72128,"model":{"type":"model","model":"litefish:item/ia_auto/fish_161"}},{"threshold":72129,"model":{"type":"model","model":"litefish:item/ia_auto/fish_167"}},{"threshold":72130,"model":{"type":"model","model":"litefish:item/ia_auto/fish_150"}},{"threshold":72131,"model":{"type":"model","model":"litefish:item/ia_auto/fish_162"}},{"threshold":72132,"model":{"type":"model","model":"litefish:item/ia_auto/fish_168"}},{"threshold":72133,"model":{"type":"model","model":"litefish:item/ia_auto/fish_151"}},{"threshold":72134,"model":{"type":"model","model":"litefish:item/ia_auto/fish_157"}},{"threshold":72135,"model":{"type":"model","model":"litefish:item/ia_auto/fish_163"}},{"threshold":72136,"model":{"type":"model","model":"litefish:item/ia_auto/fish_169"}},{"threshold":72137,"model":{"type":"model","model":"litefish:item/ia_auto/fish_152"}},{"threshold":72138,"model":{"type":"model","model":"litefish:item/ia_auto/fish_153"}},{"threshold":72139,"model":{"type":"model","model":"litefish:item/ia_auto/fish_159"}},{"threshold":72140,"model":{"type":"model","model":"litefish:item/ia_auto/fish_165"}},{"threshold":72141,"model":{"type":"model","model":"litefish:item/ia_auto/fish_171"}},{"threshold":72142,"model":{"type":"model","model":"litefish:item/ia_auto/fish_158"}},{"threshold":72143,"model":{"type":"model","model":"litefish:item/ia_auto/fish_164"}},{"threshold":72144,"model":{"type":"model","model":"litefish:item/ia_auto/fish_170"}},{"threshold":72145,"model":{"type":"model","model":"litefish:item/ia_auto/fish_55"}},{"threshold":72146,"model":{"type":"model","model":"litefish:item/ia_auto/fish_56"}},{"threshold":72147,"model":{"type":"model","model":"litefish:item/ia_auto/fish_57"}},{"threshold":72148,"model":{"type":"model","model":"litefish:item/ia_auto/fish_58"}},{"threshold":72149,"model":{"type":"model","model":"litefish:item/ia_auto/fish_59"}},{"threshold":72150,"model":{"type":"model","model":"litefish:item/ia_auto/fish_60"}},{"threshold":72151,"model":{"type":"model","model":"litefish:item/ia_auto/fish_61"}},{"threshold":72152,"model":{"type":"model","model":"litefish:item/ia_auto/fish_62"}},{"threshold":72153,"model":{"type":"model","model":"litefish:item/ia_auto/fish_63"}},{"threshold":72154,"model":{"type":"model","model":"litefish:item/ia_auto/fish_64"}},{"threshold":72155,"model":{"type":"model","model":"litefish:item/ia_auto/fish_65"}},{"threshold":72156,"model":{"type":"model","model":"litefish:item/ia_auto/fish_66"}},{"threshold":72157,"model":{"type":"model","model":"litefish:item/ia_auto/fish_67"}},{"threshold":72158,"model":{"type":"model","model":"litefish:item/ia_auto/fish_68"}},{"threshold":72159,"model":{"type":"model","model":"litefish:item/ia_auto/fish_69"}},{"threshold":72160,"model":{"type":"model","model":"litefish:item/ia_auto/fish_70"}},{"threshold":72161,"model":{"type":"model","model":"litefish:item/ia_auto/fish_71"}},{"threshold":72162,"model":{"type":"model","model":"litefish:item/ia_auto/fish_72"}},{"threshold":72163,"model":{"type":"model","model":"litefish:item/ia_auto/fish_73"}},{"threshold":72164,"model":{"type":"model","model":"litefish:item/ia_auto/fish_74"}},{"threshold":72165,"model":{"type":"model","model":"litefish:item/ia_auto/fish_75"}},{"threshold":72166,"model":{"type":"model","model":"litefish:item/ia_auto/fish_76"}},{"threshold":72167,"model":{"type":"model","model":"litefish:item/ia_auto/fish_77"}},{"threshold":72168,"model":{"type":"model","model":"litefish:item/ia_auto/fish_78"}},{"threshold":72169,"model":{"type":"model","model":"litefish:item/ia_auto/fish_79"}},{"threshold":72170,"model":{"type":"model","model":"litefish:item/ia_auto/fish_80"}},{"threshold":72171,"model":{"type":"model","model":"litefish:item/ia_auto/fish_81"}},{"threshold":72172,"model":{"type":"model","model":"litefish:item/ia_auto/fish_82"}},{"threshold":72173,"model":{"type":"model","model":"litefish:item/ia_auto/fish_90"}},{"threshold":72174,"model":{"type":"model","model":"litefish:item/ia_auto/fish_91"}},{"threshold":72175,"model":{"type":"model","model":"litefish:item/ia_auto/fish_92"}},{"threshold":72176,"model":{"type":"model","model":"litefish:item/ia_auto/fish_93"}},{"threshold":72177,"model":{"type":"model","model":"litefish:item/ia_auto/fish_94"}},{"threshold":72178,"model":{"type":"model","model":"litefish:item/ia_auto/fish_95"}},{"threshold":72179,"model":{"type":"model","model":"litefish:item/ia_auto/fish_96"}},{"threshold":72180,"model":{"type":"model","model":"litefish:item/ia_auto/fish_97"}},{"threshold":72181,"model":{"type":"model","model":"litefish:item/ia_auto/fish_98"}},{"threshold":72182,"model":{"type":"model","model":"litefish:item/ia_auto/fish_99"}},{"threshold":72183,"model":{"type":"model","model":"litefish:item/ia_auto/fish_100"}},{"threshold":72184,"model":{"type":"model","model":"litefish:item/ia_auto/fish_101"}},{"threshold":72185,"model":{"type":"model","model":"litefish:item/ia_auto/fish_102"}},{"threshold":72186,"model":{"type":"model","model":"litefish:item/ia_auto/fish_103"}},{"threshold":72187,"model":{"type":"model","model":"litefish:item/ia_auto/fish_104"}},{"threshold":72188,"model":{"type":"model","model":"litefish:item/ia_auto/fish_105"}},{"threshold":72189,"model":{"type":"model","model":"litefish:item/ia_auto/fish_106"}},{"threshold":72190,"model":{"type":"model","model":"litefish:item/ia_auto/fish_107"}},{"threshold":72191,"model":{"type":"model","model":"litefish:item/ia_auto/fish_108"}},{"threshold":72192,"model":{"type":"model","model":"litefish:item/ia_auto/fish_109"}},{"threshold":72193,"model":{"type":"model","model":"litefish:item/ia_auto/fish_110"}},{"threshold":72194,"model":{"type":"model","model":"litefish:item/ia_auto/fish_9"}},{"threshold":72195,"model":{"type":"model","model":"litefish:item/ia_auto/fish_10"}},{"threshold":72196,"model":{"type":"model","model":"litefish:item/ia_auto/fish_11"}},{"threshold":72197,"model":{"type":"model","model":"litefish:item/ia_auto/fish_12"}},{"threshold":72198,"model":{"type":"model","model":"litefish:item/ia_auto/fish_115"}},{"threshold":72199,"model":{"type":"model","model":"litefish:item/ia_auto/fish_116"}},{"threshold":72200,"model":{"type":"model","model":"litefish:item/ia_auto/fish_117"}},{"threshold":72201,"model":{"type":"model","model":"litefish:item/ia_auto/fish_118"}},{"threshold":72202,"model":{"type":"model","model":"litefish:item/ia_auto/fish_119"}},{"threshold":72203,"model":{"type":"model","model":"litefish:item/ia_auto/fish_120"}},{"threshold":72204,"model":{"type":"model","model":"litefish:item/ia_auto/fish_121"}},{"threshold":72205,"model":{"type":"model","model":"litefish:item/ia_auto/fish_122"}},{"threshold":72206,"model":{"type":"model","model":"litefish:item/ia_auto/fish_123"}},{"threshold":72207,"model":{"type":"model","model":"litefish:item/ia_auto/fish_124"}},{"threshold":72208,"model":{"type":"model","model":"litefish:item/ia_auto/fish_125"}},{"threshold":72209,"model":{"type":"model","model":"litefish:item/ia_auto/fish_126"}},{"threshold":72210,"model":{"type":"model","model":"litefish:item/ia_auto/fish_127"}},{"threshold":72211,"model":{"type":"model","model":"litefish:item/ia_auto/fish_128"}},{"threshold":72212,"model":{"type":"model","model":"litefish:item/ia_auto/fish_129"}},{"threshold":72213,"model":{"type":"model","model":"litefish:item/ia_auto/fish_130"}},{"threshold":72214,"model":{"type":"model","model":"litefish:item/ia_auto/fish_131"}},{"threshold":72215,"model":{"type":"model","model":"item/tropical_fish"}}]},"oversized_in_gui":true}
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/tropical_fish"
+    },
+    "entries": [
+      {
+        "threshold": 72000,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_4"
+        }
+      },
+      {
+        "threshold": 72001,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_5"
+        }
+      },
+      {
+        "threshold": 72002,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_7"
+        }
+      },
+      {
+        "threshold": 72003,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_6"
+        }
+      },
+      {
+        "threshold": 72004,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_8"
+        }
+      },
+      {
+        "threshold": 72005,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_172"
+        }
+      },
+      {
+        "threshold": 72006,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_173"
+        }
+      },
+      {
+        "threshold": 72007,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_174"
+        }
+      },
+      {
+        "threshold": 72008,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_175"
+        }
+      },
+      {
+        "threshold": 72009,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_176"
+        }
+      },
+      {
+        "threshold": 72010,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_177"
+        }
+      },
+      {
+        "threshold": 72011,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_178"
+        }
+      },
+      {
+        "threshold": 72012,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_179"
+        }
+      },
+      {
+        "threshold": 72013,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_180"
+        }
+      },
+      {
+        "threshold": 72014,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_181"
+        }
+      },
+      {
+        "threshold": 72015,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_182"
+        }
+      },
+      {
+        "threshold": 72016,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_183"
+        }
+      },
+      {
+        "threshold": 72017,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_184"
+        }
+      },
+      {
+        "threshold": 72018,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_185"
+        }
+      },
+      {
+        "threshold": 72019,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_186"
+        }
+      },
+      {
+        "threshold": 72020,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_187"
+        }
+      },
+      {
+        "threshold": 72021,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_188"
+        }
+      },
+      {
+        "threshold": 72022,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_189"
+        }
+      },
+      {
+        "threshold": 72023,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_190"
+        }
+      },
+      {
+        "threshold": 72024,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_191"
+        }
+      },
+      {
+        "threshold": 72025,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_192"
+        }
+      },
+      {
+        "threshold": 72026,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_193"
+        }
+      },
+      {
+        "threshold": 72027,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_194"
+        }
+      },
+      {
+        "threshold": 72028,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_195"
+        }
+      },
+      {
+        "threshold": 72029,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_196"
+        }
+      },
+      {
+        "threshold": 72030,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_197"
+        }
+      },
+      {
+        "threshold": 72031,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_198"
+        }
+      },
+      {
+        "threshold": 72032,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_199"
+        }
+      },
+      {
+        "threshold": 72033,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_200"
+        }
+      },
+      {
+        "threshold": 72034,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_201"
+        }
+      },
+      {
+        "threshold": 72035,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_202"
+        }
+      },
+      {
+        "threshold": 72036,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_203"
+        }
+      },
+      {
+        "threshold": 72037,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_204"
+        }
+      },
+      {
+        "threshold": 72038,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_205"
+        }
+      },
+      {
+        "threshold": 72039,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_206"
+        }
+      },
+      {
+        "threshold": 72040,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_207"
+        }
+      },
+      {
+        "threshold": 72041,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_208"
+        }
+      },
+      {
+        "threshold": 72042,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_209"
+        }
+      },
+      {
+        "threshold": 72043,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_210"
+        }
+      },
+      {
+        "threshold": 72044,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_211"
+        }
+      },
+      {
+        "threshold": 72045,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_212"
+        }
+      },
+      {
+        "threshold": 72046,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_213"
+        }
+      },
+      {
+        "threshold": 72047,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_214"
+        }
+      },
+      {
+        "threshold": 72048,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_215"
+        }
+      },
+      {
+        "threshold": 72049,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_216"
+        }
+      },
+      {
+        "threshold": 72050,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_217"
+        }
+      },
+      {
+        "threshold": 72051,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_218"
+        }
+      },
+      {
+        "threshold": 72052,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_219"
+        }
+      },
+      {
+        "threshold": 72053,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_220"
+        }
+      },
+      {
+        "threshold": 72054,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_221"
+        }
+      },
+      {
+        "threshold": 72055,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_222"
+        }
+      },
+      {
+        "threshold": 72056,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_223"
+        }
+      },
+      {
+        "threshold": 72057,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_139"
+        }
+      },
+      {
+        "threshold": 72058,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_140"
+        }
+      },
+      {
+        "threshold": 72059,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_141"
+        }
+      },
+      {
+        "threshold": 72060,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_142"
+        }
+      },
+      {
+        "threshold": 72061,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_143"
+        }
+      },
+      {
+        "threshold": 72062,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_144"
+        }
+      },
+      {
+        "threshold": 72063,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_145"
+        }
+      },
+      {
+        "threshold": 72064,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_146"
+        }
+      },
+      {
+        "threshold": 72065,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_147"
+        }
+      },
+      {
+        "threshold": 72066,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_132"
+        }
+      },
+      {
+        "threshold": 72067,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_133"
+        }
+      },
+      {
+        "threshold": 72068,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_134"
+        }
+      },
+      {
+        "threshold": 72069,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_135"
+        }
+      },
+      {
+        "threshold": 72070,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_136"
+        }
+      },
+      {
+        "threshold": 72071,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_137"
+        }
+      },
+      {
+        "threshold": 72072,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_138"
+        }
+      },
+      {
+        "threshold": 72073,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_33"
+        }
+      },
+      {
+        "threshold": 72074,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_34"
+        }
+      },
+      {
+        "threshold": 72075,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_35"
+        }
+      },
+      {
+        "threshold": 72076,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_36"
+        }
+      },
+      {
+        "threshold": 72077,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_37"
+        }
+      },
+      {
+        "threshold": 72078,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_38"
+        }
+      },
+      {
+        "threshold": 72079,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_39"
+        }
+      },
+      {
+        "threshold": 72080,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_40"
+        }
+      },
+      {
+        "threshold": 72081,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_41"
+        }
+      },
+      {
+        "threshold": 72082,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_42"
+        }
+      },
+      {
+        "threshold": 72083,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_43"
+        }
+      },
+      {
+        "threshold": 72084,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_44"
+        }
+      },
+      {
+        "threshold": 72085,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_45"
+        }
+      },
+      {
+        "threshold": 72086,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_46"
+        }
+      },
+      {
+        "threshold": 72087,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_47"
+        }
+      },
+      {
+        "threshold": 72088,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_48"
+        }
+      },
+      {
+        "threshold": 72089,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_49"
+        }
+      },
+      {
+        "threshold": 72090,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_50"
+        }
+      },
+      {
+        "threshold": 72091,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_15"
+        }
+      },
+      {
+        "threshold": 72092,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_16"
+        }
+      },
+      {
+        "threshold": 72093,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_17"
+        }
+      },
+      {
+        "threshold": 72094,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_18"
+        }
+      },
+      {
+        "threshold": 72095,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_19"
+        }
+      },
+      {
+        "threshold": 72096,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_20"
+        }
+      },
+      {
+        "threshold": 72097,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_21"
+        }
+      },
+      {
+        "threshold": 72098,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_22"
+        }
+      },
+      {
+        "threshold": 72099,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_23"
+        }
+      },
+      {
+        "threshold": 72100,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_24"
+        }
+      },
+      {
+        "threshold": 72101,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_25"
+        }
+      },
+      {
+        "threshold": 72102,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_26"
+        }
+      },
+      {
+        "threshold": 72103,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_27"
+        }
+      },
+      {
+        "threshold": 72104,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_28"
+        }
+      },
+      {
+        "threshold": 72105,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_29"
+        }
+      },
+      {
+        "threshold": 72106,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_30"
+        }
+      },
+      {
+        "threshold": 72107,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_31"
+        }
+      },
+      {
+        "threshold": 72108,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_32"
+        }
+      },
+      {
+        "threshold": 72109,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_1"
+        }
+      },
+      {
+        "threshold": 72110,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_2"
+        }
+      },
+      {
+        "threshold": 72111,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_3"
+        }
+      },
+      {
+        "threshold": 72112,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_13"
+        }
+      },
+      {
+        "threshold": 72113,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_14"
+        }
+      },
+      {
+        "threshold": 72114,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_51"
+        }
+      },
+      {
+        "threshold": 72115,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_52"
+        }
+      },
+      {
+        "threshold": 72116,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_53"
+        }
+      },
+      {
+        "threshold": 72117,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_54"
+        }
+      },
+      {
+        "threshold": 72118,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_111"
+        }
+      },
+      {
+        "threshold": 72119,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_113"
+        }
+      },
+      {
+        "threshold": 72120,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_114"
+        }
+      },
+      {
+        "threshold": 72121,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_112"
+        }
+      },
+      {
+        "threshold": 72122,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_148"
+        }
+      },
+      {
+        "threshold": 72123,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_154"
+        }
+      },
+      {
+        "threshold": 72124,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_160"
+        }
+      },
+      {
+        "threshold": 72125,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_166"
+        }
+      },
+      {
+        "threshold": 72126,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_149"
+        }
+      },
+      {
+        "threshold": 72127,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_155"
+        }
+      },
+      {
+        "threshold": 72128,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_161"
+        }
+      },
+      {
+        "threshold": 72129,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_167"
+        }
+      },
+      {
+        "threshold": 72130,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_150"
+        }
+      },
+      {
+        "threshold": 72131,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_162"
+        }
+      },
+      {
+        "threshold": 72132,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_168"
+        }
+      },
+      {
+        "threshold": 72133,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_151"
+        }
+      },
+      {
+        "threshold": 72134,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_157"
+        }
+      },
+      {
+        "threshold": 72135,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_163"
+        }
+      },
+      {
+        "threshold": 72136,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_169"
+        }
+      },
+      {
+        "threshold": 72137,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_152"
+        }
+      },
+      {
+        "threshold": 72138,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_153"
+        }
+      },
+      {
+        "threshold": 72139,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_159"
+        }
+      },
+      {
+        "threshold": 72140,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_165"
+        }
+      },
+      {
+        "threshold": 72141,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_171"
+        }
+      },
+      {
+        "threshold": 72142,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_158"
+        }
+      },
+      {
+        "threshold": 72143,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_164"
+        }
+      },
+      {
+        "threshold": 72144,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_170"
+        }
+      },
+      {
+        "threshold": 72145,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_55"
+        }
+      },
+      {
+        "threshold": 72146,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_56"
+        }
+      },
+      {
+        "threshold": 72147,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_57"
+        }
+      },
+      {
+        "threshold": 72148,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_58"
+        }
+      },
+      {
+        "threshold": 72149,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_59"
+        }
+      },
+      {
+        "threshold": 72150,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_60"
+        }
+      },
+      {
+        "threshold": 72151,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_61"
+        }
+      },
+      {
+        "threshold": 72152,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_62"
+        }
+      },
+      {
+        "threshold": 72153,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_63"
+        }
+      },
+      {
+        "threshold": 72154,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_64"
+        }
+      },
+      {
+        "threshold": 72155,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_65"
+        }
+      },
+      {
+        "threshold": 72156,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_66"
+        }
+      },
+      {
+        "threshold": 72157,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_67"
+        }
+      },
+      {
+        "threshold": 72158,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_68"
+        }
+      },
+      {
+        "threshold": 72159,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_69"
+        }
+      },
+      {
+        "threshold": 72160,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_70"
+        }
+      },
+      {
+        "threshold": 72161,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_71"
+        }
+      },
+      {
+        "threshold": 72162,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_72"
+        }
+      },
+      {
+        "threshold": 72163,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_73"
+        }
+      },
+      {
+        "threshold": 72164,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_74"
+        }
+      },
+      {
+        "threshold": 72165,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_75"
+        }
+      },
+      {
+        "threshold": 72166,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_76"
+        }
+      },
+      {
+        "threshold": 72167,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_77"
+        }
+      },
+      {
+        "threshold": 72168,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_78"
+        }
+      },
+      {
+        "threshold": 72169,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_79"
+        }
+      },
+      {
+        "threshold": 72170,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_80"
+        }
+      },
+      {
+        "threshold": 72171,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_81"
+        }
+      },
+      {
+        "threshold": 72172,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_82"
+        }
+      },
+      {
+        "threshold": 72173,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_90"
+        }
+      },
+      {
+        "threshold": 72174,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_91"
+        }
+      },
+      {
+        "threshold": 72175,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_92"
+        }
+      },
+      {
+        "threshold": 72176,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_93"
+        }
+      },
+      {
+        "threshold": 72177,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_94"
+        }
+      },
+      {
+        "threshold": 72178,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_95"
+        }
+      },
+      {
+        "threshold": 72179,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_96"
+        }
+      },
+      {
+        "threshold": 72180,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_97"
+        }
+      },
+      {
+        "threshold": 72181,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_98"
+        }
+      },
+      {
+        "threshold": 72182,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_99"
+        }
+      },
+      {
+        "threshold": 72183,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_100"
+        }
+      },
+      {
+        "threshold": 72184,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_101"
+        }
+      },
+      {
+        "threshold": 72185,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_102"
+        }
+      },
+      {
+        "threshold": 72186,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_103"
+        }
+      },
+      {
+        "threshold": 72187,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_104"
+        }
+      },
+      {
+        "threshold": 72188,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_105"
+        }
+      },
+      {
+        "threshold": 72189,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_106"
+        }
+      },
+      {
+        "threshold": 72190,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_107"
+        }
+      },
+      {
+        "threshold": 72191,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_108"
+        }
+      },
+      {
+        "threshold": 72192,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_109"
+        }
+      },
+      {
+        "threshold": 72193,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_110"
+        }
+      },
+      {
+        "threshold": 72194,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_9"
+        }
+      },
+      {
+        "threshold": 72195,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_10"
+        }
+      },
+      {
+        "threshold": 72196,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_11"
+        }
+      },
+      {
+        "threshold": 72197,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_12"
+        }
+      },
+      {
+        "threshold": 72198,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_115"
+        }
+      },
+      {
+        "threshold": 72199,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_116"
+        }
+      },
+      {
+        "threshold": 72200,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_117"
+        }
+      },
+      {
+        "threshold": 72201,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_118"
+        }
+      },
+      {
+        "threshold": 72202,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_119"
+        }
+      },
+      {
+        "threshold": 72203,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_120"
+        }
+      },
+      {
+        "threshold": 72204,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_121"
+        }
+      },
+      {
+        "threshold": 72205,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_122"
+        }
+      },
+      {
+        "threshold": 72206,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_123"
+        }
+      },
+      {
+        "threshold": 72207,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_124"
+        }
+      },
+      {
+        "threshold": 72208,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_125"
+        }
+      },
+      {
+        "threshold": 72209,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_126"
+        }
+      },
+      {
+        "threshold": 72210,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_127"
+        }
+      },
+      {
+        "threshold": 72211,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_128"
+        }
+      },
+      {
+        "threshold": 72212,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_129"
+        }
+      },
+      {
+        "threshold": 72213,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_130"
+        }
+      },
+      {
+        "threshold": 72214,
+        "model": {
+          "type": "model",
+          "model": "litefish:item/ia_auto/fish_131"
+        }
+      },
+      {
+        "threshold": 72215,
+        "model": {
+          "type": "model",
+          "model": "item/tropical_fish"
+        }
+      }
+    ]
+  },
+  "oversized_in_gui": true
+}
