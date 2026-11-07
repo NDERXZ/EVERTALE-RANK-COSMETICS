@@ -1,6 +1,216 @@
 {
   "sources": [
     {
+      "type": "directory",
+      "source": "block",
+      "prefix": "block/"
+    },
+    {
+      "type": "directory",
+      "source": "item",
+      "prefix": "item/"
+    },
+    {
+      "type": "directory",
+      "source": "fahfish:item",
+      "prefix": "fahfish:item/"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:ender_backpack",
+      "sprite": "ia:0"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:ender_hand",
+      "sprite": "ia:1"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:ender_hat",
+      "sprite": "ia:2"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:frozen_backpack",
+      "sprite": "ia:3"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:frozen_hand",
+      "sprite": "ia:4"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:frozen_hat",
+      "sprite": "ia:5"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:knight_backpack",
+      "sprite": "ia:6"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:knight_hand",
+      "sprite": "ia:7"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:knight_hat",
+      "sprite": "ia:8"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:ninja_backpack",
+      "sprite": "ia:9"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:ninja_hand",
+      "sprite": "ia:10"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:ninja_hat",
+      "sprite": "ia:11"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:wizard_backpack",
+      "sprite": "ia:12"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:wizard_hand",
+      "sprite": "ia:13"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:wizard_hat",
+      "sprite": "ia:14"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:diver_backpack",
+      "sprite": "ia:15"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:diver_hand",
+      "sprite": "ia:16"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:diver_hat",
+      "sprite": "ia:17"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:nether_beetle_backpack",
+      "sprite": "ia:18"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:nether_beetle_backpack_e",
+      "sprite": "ia:19"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:nether_beetle_hand",
+      "sprite": "ia:20"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:nether_beetle_hand_e",
+      "sprite": "ia:21"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:nether_beetle_hat",
+      "sprite": "ia:22"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:nether_beetle_hat_e",
+      "sprite": "ia:23"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:skulk_backpack",
+      "sprite": "ia:24"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:skulk_backpack_e",
+      "sprite": "ia:25"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:skulk_hand",
+      "sprite": "ia:26"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:skulk_hand_e",
+      "sprite": "ia:27"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:skulk_hat_e",
+      "sprite": "ia:28"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:skulk_hat",
+      "sprite": "ia:29"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:summer_backpack",
+      "sprite": "ia:30"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:summer_hand",
+      "sprite": "ia:31"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:summer_hat",
+      "sprite": "ia:32"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:tiki_backpack_e",
+      "sprite": "ia:33"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:tiki_backpack",
+      "sprite": "ia:34"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:tiki_hand",
+      "sprite": "ia:35"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:tiki_hand_e",
+      "sprite": "ia:36"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:tiki_hat_e",
+      "sprite": "ia:37"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:tiki_hat",
+      "sprite": "ia:38"
+    },
+    {
       "type": "single",
       "resource": "dark_fantasy_cosmetics_vol_1:cemetery_witch_broom",
       "sprite": "ia:39"
@@ -122,6 +332,21 @@
     },
     {
       "type": "single",
+      "resource": "hmccosmetics:icons/arrow_back",
+      "sprite": "ia:63"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/arrow_next",
+      "sprite": "ia:64"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/colorful",
+      "sprite": "ia:65"
+    },
+    {
+      "type": "single",
       "resource": "hmccosmetics:item/backpack",
       "sprite": "ia:66"
     },
@@ -129,6 +354,21 @@
       "type": "single",
       "resource": "hmccosmetics:item/baseball_hat",
       "sprite": "ia:67"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/beanie",
+      "sprite": "ia:68"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/earth_day_grabber",
+      "sprite": "ia:69"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/explorer_backpack",
+      "sprite": "ia:70"
     },
     {
       "type": "single",
@@ -179,6 +419,16 @@
       "type": "single",
       "resource": "hmccosmetics:item/lantern_cosmetic",
       "sprite": "ia:80"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/paintbrush_paint",
+      "sprite": "ia:81"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/paintbrush",
+      "sprite": "ia:82"
     },
     {
       "type": "single",
@@ -297,6 +547,11 @@
     },
     {
       "type": "single",
+      "resource": "cosmetics:sniffer_sword",
+      "sprite": "ia:106"
+    },
+    {
+      "type": "single",
       "resource": "unicorn_cosmetics:cosmetics/unicorn_backpack_texture",
       "sprite": "ia:107"
     },
@@ -307,8 +562,23 @@
     },
     {
       "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_backpack_dyeable_texture",
+      "sprite": "ia:109"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_animation_texture",
+      "sprite": "ia:110"
+    },
+    {
+      "type": "single",
       "resource": "unicorn_cosmetics:cosmetics/unicorn_balloon_texture",
       "sprite": "ia:111"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_balloon_dyeable_texture",
+      "sprite": "ia:112"
     },
     {
       "type": "single",
@@ -317,8 +587,18 @@
     },
     {
       "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_hat_dyeable_texture",
+      "sprite": "ia:114"
+    },
+    {
+      "type": "single",
       "resource": "unicorn_cosmetics:cosmetics/unicorn_staff_texture",
       "sprite": "ia:115"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_staff_dyeable_texture",
+      "sprite": "ia:116"
     },
     {
       "type": "single",
@@ -687,8 +967,163 @@
     },
     {
       "type": "single",
+      "resource": "litefish:items/lfish_24",
+      "sprite": "ia:190"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_69",
+      "sprite": "ia:191"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_199",
+      "sprite": "ia:192"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_187",
+      "sprite": "ia:193"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_142",
+      "sprite": "ia:194"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_9",
+      "sprite": "ia:195"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_70",
+      "sprite": "ia:196"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_53",
+      "sprite": "ia:197"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_125",
+      "sprite": "ia:198"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_205",
+      "sprite": "ia:199"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_210",
+      "sprite": "ia:200"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_171",
+      "sprite": "ia:201"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_113",
+      "sprite": "ia:202"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_158",
+      "sprite": "ia:203"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_91",
+      "sprite": "ia:204"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_19",
+      "sprite": "ia:205"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_183",
+      "sprite": "ia:206"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_57",
+      "sprite": "ia:207"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_12",
+      "sprite": "ia:208"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_104",
+      "sprite": "ia:209"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_192",
+      "sprite": "ia:210"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_98",
+      "sprite": "ia:211"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_217",
+      "sprite": "ia:212"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_154",
+      "sprite": "ia:213"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_214",
+      "sprite": "ia:214"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_82",
+      "sprite": "ia:215"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_41",
+      "sprite": "ia:216"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_28",
+      "sprite": "ia:217"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_77",
+      "sprite": "ia:218"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_116",
+      "sprite": "ia:219"
+    },
+    {
+      "type": "single",
       "resource": "_iainternal:icons/icon_next_orange",
       "sprite": "ia:220"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_32",
+      "sprite": "ia:221"
     },
     {
       "type": "single",
@@ -697,8 +1132,98 @@
     },
     {
       "type": "single",
+      "resource": "litefish:items/lfish_180",
+      "sprite": "ia:223"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_15",
+      "sprite": "ia:224"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_129",
+      "sprite": "ia:225"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_95",
+      "sprite": "ia:226"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_48",
+      "sprite": "ia:227"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_100",
+      "sprite": "ia:228"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_62",
+      "sprite": "ia:229"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_196",
+      "sprite": "ia:230"
+    },
+    {
+      "type": "single",
       "resource": "_iainternal:icons/icon_right_blue",
       "sprite": "ia:231"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_133",
+      "sprite": "ia:232"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_78",
+      "sprite": "ia:233"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_202",
+      "sprite": "ia:234"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_163",
+      "sprite": "ia:235"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_191",
+      "sprite": "ia:236"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_213",
+      "sprite": "ia:237"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_218",
+      "sprite": "ia:238"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_149",
+      "sprite": "ia:239"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_61",
+      "sprite": "ia:240"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_49",
+      "sprite": "ia:241"
     },
     {
       "type": "single",
@@ -707,8 +1232,198 @@
     },
     {
       "type": "single",
+      "resource": "litefish:items/lfish_134",
+      "sprite": "ia:243"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_209",
+      "sprite": "ia:244"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_162",
+      "sprite": "ia:245"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_5",
+      "sprite": "ia:246"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_222",
+      "sprite": "ia:247"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_33",
+      "sprite": "ia:248"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_178",
+      "sprite": "ia:249"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_90",
+      "sprite": "ia:250"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_71",
+      "sprite": "ia:251"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_105",
+      "sprite": "ia:252"
+    },
+    {
+      "type": "single",
       "resource": "_iainternal:icons/icon_arrow_chest",
       "sprite": "ia:253"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_39",
+      "sprite": "ia:254"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_141",
+      "sprite": "ia:255"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_169",
+      "sprite": "ia:256"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_186",
+      "sprite": "ia:257"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_138",
+      "sprite": "ia:258"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_172",
+      "sprite": "ia:259"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_54",
+      "sprite": "ia:260"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_99",
+      "sprite": "ia:261"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_23",
+      "sprite": "ia:262"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_56",
+      "sprite": "ia:263"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_136",
+      "sprite": "ia:264"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_208",
+      "sprite": "ia:265"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_174",
+      "sprite": "ia:266"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_97",
+      "sprite": "ia:267"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_66",
+      "sprite": "ia:268"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_221",
+      "sprite": "ia:269"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_13",
+      "sprite": "ia:270"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_18",
+      "sprite": "ia:271"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_204",
+      "sprite": "ia:272"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_126",
+      "sprite": "ia:273"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_179",
+      "sprite": "ia:274"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_92",
+      "sprite": "ia:275"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_176",
+      "sprite": "ia:276"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_148",
+      "sprite": "ia:277"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_211",
+      "sprite": "ia:278"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_151",
+      "sprite": "ia:279"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_44",
+      "sprite": "ia:280"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_194",
+      "sprite": "ia:281"
     },
     {
       "type": "single",
@@ -717,8 +1432,138 @@
     },
     {
       "type": "single",
+      "resource": "litefish:items/lfish_216",
+      "sprite": "ia:283"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_94",
+      "sprite": "ia:284"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_16",
+      "sprite": "ia:285"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_46",
+      "sprite": "ia:286"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_101",
+      "sprite": "ia:287"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_201",
+      "sprite": "ia:288"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_146",
+      "sprite": "ia:289"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_164",
+      "sprite": "ia:290"
+    },
+    {
+      "type": "single",
       "resource": "hmccosmetics:icons/hand_icon",
       "sprite": "ia:291"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_31",
+      "sprite": "ia:292"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_131",
+      "sprite": "ia:293"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_103",
+      "sprite": "ia:294"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_64",
+      "sprite": "ia:295"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_128",
+      "sprite": "ia:296"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_21",
+      "sprite": "ia:297"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_166",
+      "sprite": "ia:298"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_74",
+      "sprite": "ia:299"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_26",
+      "sprite": "ia:300"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_184",
+      "sprite": "ia:301"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_118",
+      "sprite": "ia:302"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_2",
+      "sprite": "ia:303"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_11",
+      "sprite": "ia:304"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_206",
+      "sprite": "ia:305"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_36",
+      "sprite": "ia:306"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_108",
+      "sprite": "ia:307"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_121",
+      "sprite": "ia:308"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_38",
+      "sprite": "ia:309"
     },
     {
       "type": "single",
@@ -727,8 +1572,108 @@
     },
     {
       "type": "single",
+      "resource": "litefish:items/lfish_72",
+      "sprite": "ia:311"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_168",
+      "sprite": "ia:312"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_123",
+      "sprite": "ia:313"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_207",
+      "sprite": "ia:314"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_67",
+      "sprite": "ia:315"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_111",
+      "sprite": "ia:316"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_106",
+      "sprite": "ia:317"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_185",
+      "sprite": "ia:318"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_190",
+      "sprite": "ia:319"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_10",
+      "sprite": "ia:320"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_139",
+      "sprite": "ia:321"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_60",
+      "sprite": "ia:322"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_7",
+      "sprite": "ia:323"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_135",
+      "sprite": "ia:324"
+    },
+    {
+      "type": "single",
       "resource": "hmccosmetics:icons/balloon_icon",
       "sprite": "ia:325"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_161",
+      "sprite": "ia:326"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_79",
+      "sprite": "ia:327"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_34",
+      "sprite": "ia:328"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_173",
+      "sprite": "ia:329"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_220",
+      "sprite": "ia:330"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_22",
+      "sprite": "ia:331"
     },
     {
       "type": "single",
@@ -737,8 +1682,198 @@
     },
     {
       "type": "single",
+      "resource": "litefish:items/lfish_132",
+      "sprite": "ia:333"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_189",
+      "sprite": "ia:334"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_63",
+      "sprite": "ia:335"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_177",
+      "sprite": "ia:336"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_80",
+      "sprite": "ia:337"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_115",
+      "sprite": "ia:338"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_29",
+      "sprite": "ia:339"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_76",
+      "sprite": "ia:340"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_81",
+      "sprite": "ia:341"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_59",
+      "sprite": "ia:342"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_51",
+      "sprite": "ia:343"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_114",
+      "sprite": "ia:344"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_182",
+      "sprite": "ia:345"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_144",
+      "sprite": "ia:346"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_4",
+      "sprite": "ia:347"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_152",
+      "sprite": "ia:348"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_197",
+      "sprite": "ia:349"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_219",
+      "sprite": "ia:350"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_188",
+      "sprite": "ia:351"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_43",
+      "sprite": "ia:352"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_96",
+      "sprite": "ia:353"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_153",
+      "sprite": "ia:354"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_212",
+      "sprite": "ia:355"
+    },
+    {
+      "type": "single",
       "resource": "hmccosmetics:icons/hat_icon",
       "sprite": "ia:356"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_203",
+      "sprite": "ia:357"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_181",
+      "sprite": "ia:358"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_14",
+      "sprite": "ia:359"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_159",
+      "sprite": "ia:360"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_143",
+      "sprite": "ia:361"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_58",
+      "sprite": "ia:362"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_52",
+      "sprite": "ia:363"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_124",
+      "sprite": "ia:364"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_107",
+      "sprite": "ia:365"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_223",
+      "sprite": "ia:366"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_68",
+      "sprite": "ia:367"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_42",
+      "sprite": "ia:368"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_109",
+      "sprite": "ia:369"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_73",
+      "sprite": "ia:370"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_37",
+      "sprite": "ia:371"
     },
     {
       "type": "single",
@@ -747,13 +1882,233 @@
     },
     {
       "type": "single",
+      "resource": "litefish:items/lfish_122",
+      "sprite": "ia:373"
+    },
+    {
+      "type": "single",
       "resource": "_iainternal:icons/icon_search",
       "sprite": "ia:374"
     },
     {
       "type": "single",
+      "resource": "litefish:items/lfish_40",
+      "sprite": "ia:375"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_160",
+      "sprite": "ia:376"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_155",
+      "sprite": "ia:377"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_119",
+      "sprite": "ia:378"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_35",
+      "sprite": "ia:379"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_6",
+      "sprite": "ia:380"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_157",
+      "sprite": "ia:381"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_198",
+      "sprite": "ia:382"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_170",
+      "sprite": "ia:383"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_145",
+      "sprite": "ia:384"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_167",
+      "sprite": "ia:385"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_25",
+      "sprite": "ia:386"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_47",
+      "sprite": "ia:387"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_110",
+      "sprite": "ia:388"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_3",
+      "sprite": "ia:389"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_215",
+      "sprite": "ia:390"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_195",
+      "sprite": "ia:391"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_50",
+      "sprite": "ia:392"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_150",
+      "sprite": "ia:393"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_45",
+      "sprite": "ia:394"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_120",
+      "sprite": "ia:395"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_117",
+      "sprite": "ia:396"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_75",
+      "sprite": "ia:397"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_193",
+      "sprite": "ia:398"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_147",
+      "sprite": "ia:399"
+    },
+    {
+      "type": "single",
       "resource": "_iainternal:icons/icon_left_blue",
       "sprite": "ia:400"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_1",
+      "sprite": "ia:401"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_127",
+      "sprite": "ia:402"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_175",
+      "sprite": "ia:403"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_27",
+      "sprite": "ia:404"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_130",
+      "sprite": "ia:405"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_65",
+      "sprite": "ia:406"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_112",
+      "sprite": "ia:407"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_20",
+      "sprite": "ia:408"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_200",
+      "sprite": "ia:409"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_137",
+      "sprite": "ia:410"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_17",
+      "sprite": "ia:411"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_165",
+      "sprite": "ia:412"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_8",
+      "sprite": "ia:413"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_140",
+      "sprite": "ia:414"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_30",
+      "sprite": "ia:415"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_93",
+      "sprite": "ia:416"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_55",
+      "sprite": "ia:417"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_102",
+      "sprite": "ia:418"
     },
     {
       "type": "single",
@@ -1142,6 +2497,318 @@
     {
       "type": "single",
       "resource": "fahfish:item/fahfish_zebra_turkeyfish_v3"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:amethyst_diadem"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:amethyst_diadem_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:amethyst_diadem_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:amethyst_diadem_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:autumn_wreath"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:autumn_wreath_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:blackleaf_wreath"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:blackleaf_wreath_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:crystal_diadem"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:crystal_diadem_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:crystal_diadem_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:crystal_diadem_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:dandelion_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:dandelion_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:diamond_coronet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:diamond_coronet_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:diamond_coronet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:diamond_coronet_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:diving_helmet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:diving_helmet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:emerald_coronet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:emerald_coronet_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:emerald_coronet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:emerald_coronet_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ender_diadem"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ender_diadem_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ender_diadem_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ender_diadem_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:eversource_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:eversource_crown_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:eversource_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:eversource_crown_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:flame_circlet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:flame_circlet_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:flame_circlet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:flame_circlet_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:floral_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:floral_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:frost_circlet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:frost_circlet_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:frost_circlet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:frost_circlet_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:goldleaf_wreath"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:goldleaf_wreath_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:harpers_headset"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:harpers_headset_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:harpers_headset_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:harpers_headset_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:lapis_lazuli_coronet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:lapis_lazuli_coronet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:lavender_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:lavender_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:netherite_coronet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:netherite_coronet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:renegade_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:renegade_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:rose_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:rose_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:royal_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:royal_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ruby_diadem"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ruby_diadem_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ruby_diadem_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ruby_diadem_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:sculk_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:sculk_crown_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:sculk_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:sculk_crown_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:skull_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:skull_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:thunder_circlet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:thunder_circlet_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:thunder_circlet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:thunder_circlet_model_e"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:water_circlet"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:water_circlet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:wreath_crown"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:wreath_crown_model"
     }
   ]
 }
