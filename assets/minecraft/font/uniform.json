@@ -638,6 +638,24 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/miaw.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/celestial.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": [
+        ""
+      ]
     }
   ]
 }

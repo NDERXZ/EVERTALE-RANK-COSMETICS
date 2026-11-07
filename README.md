@@ -179,6 +179,20 @@ The table below showcases all active server rank badges, their visual in-game te
       <td align="center"><code>\uE80E</code></td>
       <td>Special Custom Rank (Latest)</td>
     </tr>
+<tr>
+<td align="center"><img src="assets/minecraft/textures/ranks/miaw.png" width="130" style="image-rendering: pixelated;" alt="Miaw" /></td>
+<td align="center"><b>Miaw</b></td>
+<td align="center"><code></code></td>
+<td align="center"><code>\uE810</code></td>
+<td>Special Custom Rank</td>
+</tr>
+<tr>
+<td align="center"><img src="assets/minecraft/textures/ranks/celestial.png" width="130" style="image-rendering: pixelated;" alt="Celestial" /></td>
+<td align="center"><b>Celestial</b></td>
+<td align="center"><code></code></td>
+<td align="center"><code>\uE811</code></td>
+<td>Special Celestial Donator Rank (Latest)</td>
+</tr>
   </tbody>
 </table>
 

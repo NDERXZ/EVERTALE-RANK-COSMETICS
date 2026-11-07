@@ -1,0 +1,397 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "item",
+      "prefix": "item/"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_arapaima"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_arowana_v1"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_arowana_v2"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_arowana_v3"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_arowana_v4"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_bone_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_bone_fishing_rod_cast"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_catfish_v1"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_catfish_v2"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_catfish_v3"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_coelacanth_fish"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_copper_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_copper_fishing_rod_cast"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_diamond_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_diamond_fishing_rod_cast"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_eel_v1"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_eel_v2"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_emerald_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_emerald_fishing_rod_cast"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_endlerfish"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_gold_plated_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_gold_plated_fishing_rod_cast"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_goldfish_v1"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_goldfish_v2"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_goldfish_v3"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_goldfish_v4"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_goldfish_v5"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_goldfish_v6"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_goldfish_v7"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_goldfish_v8"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_hammerhead_shark_v1"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_hammerhead_shark_v2"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_iron_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_iron_fishing_rod_cast"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_manta"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_mudskipper"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_nether_eel_v1"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_nether_eel_v2"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_netherite_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_netherite_fishing_rod_cast"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_piranha_v1"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_piranha_v2"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_piranha_v3"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_piranha_v4"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_reinforced_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_reinforced_fishing_rod_cast"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_resin_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_resin_fishing_rod_cast"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_rockspine_v1"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_rockspine_v2"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_rockspine_v3"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_rockspine_v4"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_rockspine_v5"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_sailfish_v1"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_sailfish_v2"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_sculk_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_sculk_fishing_rod_cast"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_sculk_whale"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_sea_seraphs_v1"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_sea_seraphs_v2"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_sea_seraphs_v3"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_sea_seraphs_v4"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_sea_seraphs_v5"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_sea_seraphs_v6"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_sea_seraphs_v7"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_seahorse_v1"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_seahorse_v2"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_seahorse_v3"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_seahorse_v4"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_seahorse_v5"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_seahorse_v6"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_seahorse_v7"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_seahorse_v8"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_seahorse_v9"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_shadeel"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_shark"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_siamese_fighting_fish_v1"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_siamese_fighting_fish_v2"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_siamese_fighting_fish_v3"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_siamese_fighting_fish_v4"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_siamese_fighting_fish_v5"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_snapper"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_stingray_v1"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_stingray_v2"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_stingray_v3"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_stingray_v4"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_swamp_king"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_the_ancient"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_thermalfish_v1"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_thermalfish_v2"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_tuna"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_turbot"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_voidfish"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_wart_netherhorse"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_zebra_turkeyfish_v1"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_zebra_turkeyfish_v2"
+    },
+    {
+      "type": "single",
+      "resource": "fahfish:item/fahfish_zebra_turkeyfish_v3"
+    }
+  ]
+}
