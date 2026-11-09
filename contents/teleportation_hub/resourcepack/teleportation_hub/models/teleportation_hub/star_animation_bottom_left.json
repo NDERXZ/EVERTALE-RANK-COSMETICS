@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "teleportation_hub:teleportation_hub/star_animation_bottom_left",
+		"particle": "teleportation_hub:teleportation_hub/star_animation_bottom_left"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [32, 14, 0],
+			"faces": {
+				"north": {"uv": [0, 3, 16, 10], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 14], "texture": "#missing"},
+				"south": {"uv": [0, 3, 16, 10], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 14], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 2], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 2], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [-11, -13.75, 0]
+		}
+	}
+}

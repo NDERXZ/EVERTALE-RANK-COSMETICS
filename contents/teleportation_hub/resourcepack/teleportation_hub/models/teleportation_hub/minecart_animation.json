@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "teleportation_hub:teleportation_hub/minecart_animation",
+		"particle": "teleportation_hub:teleportation_hub/minecart_animation"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 0],
+			"to": [16, 29, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 15.25], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [-20, -6, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}

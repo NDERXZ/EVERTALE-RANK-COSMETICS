@@ -656,6 +656,42 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "file": "teleportation_hub:teleportation_hub/rtp_menu_overworld.png",
+      "chars": [
+        ""
+      ],
+      "height": 256,
+      "ascent": 48,
+      "type": "bitmap"
+    },
+    {
+      "file": "teleportation_hub:teleportation_hub/rtp_menu_nether.png",
+      "chars": [
+        ""
+      ],
+      "height": 256,
+      "ascent": 48,
+      "type": "bitmap"
+    },
+    {
+      "file": "teleportation_hub:teleportation_hub/rtp_menu_end.png",
+      "chars": [
+        ""
+      ],
+      "height": 256,
+      "ascent": 48,
+      "type": "bitmap"
+    },
+    {
+      "file": "teleportation_hub:teleportation_hub/rtp_menu_resource.png",
+      "chars": [
+        ""
+      ],
+      "height": 256,
+      "ascent": 48,
+      "type": "bitmap"
     }
   ]
 }

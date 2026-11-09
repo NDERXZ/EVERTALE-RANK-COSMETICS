@@ -1,0 +1,178 @@
+info:
+  namespace: teleportation_hub
+
+font_images:
+  rtp_menu_overworld:
+    show_in_gui: false
+    suggest_in_command: false
+    path: "teleportation_hub/rtp_menu_overworld.png"
+    y_position: 48
+    scale_ratio: 256
+  rtp_menu_nether:
+    show_in_gui: false
+    suggest_in_command: false
+    path: "teleportation_hub/rtp_menu_nether.png"
+    y_position: 48
+    scale_ratio: 256
+  rtp_menu_end:
+    show_in_gui: false
+    suggest_in_command: false
+    path: "teleportation_hub/rtp_menu_end.png"
+    y_position: 48
+    scale_ratio: 256
+  rtp_menu_resource:
+    show_in_gui: false
+    suggest_in_command: false
+    path: "teleportation_hub/rtp_menu_resource.png"
+    y_position: 48
+    scale_ratio: 256
+  
+
+
+items:
+  waterfall_animation:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/waterfall
+  lava_animation:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/lava_animation
+  lava_animation_2:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/lava_animation_2
+  lava_animation_3:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/lava_animation_3
+  lava_animation_4:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/lava_animation_4
+  lava_animation_5:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/lava_animation_5
+  
+  star_animation1:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/star_animation_top_right
+  star_animation_2:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/star_animation_top_left
+  star_animation_3:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/star_animation_bottom_left
+  star_animation_4:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/star_animation_bottom_right
+  void_waterfall_animation:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/void_waterfall_animation
+      
+  
+  overworld_icon:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/overworld_icon
+  nether_icon:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/nether_icon
+  end_icon:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/end_icon
+  resource_icon:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/resource_icon
+
+
+  cloud_animation:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/cloud_animation
+  cloud_animation_right:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/cloud_animation_right
+
+  minecart_animation:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/minecart_animation
+  sun_animation:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/sun_animation
+  sunset_cloud_animation:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/sunset_cloud_animation
+  shining_effect:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      model_path: teleportation_hub/shining_effect
+  
+
+  
+  rtp_pin:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      generate: true
+      textures:
+      - teleportation_hub/rtp_pin
+  rtp_lock:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      generate: true
+      textures:
+      - teleportation_hub/rtp_lock
+  left_arrow:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      generate: true
+      textures:
+      - teleportation_hub/left_arrow
+  right_arrow:
+    display_name: "&f"
+    resource:
+      material: BRICK
+      generate: true
+      textures:
+      - teleportation_hub/right_arrow
+  
+
+  
+    
