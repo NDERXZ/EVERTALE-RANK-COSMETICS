@@ -1,7 +1,5 @@
 {
-	"item.color":"",
-	"item.dyed":"",
-	"menu.disconnect":"§f§r",
-	"menu.returnToMenu":"§f§r",
-	"merchant.trades":""
+  "item.color": "",
+  "item.dyed": "",
+  "merchant.trades": ""
 }
