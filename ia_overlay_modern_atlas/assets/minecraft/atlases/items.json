@@ -6,11 +6,6 @@
       "prefix": "item/"
     },
     {
-      "type": "directory",
-      "source": "",
-      "prefix": ""
-    },
-    {
       "type": "single",
       "resource": "cosmetic_packv1:ender_backpack",
       "sprite": "_cosmetic_packv1:ender_backpack"

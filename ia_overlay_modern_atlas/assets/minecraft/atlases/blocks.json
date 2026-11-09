@@ -11,11 +11,6 @@
       "prefix": "item/"
     },
     {
-      "type": "directory",
-      "source": "",
-      "prefix": ""
-    },
-    {
       "type": "single",
       "resource": "dark_fantasy_cosmetics_vol_1:cemetery_witch_broom",
       "sprite": "_b_dark_fantasy_cosmetics_vol_1:cemetery_witch_broom"

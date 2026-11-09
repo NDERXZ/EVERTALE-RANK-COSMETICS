@@ -1,30 +1,25 @@
 {
   "pack": {
-    "mcmodels": "",
+    "pack_format": 84,
+    "min_format": 15,
+    "max_format": 200,
     "supported_formats": {
       "min_inclusive": 15,
-      "max_inclusive": 9999
+      "max_inclusive": 200
     },
-    "pack_format": 75,
-    "description": "§5EvertaleMC §dRank Cosmetics, RTP & 3D Rods §7v1.3.2",
-    "min_format": 15,
-    "max_format": 9999
+    "description": "\u00a75EvertaleMC \u00a7dRank Cosmetics, RTP & 3D Rods \u00a77v1.3.2"
   },
   "overlays": {
     "entries": [
       {
         "directory": "ia_overlay_1_21_2_plus",
-        "min_format": 42,
-        "max_format": 9999,
         "formats": {
           "min_inclusive": 42,
-          "max_inclusive": 9999
+          "max_inclusive": 200
         }
       },
       {
         "directory": "ia_overlay_1_21_4_to_5",
-        "min_format": 46,
-        "max_format": 55,
         "formats": {
           "min_inclusive": 46,
           "max_inclusive": 55
@@ -32,17 +27,13 @@
       },
       {
         "directory": "ia_overlay_1_21_4_plus",
-        "min_format": 46,
-        "max_format": 9999,
         "formats": {
           "min_inclusive": 46,
-          "max_inclusive": 9999
+          "max_inclusive": 200
         }
       },
       {
         "directory": "ia_overlay_1_21_5",
-        "min_format": 55,
-        "max_format": 55,
         "formats": {
           "min_inclusive": 55,
           "max_inclusive": 55
@@ -50,8 +41,6 @@
       },
       {
         "directory": "ia_overlay_1_21_6_to_11",
-        "min_format": 63,
-        "max_format": 75,
         "formats": {
           "min_inclusive": 63,
           "max_inclusive": 75
@@ -59,37 +48,29 @@
       },
       {
         "directory": "ia_overlay_1_21_6_plus",
-        "min_format": 63,
-        "max_format": 9999,
         "formats": {
           "min_inclusive": 63,
-          "max_inclusive": 9999
+          "max_inclusive": 200
         }
       },
       {
         "directory": "ia_overlay_26_1_plus",
-        "min_format": 84,
-        "max_format": 9999,
         "formats": {
           "min_inclusive": 84,
-          "max_inclusive": 9999
+          "max_inclusive": 200
         }
       },
       {
         "directory": "ia_overlay_modern_atlas",
-        "min_format": 75,
-        "max_format": 9999,
         "formats": {
           "min_inclusive": 75,
-          "max_inclusive": 9999
+          "max_inclusive": 200
         }
       },
       {
         "directory": "ia_overlay_legacy_atlas",
-        "min_format": 1,
-        "max_format": 69,
         "formats": {
-          "min_inclusive": 1,
+          "min_inclusive": 15,
           "max_inclusive": 69
         }
       }
