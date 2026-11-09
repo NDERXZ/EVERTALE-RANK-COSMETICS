@@ -1,0 +1,1479 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "item",
+      "prefix": "item/"
+    },
+    {
+      "type": "directory",
+      "source": "",
+      "prefix": ""
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:ender_backpack",
+      "sprite": "_cosmetic_packv1:ender_backpack"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:ender_hand",
+      "sprite": "_cosmetic_packv1:ender_hand"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:ender_hat",
+      "sprite": "_cosmetic_packv1:ender_hat"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:frozen_backpack",
+      "sprite": "_cosmetic_packv1:frozen_backpack"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:frozen_hand",
+      "sprite": "_cosmetic_packv1:frozen_hand"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:frozen_hat",
+      "sprite": "_cosmetic_packv1:frozen_hat"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:knight_backpack",
+      "sprite": "_cosmetic_packv1:knight_backpack"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:knight_hand",
+      "sprite": "_cosmetic_packv1:knight_hand"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:knight_hat",
+      "sprite": "_cosmetic_packv1:knight_hat"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:ninja_backpack",
+      "sprite": "_cosmetic_packv1:ninja_backpack"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:ninja_hand",
+      "sprite": "_cosmetic_packv1:ninja_hand"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:ninja_hat",
+      "sprite": "_cosmetic_packv1:ninja_hat"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:wizard_backpack",
+      "sprite": "_cosmetic_packv1:wizard_backpack"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:wizard_hand",
+      "sprite": "_cosmetic_packv1:wizard_hand"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv1:wizard_hat",
+      "sprite": "_cosmetic_packv1:wizard_hat"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:diver_backpack",
+      "sprite": "_cosmetic_packv2:diver_backpack"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:diver_hand",
+      "sprite": "_cosmetic_packv2:diver_hand"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:diver_hat",
+      "sprite": "_cosmetic_packv2:diver_hat"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:nether_beetle_backpack",
+      "sprite": "_cosmetic_packv2:nether_beetle_backpack"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:nether_beetle_backpack_e",
+      "sprite": "_cosmetic_packv2:nether_beetle_backpack_e"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:nether_beetle_hand",
+      "sprite": "_cosmetic_packv2:nether_beetle_hand"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:nether_beetle_hand_e",
+      "sprite": "_cosmetic_packv2:nether_beetle_hand_e"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:nether_beetle_hat",
+      "sprite": "_cosmetic_packv2:nether_beetle_hat"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:nether_beetle_hat_e",
+      "sprite": "_cosmetic_packv2:nether_beetle_hat_e"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:skulk_backpack",
+      "sprite": "_cosmetic_packv2:skulk_backpack"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:skulk_backpack_e",
+      "sprite": "_cosmetic_packv2:skulk_backpack_e"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:skulk_hand",
+      "sprite": "_cosmetic_packv2:skulk_hand"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:skulk_hand_e",
+      "sprite": "_cosmetic_packv2:skulk_hand_e"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:skulk_hat_e",
+      "sprite": "_cosmetic_packv2:skulk_hat_e"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:skulk_hat",
+      "sprite": "_cosmetic_packv2:skulk_hat"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:summer_backpack",
+      "sprite": "_cosmetic_packv2:summer_backpack"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:summer_hand",
+      "sprite": "_cosmetic_packv2:summer_hand"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:summer_hat",
+      "sprite": "_cosmetic_packv2:summer_hat"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:tiki_backpack_e",
+      "sprite": "_cosmetic_packv2:tiki_backpack_e"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:tiki_backpack",
+      "sprite": "_cosmetic_packv2:tiki_backpack"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:tiki_hand",
+      "sprite": "_cosmetic_packv2:tiki_hand"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:tiki_hand_e",
+      "sprite": "_cosmetic_packv2:tiki_hand_e"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:tiki_hat_e",
+      "sprite": "_cosmetic_packv2:tiki_hat_e"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetic_packv2:tiki_hat",
+      "sprite": "_cosmetic_packv2:tiki_hat"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/arrow_back",
+      "sprite": "_hmccosmetics:icons/arrow_back"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/arrow_next",
+      "sprite": "_hmccosmetics:icons/arrow_next"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/colorful",
+      "sprite": "_hmccosmetics:icons/colorful"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/beanie",
+      "sprite": "_hmccosmetics:item/beanie"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/earth_day_grabber",
+      "sprite": "_hmccosmetics:item/earth_day_grabber"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/explorer_backpack",
+      "sprite": "_hmccosmetics:item/explorer_backpack"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/paintbrush_paint",
+      "sprite": "_hmccosmetics:item/paintbrush_paint"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/paintbrush",
+      "sprite": "_hmccosmetics:item/paintbrush"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetics:sniffer_sword",
+      "sprite": "_cosmetics:sniffer_sword"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_backpack_dyeable_texture",
+      "sprite": "_unicorn_cosmetics:cosmetics/unicorn_backpack_dyeable_texture"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_animation_texture",
+      "sprite": "_unicorn_cosmetics:cosmetics/unicorn_animation_texture"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_balloon_dyeable_texture",
+      "sprite": "_unicorn_cosmetics:cosmetics/unicorn_balloon_dyeable_texture"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_hat_dyeable_texture",
+      "sprite": "_unicorn_cosmetics:cosmetics/unicorn_hat_dyeable_texture"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_staff_dyeable_texture",
+      "sprite": "_unicorn_cosmetics:cosmetics/unicorn_staff_dyeable_texture"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/lava_animation",
+      "sprite": "_teleportation_hub:teleportation_hub/lava_animation"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/lava_animation_4",
+      "sprite": "_teleportation_hub:teleportation_hub/lava_animation_4"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/cloud_animation_bottom",
+      "sprite": "_teleportation_hub:teleportation_hub/cloud_animation_bottom"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/lava_animation_2",
+      "sprite": "_teleportation_hub:teleportation_hub/lava_animation_2"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/end_icon",
+      "sprite": "_teleportation_hub:teleportation_hub/end_icon"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/lava_animation_3",
+      "sprite": "_teleportation_hub:teleportation_hub/lava_animation_3"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/cloud_animation_2",
+      "sprite": "_teleportation_hub:teleportation_hub/cloud_animation_2"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/resource_icon",
+      "sprite": "_teleportation_hub:teleportation_hub/resource_icon"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/minecart_animation",
+      "sprite": "_teleportation_hub:teleportation_hub/minecart_animation"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/star_animation_bottom_left",
+      "sprite": "_teleportation_hub:teleportation_hub/star_animation_bottom_left"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/shining_effect",
+      "sprite": "_teleportation_hub:teleportation_hub/shining_effect"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/nether_icon",
+      "sprite": "_teleportation_hub:teleportation_hub/nether_icon"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/lava_animation_5",
+      "sprite": "_teleportation_hub:teleportation_hub/lava_animation_5"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/star_animation_bottom_right",
+      "sprite": "_teleportation_hub:teleportation_hub/star_animation_bottom_right"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/star_animation_top_right",
+      "sprite": "_teleportation_hub:teleportation_hub/star_animation_top_right"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/void_waterfall_animation",
+      "sprite": "_teleportation_hub:teleportation_hub/void_waterfall_animation"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/sun_animation",
+      "sprite": "_teleportation_hub:teleportation_hub/sun_animation"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/waterfall_animation",
+      "sprite": "_teleportation_hub:teleportation_hub/waterfall_animation"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/star_animation_top_left",
+      "sprite": "_teleportation_hub:teleportation_hub/star_animation_top_left"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/sunset_cloud_animation",
+      "sprite": "_teleportation_hub:teleportation_hub/sunset_cloud_animation"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/overworld_icon",
+      "sprite": "_teleportation_hub:teleportation_hub/overworld_icon"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_24",
+      "sprite": "_litefish:items/lfish_24"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_69",
+      "sprite": "_litefish:items/lfish_69"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_199",
+      "sprite": "_litefish:items/lfish_199"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_187",
+      "sprite": "_litefish:items/lfish_187"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_142",
+      "sprite": "_litefish:items/lfish_142"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_9",
+      "sprite": "_litefish:items/lfish_9"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_70",
+      "sprite": "_litefish:items/lfish_70"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_53",
+      "sprite": "_litefish:items/lfish_53"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_125",
+      "sprite": "_litefish:items/lfish_125"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_205",
+      "sprite": "_litefish:items/lfish_205"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_210",
+      "sprite": "_litefish:items/lfish_210"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_171",
+      "sprite": "_litefish:items/lfish_171"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_113",
+      "sprite": "_litefish:items/lfish_113"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_158",
+      "sprite": "_litefish:items/lfish_158"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_91",
+      "sprite": "_litefish:items/lfish_91"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_19",
+      "sprite": "_litefish:items/lfish_19"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_183",
+      "sprite": "_litefish:items/lfish_183"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_57",
+      "sprite": "_litefish:items/lfish_57"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_12",
+      "sprite": "_litefish:items/lfish_12"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_104",
+      "sprite": "_litefish:items/lfish_104"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_192",
+      "sprite": "_litefish:items/lfish_192"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_98",
+      "sprite": "_litefish:items/lfish_98"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_217",
+      "sprite": "_litefish:items/lfish_217"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_154",
+      "sprite": "_litefish:items/lfish_154"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_214",
+      "sprite": "_litefish:items/lfish_214"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_82",
+      "sprite": "_litefish:items/lfish_82"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_41",
+      "sprite": "_litefish:items/lfish_41"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_28",
+      "sprite": "_litefish:items/lfish_28"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_77",
+      "sprite": "_litefish:items/lfish_77"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_116",
+      "sprite": "_litefish:items/lfish_116"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_32",
+      "sprite": "_litefish:items/lfish_32"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_180",
+      "sprite": "_litefish:items/lfish_180"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_15",
+      "sprite": "_litefish:items/lfish_15"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_129",
+      "sprite": "_litefish:items/lfish_129"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_95",
+      "sprite": "_litefish:items/lfish_95"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_48",
+      "sprite": "_litefish:items/lfish_48"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_100",
+      "sprite": "_litefish:items/lfish_100"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_62",
+      "sprite": "_litefish:items/lfish_62"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_196",
+      "sprite": "_litefish:items/lfish_196"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/rtp_lock",
+      "sprite": "_teleportation_hub:teleportation_hub/rtp_lock"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_133",
+      "sprite": "_litefish:items/lfish_133"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_78",
+      "sprite": "_litefish:items/lfish_78"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_202",
+      "sprite": "_litefish:items/lfish_202"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_163",
+      "sprite": "_litefish:items/lfish_163"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_191",
+      "sprite": "_litefish:items/lfish_191"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_213",
+      "sprite": "_litefish:items/lfish_213"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_218",
+      "sprite": "_litefish:items/lfish_218"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_149",
+      "sprite": "_litefish:items/lfish_149"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_61",
+      "sprite": "_litefish:items/lfish_61"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_49",
+      "sprite": "_litefish:items/lfish_49"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_134",
+      "sprite": "_litefish:items/lfish_134"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_209",
+      "sprite": "_litefish:items/lfish_209"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_162",
+      "sprite": "_litefish:items/lfish_162"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_5",
+      "sprite": "_litefish:items/lfish_5"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_222",
+      "sprite": "_litefish:items/lfish_222"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_33",
+      "sprite": "_litefish:items/lfish_33"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_178",
+      "sprite": "_litefish:items/lfish_178"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_90",
+      "sprite": "_litefish:items/lfish_90"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_71",
+      "sprite": "_litefish:items/lfish_71"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_105",
+      "sprite": "_litefish:items/lfish_105"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_39",
+      "sprite": "_litefish:items/lfish_39"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_141",
+      "sprite": "_litefish:items/lfish_141"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_169",
+      "sprite": "_litefish:items/lfish_169"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_186",
+      "sprite": "_litefish:items/lfish_186"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_138",
+      "sprite": "_litefish:items/lfish_138"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_172",
+      "sprite": "_litefish:items/lfish_172"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_54",
+      "sprite": "_litefish:items/lfish_54"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_99",
+      "sprite": "_litefish:items/lfish_99"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_23",
+      "sprite": "_litefish:items/lfish_23"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_56",
+      "sprite": "_litefish:items/lfish_56"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_136",
+      "sprite": "_litefish:items/lfish_136"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_208",
+      "sprite": "_litefish:items/lfish_208"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_174",
+      "sprite": "_litefish:items/lfish_174"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_97",
+      "sprite": "_litefish:items/lfish_97"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_66",
+      "sprite": "_litefish:items/lfish_66"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_221",
+      "sprite": "_litefish:items/lfish_221"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_13",
+      "sprite": "_litefish:items/lfish_13"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_18",
+      "sprite": "_litefish:items/lfish_18"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_204",
+      "sprite": "_litefish:items/lfish_204"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_126",
+      "sprite": "_litefish:items/lfish_126"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_179",
+      "sprite": "_litefish:items/lfish_179"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_92",
+      "sprite": "_litefish:items/lfish_92"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_176",
+      "sprite": "_litefish:items/lfish_176"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_148",
+      "sprite": "_litefish:items/lfish_148"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_211",
+      "sprite": "_litefish:items/lfish_211"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_151",
+      "sprite": "_litefish:items/lfish_151"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_44",
+      "sprite": "_litefish:items/lfish_44"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_194",
+      "sprite": "_litefish:items/lfish_194"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_216",
+      "sprite": "_litefish:items/lfish_216"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_94",
+      "sprite": "_litefish:items/lfish_94"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_16",
+      "sprite": "_litefish:items/lfish_16"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_46",
+      "sprite": "_litefish:items/lfish_46"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_101",
+      "sprite": "_litefish:items/lfish_101"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_201",
+      "sprite": "_litefish:items/lfish_201"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_146",
+      "sprite": "_litefish:items/lfish_146"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_164",
+      "sprite": "_litefish:items/lfish_164"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_31",
+      "sprite": "_litefish:items/lfish_31"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_131",
+      "sprite": "_litefish:items/lfish_131"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_103",
+      "sprite": "_litefish:items/lfish_103"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_64",
+      "sprite": "_litefish:items/lfish_64"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_128",
+      "sprite": "_litefish:items/lfish_128"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_21",
+      "sprite": "_litefish:items/lfish_21"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_166",
+      "sprite": "_litefish:items/lfish_166"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_74",
+      "sprite": "_litefish:items/lfish_74"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_26",
+      "sprite": "_litefish:items/lfish_26"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_184",
+      "sprite": "_litefish:items/lfish_184"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_118",
+      "sprite": "_litefish:items/lfish_118"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_2",
+      "sprite": "_litefish:items/lfish_2"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_11",
+      "sprite": "_litefish:items/lfish_11"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_206",
+      "sprite": "_litefish:items/lfish_206"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_36",
+      "sprite": "_litefish:items/lfish_36"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_108",
+      "sprite": "_litefish:items/lfish_108"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_121",
+      "sprite": "_litefish:items/lfish_121"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_38",
+      "sprite": "_litefish:items/lfish_38"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_72",
+      "sprite": "_litefish:items/lfish_72"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_168",
+      "sprite": "_litefish:items/lfish_168"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_123",
+      "sprite": "_litefish:items/lfish_123"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_207",
+      "sprite": "_litefish:items/lfish_207"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_67",
+      "sprite": "_litefish:items/lfish_67"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_111",
+      "sprite": "_litefish:items/lfish_111"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_106",
+      "sprite": "_litefish:items/lfish_106"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_185",
+      "sprite": "_litefish:items/lfish_185"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_190",
+      "sprite": "_litefish:items/lfish_190"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_10",
+      "sprite": "_litefish:items/lfish_10"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_139",
+      "sprite": "_litefish:items/lfish_139"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_60",
+      "sprite": "_litefish:items/lfish_60"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_7",
+      "sprite": "_litefish:items/lfish_7"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_135",
+      "sprite": "_litefish:items/lfish_135"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_161",
+      "sprite": "_litefish:items/lfish_161"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_79",
+      "sprite": "_litefish:items/lfish_79"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_34",
+      "sprite": "_litefish:items/lfish_34"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_173",
+      "sprite": "_litefish:items/lfish_173"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_220",
+      "sprite": "_litefish:items/lfish_220"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_22",
+      "sprite": "_litefish:items/lfish_22"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_132",
+      "sprite": "_litefish:items/lfish_132"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_189",
+      "sprite": "_litefish:items/lfish_189"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_63",
+      "sprite": "_litefish:items/lfish_63"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_177",
+      "sprite": "_litefish:items/lfish_177"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_80",
+      "sprite": "_litefish:items/lfish_80"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_115",
+      "sprite": "_litefish:items/lfish_115"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_29",
+      "sprite": "_litefish:items/lfish_29"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_76",
+      "sprite": "_litefish:items/lfish_76"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_81",
+      "sprite": "_litefish:items/lfish_81"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_59",
+      "sprite": "_litefish:items/lfish_59"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_51",
+      "sprite": "_litefish:items/lfish_51"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_114",
+      "sprite": "_litefish:items/lfish_114"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_182",
+      "sprite": "_litefish:items/lfish_182"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_144",
+      "sprite": "_litefish:items/lfish_144"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_4",
+      "sprite": "_litefish:items/lfish_4"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_152",
+      "sprite": "_litefish:items/lfish_152"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_197",
+      "sprite": "_litefish:items/lfish_197"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_219",
+      "sprite": "_litefish:items/lfish_219"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_188",
+      "sprite": "_litefish:items/lfish_188"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_43",
+      "sprite": "_litefish:items/lfish_43"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_96",
+      "sprite": "_litefish:items/lfish_96"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_153",
+      "sprite": "_litefish:items/lfish_153"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_212",
+      "sprite": "_litefish:items/lfish_212"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_203",
+      "sprite": "_litefish:items/lfish_203"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_181",
+      "sprite": "_litefish:items/lfish_181"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_14",
+      "sprite": "_litefish:items/lfish_14"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_159",
+      "sprite": "_litefish:items/lfish_159"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_143",
+      "sprite": "_litefish:items/lfish_143"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_58",
+      "sprite": "_litefish:items/lfish_58"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_52",
+      "sprite": "_litefish:items/lfish_52"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_124",
+      "sprite": "_litefish:items/lfish_124"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_107",
+      "sprite": "_litefish:items/lfish_107"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_223",
+      "sprite": "_litefish:items/lfish_223"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_68",
+      "sprite": "_litefish:items/lfish_68"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_42",
+      "sprite": "_litefish:items/lfish_42"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_109",
+      "sprite": "_litefish:items/lfish_109"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_73",
+      "sprite": "_litefish:items/lfish_73"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_37",
+      "sprite": "_litefish:items/lfish_37"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_122",
+      "sprite": "_litefish:items/lfish_122"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_40",
+      "sprite": "_litefish:items/lfish_40"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_160",
+      "sprite": "_litefish:items/lfish_160"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_155",
+      "sprite": "_litefish:items/lfish_155"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_119",
+      "sprite": "_litefish:items/lfish_119"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_35",
+      "sprite": "_litefish:items/lfish_35"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_6",
+      "sprite": "_litefish:items/lfish_6"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_157",
+      "sprite": "_litefish:items/lfish_157"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/left_arrow",
+      "sprite": "_teleportation_hub:teleportation_hub/left_arrow"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_198",
+      "sprite": "_litefish:items/lfish_198"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/right_arrow",
+      "sprite": "_teleportation_hub:teleportation_hub/right_arrow"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_170",
+      "sprite": "_litefish:items/lfish_170"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_145",
+      "sprite": "_litefish:items/lfish_145"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_167",
+      "sprite": "_litefish:items/lfish_167"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_25",
+      "sprite": "_litefish:items/lfish_25"
+    },
+    {
+      "type": "single",
+      "resource": "teleportation_hub:teleportation_hub/rtp_pin",
+      "sprite": "_teleportation_hub:teleportation_hub/rtp_pin"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_47",
+      "sprite": "_litefish:items/lfish_47"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_110",
+      "sprite": "_litefish:items/lfish_110"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_3",
+      "sprite": "_litefish:items/lfish_3"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_215",
+      "sprite": "_litefish:items/lfish_215"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_195",
+      "sprite": "_litefish:items/lfish_195"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_50",
+      "sprite": "_litefish:items/lfish_50"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_150",
+      "sprite": "_litefish:items/lfish_150"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_45",
+      "sprite": "_litefish:items/lfish_45"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_120",
+      "sprite": "_litefish:items/lfish_120"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_117",
+      "sprite": "_litefish:items/lfish_117"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_75",
+      "sprite": "_litefish:items/lfish_75"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_193",
+      "sprite": "_litefish:items/lfish_193"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_147",
+      "sprite": "_litefish:items/lfish_147"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_1",
+      "sprite": "_litefish:items/lfish_1"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_127",
+      "sprite": "_litefish:items/lfish_127"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_175",
+      "sprite": "_litefish:items/lfish_175"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_27",
+      "sprite": "_litefish:items/lfish_27"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_130",
+      "sprite": "_litefish:items/lfish_130"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_65",
+      "sprite": "_litefish:items/lfish_65"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_112",
+      "sprite": "_litefish:items/lfish_112"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_20",
+      "sprite": "_litefish:items/lfish_20"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_200",
+      "sprite": "_litefish:items/lfish_200"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_137",
+      "sprite": "_litefish:items/lfish_137"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_17",
+      "sprite": "_litefish:items/lfish_17"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_165",
+      "sprite": "_litefish:items/lfish_165"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_8",
+      "sprite": "_litefish:items/lfish_8"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_140",
+      "sprite": "_litefish:items/lfish_140"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_30",
+      "sprite": "_litefish:items/lfish_30"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_93",
+      "sprite": "_litefish:items/lfish_93"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_55",
+      "sprite": "_litefish:items/lfish_55"
+    },
+    {
+      "type": "single",
+      "resource": "litefish:items/lfish_102",
+      "sprite": "_litefish:items/lfish_102"
+    }
+  ]
+}

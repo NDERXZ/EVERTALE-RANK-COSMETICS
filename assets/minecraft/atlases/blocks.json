@@ -2,18 +2,698 @@
   "sources": [
     {
       "type": "directory",
-      "source": "item",
-      "prefix": "item/"
-    },
-    {
-      "type": "directory",
       "source": "block",
       "prefix": "block/"
     },
     {
       "type": "directory",
+      "source": "item",
+      "prefix": "item/"
+    },
+    {
+      "type": "directory",
       "source": "",
       "prefix": ""
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:cemetery_witch_broom",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_1:cemetery_witch_broom"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:cemetery_witch_cloak",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_1:cemetery_witch_cloak"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:cemetery_witch_hat",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_1:cemetery_witch_hat"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:chained_monstruosity_back",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_1:chained_monstruosity_back"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:chained_monstruosity_collar",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_1:chained_monstruosity_collar"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:chained_monstruosity_sword",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_1:chained_monstruosity_sword"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:crow_lord_hat",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_1:crow_lord_hat"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:crow_lord_staff",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_1:crow_lord_staff"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:crow_lord_wings",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_1:crow_lord_wings"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:noir_elegance_shoulderpads",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_1:noir_elegance_shoulderpads"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:noir_elegance_staff",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_1:noir_elegance_staff"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_1:noir_elegance_tophat",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_1:noir_elegance_tophat"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:archmage_hat",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_4:archmage_hat"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:archmage_shoulderpads",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_4:archmage_shoulderpads"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:archmage_staff",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_4:archmage_staff"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:ritualistic_back",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_4:ritualistic_back"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:ritualistic_hoodie",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_4:ritualistic_hoodie"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:ritualistic_staff",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_4:ritualistic_staff"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:skeleton_control_hat",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_4:skeleton_control_hat"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:skeleton_control_mace",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_4:skeleton_control_mace"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:skeleton_control_wings",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_4:skeleton_control_wings"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:spike_lord_helmet",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_4:spike_lord_helmet"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:spike_lord_sword",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_4:spike_lord_sword"
+    },
+    {
+      "type": "single",
+      "resource": "dark_fantasy_cosmetics_vol_4:spike_lord_wings",
+      "sprite": "_b_dark_fantasy_cosmetics_vol_4:spike_lord_wings"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/backpack",
+      "sprite": "_b_hmccosmetics:item/backpack"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/baseball_hat",
+      "sprite": "_b_hmccosmetics:item/baseball_hat"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/frog_hat",
+      "sprite": "_b_hmccosmetics:item/frog_hat"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/future_wings",
+      "sprite": "_b_hmccosmetics:item/future_wings"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/garbage_truck_balloon",
+      "sprite": "_b_hmccosmetics:item/garbage_truck_balloon"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/hammer",
+      "sprite": "_b_hmccosmetics:item/hammer"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/hibiscus_flower",
+      "sprite": "_b_hmccosmetics:item/hibiscus_flower"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/jetpack_animation",
+      "sprite": "_b_hmccosmetics:item/jetpack_animation"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/jetpack",
+      "sprite": "_b_hmccosmetics:item/jetpack"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/kite_colors",
+      "sprite": "_b_hmccosmetics:item/kite_colors"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/kite",
+      "sprite": "_b_hmccosmetics:item/kite"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:item/lantern_cosmetic",
+      "sprite": "_b_hmccosmetics:item/lantern_cosmetic"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:angel_ring",
+      "sprite": "_b_mocosmetics:angel_ring"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:angel_wings",
+      "sprite": "_b_mocosmetics:angel_wings"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:chick_hat",
+      "sprite": "_b_mocosmetics:chick_hat"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:cyber_glasses",
+      "sprite": "_b_mocosmetics:cyber_glasses"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:cyber_glasses_blue",
+      "sprite": "_b_mocosmetics:cyber_glasses_blue"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:cyber_glasses_red",
+      "sprite": "_b_mocosmetics:cyber_glasses_red"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:cyber_machine",
+      "sprite": "_b_mocosmetics:cyber_machine"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:cyber_machine_blue",
+      "sprite": "_b_mocosmetics:cyber_machine_blue"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:cyber_machine_red",
+      "sprite": "_b_mocosmetics:cyber_machine_red"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:demon_horns",
+      "sprite": "_b_mocosmetics:demon_horns"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:demon_wings",
+      "sprite": "_b_mocosmetics:demon_wings"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:dragon_hat",
+      "sprite": "_b_mocosmetics:dragon_hat"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:dragon_hat_blue",
+      "sprite": "_b_mocosmetics:dragon_hat_blue"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:dragon_hat_red",
+      "sprite": "_b_mocosmetics:dragon_hat_red"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:dragon_wings",
+      "sprite": "_b_mocosmetics:dragon_wings"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:dragon_wings_blue",
+      "sprite": "_b_mocosmetics:dragon_wings_blue"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:dragon_wings_red",
+      "sprite": "_b_mocosmetics:dragon_wings_red"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:mythical_blades",
+      "sprite": "_b_mocosmetics:mythical_blades"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:panda_hat",
+      "sprite": "_b_mocosmetics:panda_hat"
+    },
+    {
+      "type": "single",
+      "resource": "mocosmetics:phoenix_wings",
+      "sprite": "_b_mocosmetics:phoenix_wings"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetics:sniffer_cloak",
+      "sprite": "_b_cosmetics:sniffer_cloak"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetics:sniffer_crown",
+      "sprite": "_b_cosmetics:sniffer_crown"
+    },
+    {
+      "type": "single",
+      "resource": "cosmetics:sniffer_staff",
+      "sprite": "_b_cosmetics:sniffer_staff"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_backpack_texture",
+      "sprite": "_b_unicorn_cosmetics:cosmetics/unicorn_backpack_texture"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_animation_texture",
+      "sprite": "_b_unicorn_cosmetics:cosmetics/unicorn_animation_texture"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_balloon_texture",
+      "sprite": "_b_unicorn_cosmetics:cosmetics/unicorn_balloon_texture"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_hat_texture",
+      "sprite": "_b_unicorn_cosmetics:cosmetics/unicorn_hat_texture"
+    },
+    {
+      "type": "single",
+      "resource": "unicorn_cosmetics:cosmetics/unicorn_staff_texture",
+      "sprite": "_b_unicorn_cosmetics:cosmetics/unicorn_staff_texture"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:amethyst_diadem_model",
+      "sprite": "_b_crowns:amethyst_diadem_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:autumn_wreath_model",
+      "sprite": "_b_crowns:autumn_wreath_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:blackleaf_wreath_model",
+      "sprite": "_b_crowns:blackleaf_wreath_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:crystal_diadem_model",
+      "sprite": "_b_crowns:crystal_diadem_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:dandelion_crown_model",
+      "sprite": "_b_crowns:dandelion_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:diamond_coronet_model",
+      "sprite": "_b_crowns:diamond_coronet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:diving_helmet_model",
+      "sprite": "_b_crowns:diving_helmet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:emerald_coronet_model",
+      "sprite": "_b_crowns:emerald_coronet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ender_diadem_model",
+      "sprite": "_b_crowns:ender_diadem_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:eversource_crown_model",
+      "sprite": "_b_crowns:eversource_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:flame_circlet_model",
+      "sprite": "_b_crowns:flame_circlet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:floral_crown_model",
+      "sprite": "_b_crowns:floral_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:frost_circlet_model",
+      "sprite": "_b_crowns:frost_circlet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:goldleaf_wreath_model",
+      "sprite": "_b_crowns:goldleaf_wreath_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:harpers_headset_model",
+      "sprite": "_b_crowns:harpers_headset_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:lapis_lazuli_coronet_model",
+      "sprite": "_b_crowns:lapis_lazuli_coronet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:lavender_crown_model",
+      "sprite": "_b_crowns:lavender_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:netherite_coronet_model",
+      "sprite": "_b_crowns:netherite_coronet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:renegade_crown_model",
+      "sprite": "_b_crowns:renegade_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:rose_crown_model",
+      "sprite": "_b_crowns:rose_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:royal_crown_model",
+      "sprite": "_b_crowns:royal_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:ruby_diadem_model",
+      "sprite": "_b_crowns:ruby_diadem_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:sculk_crown_model",
+      "sprite": "_b_crowns:sculk_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:skull_crown_model",
+      "sprite": "_b_crowns:skull_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:thunder_circlet_model",
+      "sprite": "_b_crowns:thunder_circlet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:water_circlet_model",
+      "sprite": "_b_crowns:water_circlet_model"
+    },
+    {
+      "type": "single",
+      "resource": "crowns:wreath_crown_model",
+      "sprite": "_b_crowns:wreath_crown_model"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol1:archangel_animation_2",
+      "sprite": "_b_ec_fishing_rods_vol1:archangel_animation_2"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol1:archangel_tools_texture",
+      "sprite": "_b_ec_fishing_rods_vol1:archangel_tools_texture"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:item/iamissing",
+      "sprite": "_b_minecraft:item/iamissing"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol1:auselly_fishing_rod",
+      "sprite": "_b_ec_fishing_rods_vol1:auselly_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol1:mystic_fishing_rod",
+      "sprite": "_b_ec_fishing_rods_vol1:mystic_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol1:stellar_fishing_rod",
+      "sprite": "_b_ec_fishing_rods_vol1:stellar_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol1:sunred_fishing_rod",
+      "sprite": "_b_ec_fishing_rods_vol1:sunred_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol1:valkyrie_fishing_rod",
+      "sprite": "_b_ec_fishing_rods_vol1:valkyrie_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol1:valkyrie_animation_1",
+      "sprite": "_b_ec_fishing_rods_vol1:valkyrie_animation_1"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol2:blaze_fishing_rod",
+      "sprite": "_b_ec_fishing_rods_vol2:blaze_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol2:blaze_animation",
+      "sprite": "_b_ec_fishing_rods_vol2:blaze_animation"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol2:darkworld_fishing_rod",
+      "sprite": "_b_ec_fishing_rods_vol2:darkworld_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol2:darkworld_animation_1",
+      "sprite": "_b_ec_fishing_rods_vol2:darkworld_animation_1"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol2:texture",
+      "sprite": "_b_ec_fishing_rods_vol2:texture"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol2:eye_animate",
+      "sprite": "_b_ec_fishing_rods_vol2:eye_animate"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol2:blood_animate",
+      "sprite": "_b_ec_fishing_rods_vol2:blood_animate"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol2:texture_2",
+      "sprite": "_b_ec_fishing_rods_vol2:texture_2"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol2:emissary_fishing_rod",
+      "sprite": "_b_ec_fishing_rods_vol2:emissary_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol2:emissary_animation_1",
+      "sprite": "_b_ec_fishing_rods_vol2:emissary_animation_1"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol2:karoz_animation",
+      "sprite": "_b_ec_fishing_rods_vol2:karoz_animation"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol2:karoz_fishing_rod",
+      "sprite": "_b_ec_fishing_rods_vol2:karoz_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol2:redlord_fishing_rod",
+      "sprite": "_b_ec_fishing_rods_vol2:redlord_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol3:dragonborn_fishing_rod",
+      "sprite": "_b_ec_fishing_rods_vol3:dragonborn_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol3:forest_fishing_rod",
+      "sprite": "_b_ec_fishing_rods_vol3:forest_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol3:ragnarok_fishing_rod",
+      "sprite": "_b_ec_fishing_rods_vol3:ragnarok_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol3:rose_animation",
+      "sprite": "_b_ec_fishing_rods_vol3:rose_animation"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol3:rose_fishing_rod",
+      "sprite": "_b_ec_fishing_rods_vol3:rose_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol3:terra_animation",
+      "sprite": "_b_ec_fishing_rods_vol3:terra_animation"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol3:terra_fishing_rod",
+      "sprite": "_b_ec_fishing_rods_vol3:terra_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol3:wukong_fishing_rod",
+      "sprite": "_b_ec_fishing_rods_vol3:wukong_fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "ec_fishing_rods_vol3:wukong_animation",
+      "sprite": "_b_ec_fishing_rods_vol3:wukong_animation"
+    },
+    {
+      "type": "single",
+      "resource": "_iainternal:icons/icon_next_orange",
+      "sprite": "_b__iainternal:icons/icon_next_orange"
+    },
+    {
+      "type": "single",
+      "resource": "_iainternal:icons/icon_back_orange",
+      "sprite": "_b__iainternal:icons/icon_back_orange"
+    },
+    {
+      "type": "single",
+      "resource": "_iainternal:icons/icon_right_blue",
+      "sprite": "_b__iainternal:icons/icon_right_blue"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/backpack_icon",
+      "sprite": "_b_hmccosmetics:icons/backpack_icon"
+    },
+    {
+      "type": "single",
+      "resource": "_iainternal:icons/icon_arrow_chest",
+      "sprite": "_b__iainternal:icons/icon_arrow_chest"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/arrow_next",
+      "sprite": "_b_hmccosmetics:icons/arrow_next"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/hand_icon",
+      "sprite": "_b_hmccosmetics:icons/hand_icon"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/arrow_back",
+      "sprite": "_b_hmccosmetics:icons/arrow_back"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/balloon_icon",
+      "sprite": "_b_hmccosmetics:icons/balloon_icon"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/colorful",
+      "sprite": "_b_hmccosmetics:icons/colorful"
+    },
+    {
+      "type": "single",
+      "resource": "hmccosmetics:icons/hat_icon",
+      "sprite": "_b_hmccosmetics:icons/hat_icon"
+    },
+    {
+      "type": "single",
+      "resource": "_iainternal:icons/icon_cancel",
+      "sprite": "_b__iainternal:icons/icon_cancel"
+    },
+    {
+      "type": "single",
+      "resource": "_iainternal:icons/icon_search",
+      "sprite": "_b__iainternal:icons/icon_search"
+    },
+    {
+      "type": "single",
+      "resource": "_iainternal:icons/icon_left_blue",
+      "sprite": "_b__iainternal:icons/icon_left_blue"
     }
   ]
 }
