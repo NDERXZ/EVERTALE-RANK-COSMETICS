@@ -1386,6 +1386,96 @@
           "allow_offhand": true
         },
         "custom_model_data": 10017
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_bone_fishing_rod",
+        "bedrock_options": {
+          "icon": "fahfish_bone_fishing_rod",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10018
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_copper_fishing_rod",
+        "bedrock_options": {
+          "icon": "fahfish_copper_fishing_rod",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10019
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_diamond_fishing_rod",
+        "bedrock_options": {
+          "icon": "fahfish_diamond_fishing_rod",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10020
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_emerald_fishing_rod",
+        "bedrock_options": {
+          "icon": "fahfish_emerald_fishing_rod",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10021
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_gold_plated_fishing_rod",
+        "bedrock_options": {
+          "icon": "fahfish_gold_plated_fishing_rod",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10022
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_iron_fishing_rod",
+        "bedrock_options": {
+          "icon": "fahfish_iron_fishing_rod",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10023
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_netherite_fishing_rod",
+        "bedrock_options": {
+          "icon": "fahfish_netherite_fishing_rod",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10024
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_reinforced_fishing_rod",
+        "bedrock_options": {
+          "icon": "fahfish_reinforced_fishing_rod",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10025
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_resin_fishing_rod",
+        "bedrock_options": {
+          "icon": "fahfish_resin_fishing_rod",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10026
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_sculk_fishing_rod",
+        "bedrock_options": {
+          "icon": "fahfish_sculk_fishing_rod",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10027
       }
     ],
     "minecraft:tropical_fish": [
@@ -3323,6 +3413,995 @@
           "allow_offhand": true
         },
         "custom_model_data": 72214
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_endlerfish",
+        "bedrock_options": {
+          "icon": "fahfish_endlerfish",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72215
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_sculk_whale",
+        "bedrock_options": {
+          "icon": "fahfish_sculk_whale",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72216
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_swamp_king",
+        "bedrock_options": {
+          "icon": "fahfish_swamp_king",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72217
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_the_ancient",
+        "bedrock_options": {
+          "icon": "fahfish_the_ancient",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72218
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_thermalfish_v1",
+        "bedrock_options": {
+          "icon": "fahfish_thermalfish_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72219
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_thermalfish_v2",
+        "bedrock_options": {
+          "icon": "fahfish_thermalfish_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72220
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_wart_netherhorse",
+        "bedrock_options": {
+          "icon": "fahfish_wart_netherhorse",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72221
+      }
+    ],
+    "minecraft:cod": [
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_arowana_v1",
+        "bedrock_options": {
+          "icon": "fahfish_arowana_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10000
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_arowana_v2",
+        "bedrock_options": {
+          "icon": "fahfish_arowana_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10001
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_arowana_v3",
+        "bedrock_options": {
+          "icon": "fahfish_arowana_v3",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10002
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_arowana_v4",
+        "bedrock_options": {
+          "icon": "fahfish_arowana_v4",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10003
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_catfish_v1",
+        "bedrock_options": {
+          "icon": "fahfish_catfish_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10004
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_catfish_v2",
+        "bedrock_options": {
+          "icon": "fahfish_catfish_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10005
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_catfish_v3",
+        "bedrock_options": {
+          "icon": "fahfish_catfish_v3",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10006
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_eel_v1",
+        "bedrock_options": {
+          "icon": "fahfish_eel_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10007
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_eel_v2",
+        "bedrock_options": {
+          "icon": "fahfish_eel_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10008
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_goldfish_v1",
+        "bedrock_options": {
+          "icon": "fahfish_goldfish_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10009
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_goldfish_v2",
+        "bedrock_options": {
+          "icon": "fahfish_goldfish_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10010
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_goldfish_v3",
+        "bedrock_options": {
+          "icon": "fahfish_goldfish_v3",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10011
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_goldfish_v4",
+        "bedrock_options": {
+          "icon": "fahfish_goldfish_v4",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10012
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_goldfish_v5",
+        "bedrock_options": {
+          "icon": "fahfish_goldfish_v5",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10013
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_goldfish_v6",
+        "bedrock_options": {
+          "icon": "fahfish_goldfish_v6",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10014
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_goldfish_v7",
+        "bedrock_options": {
+          "icon": "fahfish_goldfish_v7",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10015
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_goldfish_v8",
+        "bedrock_options": {
+          "icon": "fahfish_goldfish_v8",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10016
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_mudskipper",
+        "bedrock_options": {
+          "icon": "fahfish_mudskipper",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10017
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_piranha_v1",
+        "bedrock_options": {
+          "icon": "fahfish_piranha_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10018
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_piranha_v2",
+        "bedrock_options": {
+          "icon": "fahfish_piranha_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10019
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_piranha_v3",
+        "bedrock_options": {
+          "icon": "fahfish_piranha_v3",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10020
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_piranha_v4",
+        "bedrock_options": {
+          "icon": "fahfish_piranha_v4",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10021
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_seahorse_v1",
+        "bedrock_options": {
+          "icon": "fahfish_seahorse_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10022
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_seahorse_v2",
+        "bedrock_options": {
+          "icon": "fahfish_seahorse_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10023
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_seahorse_v3",
+        "bedrock_options": {
+          "icon": "fahfish_seahorse_v3",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10024
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_seahorse_v4",
+        "bedrock_options": {
+          "icon": "fahfish_seahorse_v4",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10025
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_seahorse_v5",
+        "bedrock_options": {
+          "icon": "fahfish_seahorse_v5",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10026
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_seahorse_v6",
+        "bedrock_options": {
+          "icon": "fahfish_seahorse_v6",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10027
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_seahorse_v7",
+        "bedrock_options": {
+          "icon": "fahfish_seahorse_v7",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10028
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_seahorse_v8",
+        "bedrock_options": {
+          "icon": "fahfish_seahorse_v8",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10029
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_seahorse_v9",
+        "bedrock_options": {
+          "icon": "fahfish_seahorse_v9",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10030
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_siamese_fighting_fish_v1",
+        "bedrock_options": {
+          "icon": "fahfish_siamese_fighting_fish_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10031
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_siamese_fighting_fish_v2",
+        "bedrock_options": {
+          "icon": "fahfish_siamese_fighting_fish_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10032
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_siamese_fighting_fish_v3",
+        "bedrock_options": {
+          "icon": "fahfish_siamese_fighting_fish_v3",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10033
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_siamese_fighting_fish_v4",
+        "bedrock_options": {
+          "icon": "fahfish_siamese_fighting_fish_v4",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10034
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_siamese_fighting_fish_v5",
+        "bedrock_options": {
+          "icon": "fahfish_siamese_fighting_fish_v5",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10035
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_snapper",
+        "bedrock_options": {
+          "icon": "fahfish_snapper",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10036
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_tuna",
+        "bedrock_options": {
+          "icon": "fahfish_tuna",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10041
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_turbot",
+        "bedrock_options": {
+          "icon": "fahfish_turbot",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10042
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_stingray_v1",
+        "bedrock_options": {
+          "icon": "fahfish_stingray_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10037
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_stingray_v2",
+        "bedrock_options": {
+          "icon": "fahfish_stingray_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10038
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_stingray_v3",
+        "bedrock_options": {
+          "icon": "fahfish_stingray_v3",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10039
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_stingray_v4",
+        "bedrock_options": {
+          "icon": "fahfish_stingray_v4",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10040
+      }
+    ],
+    "minecraft:salmon": [
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_arapaima",
+        "bedrock_options": {
+          "icon": "fahfish_arapaima",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10000
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_coelacanth_fish",
+        "bedrock_options": {
+          "icon": "fahfish_coelacanth_fish",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10001
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_hammerhead_shark_v1",
+        "bedrock_options": {
+          "icon": "fahfish_hammerhead_shark_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10002
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_hammerhead_shark_v2",
+        "bedrock_options": {
+          "icon": "fahfish_hammerhead_shark_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10003
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_manta",
+        "bedrock_options": {
+          "icon": "fahfish_manta",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10004
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_nether_eel_v1",
+        "bedrock_options": {
+          "icon": "fahfish_nether_eel_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10005
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_nether_eel_v2",
+        "bedrock_options": {
+          "icon": "fahfish_nether_eel_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10006
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_rockspine_v1",
+        "bedrock_options": {
+          "icon": "fahfish_rockspine_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10007
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_rockspine_v2",
+        "bedrock_options": {
+          "icon": "fahfish_rockspine_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10008
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_rockspine_v3",
+        "bedrock_options": {
+          "icon": "fahfish_rockspine_v3",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10009
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_rockspine_v4",
+        "bedrock_options": {
+          "icon": "fahfish_rockspine_v4",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10010
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_rockspine_v5",
+        "bedrock_options": {
+          "icon": "fahfish_rockspine_v5",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10011
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_sailfish_v1",
+        "bedrock_options": {
+          "icon": "fahfish_sailfish_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10012
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_sailfish_v2",
+        "bedrock_options": {
+          "icon": "fahfish_sailfish_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10013
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_shadeel",
+        "bedrock_options": {
+          "icon": "fahfish_shadeel",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10014
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_shark",
+        "bedrock_options": {
+          "icon": "fahfish_shark",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10015
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_voidfish",
+        "bedrock_options": {
+          "icon": "fahfish_voidfish",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10016
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_zebra_turkeyfish_v1",
+        "bedrock_options": {
+          "icon": "fahfish_zebra_turkeyfish_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10017
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_zebra_turkeyfish_v2",
+        "bedrock_options": {
+          "icon": "fahfish_zebra_turkeyfish_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10018
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_zebra_turkeyfish_v3",
+        "bedrock_options": {
+          "icon": "fahfish_zebra_turkeyfish_v3",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10019
+      }
+    ],
+    "minecraft:pufferfish": [
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_endlerfish",
+        "bedrock_options": {
+          "icon": "fahfish_endlerfish",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10000
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_sculk_whale",
+        "bedrock_options": {
+          "icon": "fahfish_sculk_whale",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10001
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_swamp_king",
+        "bedrock_options": {
+          "icon": "fahfish_swamp_king",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10009
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_the_ancient",
+        "bedrock_options": {
+          "icon": "fahfish_the_ancient",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10010
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_thermalfish_v1",
+        "bedrock_options": {
+          "icon": "fahfish_thermalfish_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10011
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_thermalfish_v2",
+        "bedrock_options": {
+          "icon": "fahfish_thermalfish_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10012
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_wart_netherhorse",
+        "bedrock_options": {
+          "icon": "fahfish_wart_netherhorse",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10013
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_sea_seraphs_v1",
+        "bedrock_options": {
+          "icon": "fahfish_sea_seraphs_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10002
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_sea_seraphs_v2",
+        "bedrock_options": {
+          "icon": "fahfish_sea_seraphs_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10003
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_sea_seraphs_v3",
+        "bedrock_options": {
+          "icon": "fahfish_sea_seraphs_v3",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10004
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_sea_seraphs_v4",
+        "bedrock_options": {
+          "icon": "fahfish_sea_seraphs_v4",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10005
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_sea_seraphs_v5",
+        "bedrock_options": {
+          "icon": "fahfish_sea_seraphs_v5",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10006
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_sea_seraphs_v6",
+        "bedrock_options": {
+          "icon": "fahfish_sea_seraphs_v6",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10007
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_sea_seraphs_v7",
+        "bedrock_options": {
+          "icon": "fahfish_sea_seraphs_v7",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10008
+      }
+    ],
+    "minecraft:brick": [
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_waterfall",
+        "bedrock_options": {
+          "icon": "rtp_waterfall",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10000
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_lava_animation",
+        "bedrock_options": {
+          "icon": "rtp_lava_animation",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10001
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_lava_animation_2",
+        "bedrock_options": {
+          "icon": "rtp_lava_animation_2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10002
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_lava_animation_3",
+        "bedrock_options": {
+          "icon": "rtp_lava_animation_3",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10003
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_lava_animation_4",
+        "bedrock_options": {
+          "icon": "rtp_lava_animation_4",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10004
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_lava_animation_5",
+        "bedrock_options": {
+          "icon": "rtp_lava_animation_5",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10005
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_star_animation_top_right",
+        "bedrock_options": {
+          "icon": "rtp_star_animation_top_right",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10006
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_star_animation_top_left",
+        "bedrock_options": {
+          "icon": "rtp_star_animation_top_left",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10007
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_star_animation_bottom_left",
+        "bedrock_options": {
+          "icon": "rtp_star_animation_bottom_left",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10008
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_star_animation_bottom_right",
+        "bedrock_options": {
+          "icon": "rtp_star_animation_bottom_right",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10009
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_void_waterfall_animation",
+        "bedrock_options": {
+          "icon": "rtp_void_waterfall_animation",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10010
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_overworld_icon",
+        "bedrock_options": {
+          "icon": "rtp_overworld_icon",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10011
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_nether_icon",
+        "bedrock_options": {
+          "icon": "rtp_nether_icon",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10012
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_end_icon",
+        "bedrock_options": {
+          "icon": "rtp_end_icon",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10013
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_resource_icon",
+        "bedrock_options": {
+          "icon": "rtp_resource_icon",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10014
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_cloud_animation",
+        "bedrock_options": {
+          "icon": "rtp_cloud_animation",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10015
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_cloud_animation_right",
+        "bedrock_options": {
+          "icon": "rtp_cloud_animation_right",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10016
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_minecart_animation",
+        "bedrock_options": {
+          "icon": "rtp_minecart_animation",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10017
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_sun_animation",
+        "bedrock_options": {
+          "icon": "rtp_sun_animation",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10018
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_sunset_cloud_animation",
+        "bedrock_options": {
+          "icon": "rtp_sunset_cloud_animation",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10019
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_shining_effect",
+        "bedrock_options": {
+          "icon": "rtp_shining_effect",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10020
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_rtp_pin",
+        "bedrock_options": {
+          "icon": "rtp_rtp_pin",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10021
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_rtp_lock",
+        "bedrock_options": {
+          "icon": "rtp_rtp_lock",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10022
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_left_arrow",
+        "bedrock_options": {
+          "icon": "rtp_left_arrow",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10023
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:rtp_right_arrow",
+        "bedrock_options": {
+          "icon": "rtp_right_arrow",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10024
       }
     ]
   }
