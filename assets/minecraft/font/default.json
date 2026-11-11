@@ -910,21 +910,12 @@
       ]
     },
     {
-      "file": "custom_esc:top_logo_1.png",
+      "file": "custom_esc:top_logo.png",
       "chars": [
-        "\ue033"
+        "\ue038"
       ],
       "height": 64,
-      "ascent": 32,
-      "type": "bitmap"
-    },
-    {
-      "file": "custom_esc:top_logo_2.png",
-      "chars": [
-        "\ue034"
-      ],
-      "height": 64,
-      "ascent": 32,
+      "ascent": 44,
       "type": "bitmap"
     },
     {

@@ -1,15 +1,12 @@
 info:
   namespace: "custom_esc"
 font_images:
-  top_logo_1:
-    path: "top_logo_1.png"
-    y_position: 32
-    scale_ratio: 64
-    suggest_in_command: false
-    show_in_gui: false
-  top_logo_2:
-    path: "top_logo_2.png"
-    y_position: 32
+  # One image (both halves joined, cropped to the logo): Minecraft measures a font image only up
+  # to its last non-transparent column, so the old half-empty top_logo_2 made the title off-centre.
+  # 250x125 shown 64 high: top at GUI y=3, bottom at y=67 (above the buttons on 1080p, GUI scale 4).
+  top_logo:
+    path: "top_logo.png"
+    y_position: 44
     scale_ratio: 64
     suggest_in_command: false
     show_in_gui: false
