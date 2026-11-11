@@ -908,6 +908,51 @@
       "chars": [
         "\ue811"
       ]
+    },
+    {
+      "file": "custom_esc:top_logo_1.png",
+      "chars": [
+        "\ue033"
+      ],
+      "height": 64,
+      "ascent": 32,
+      "type": "bitmap"
+    },
+    {
+      "file": "custom_esc:top_logo_2.png",
+      "chars": [
+        "\ue034"
+      ],
+      "height": 64,
+      "ascent": 32,
+      "type": "bitmap"
+    },
+    {
+      "file": "custom_esc:bottom_news.png",
+      "chars": [
+        "\ue035"
+      ],
+      "height": 78,
+      "ascent": -10,
+      "type": "bitmap"
+    },
+    {
+      "file": "custom_esc:quit_button.png",
+      "chars": [
+        "\ue036"
+      ],
+      "height": 20,
+      "ascent": 13,
+      "type": "bitmap"
+    },
+    {
+      "file": "custom_esc:you_died.png",
+      "chars": [
+        "\ue037"
+      ],
+      "height": 128,
+      "ascent": 35,
+      "type": "bitmap"
     }
   ]
 }

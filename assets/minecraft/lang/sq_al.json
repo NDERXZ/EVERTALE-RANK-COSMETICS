@@ -1,5 +1,8 @@
 {
+  "deathScreen.title": "\u00a7f\ue037\u00a7r",
   "item.color": "",
   "item.dyed": "",
+  "menu.disconnect": "\uf80d\uf829\u00a7f\ue036\u00a7r\uf80c\uf80b\uf80a\uf808\uf804\uf829\u00a7f\ue035\u00a7r\uf80d",
+  "menu.game": "\u00a7f\ue033\u00a7r\uf801\u00a7f\ue034\u00a7r",
   "merchant.trades": ""
 }
