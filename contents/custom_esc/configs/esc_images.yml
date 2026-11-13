@@ -10,16 +10,6 @@ font_images:
     scale_ratio: 64
     suggest_in_command: false
     show_in_gui: false
-  bottom_news:
-    path: "bottom_news.png"
-    y_position: -10
-    suggest_in_command: false
-    show_in_gui: false
-  quit_button:
-    path: "quit_button.png"
-    y_position: 13
-    suggest_in_command: false
-    show_in_gui: false
   you_died:
     path: "you_died.png"
     y_position: 35
