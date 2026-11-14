@@ -3416,7 +3416,7 @@
       },
       {
         "type": "legacy",
-        "bedrock_identifier": "geyser_custom:fahfish_endlerfish",
+        "bedrock_identifier": "geyser_custom:fahfish_endlerfish_legacy",
         "bedrock_options": {
           "icon": "fahfish_endlerfish",
           "allow_offhand": true
@@ -3425,7 +3425,7 @@
       },
       {
         "type": "legacy",
-        "bedrock_identifier": "geyser_custom:fahfish_sculk_whale",
+        "bedrock_identifier": "geyser_custom:fahfish_sculk_whale_legacy",
         "bedrock_options": {
           "icon": "fahfish_sculk_whale",
           "allow_offhand": true
@@ -3434,7 +3434,7 @@
       },
       {
         "type": "legacy",
-        "bedrock_identifier": "geyser_custom:fahfish_swamp_king",
+        "bedrock_identifier": "geyser_custom:fahfish_swamp_king_legacy",
         "bedrock_options": {
           "icon": "fahfish_swamp_king",
           "allow_offhand": true
@@ -3443,7 +3443,7 @@
       },
       {
         "type": "legacy",
-        "bedrock_identifier": "geyser_custom:fahfish_the_ancient",
+        "bedrock_identifier": "geyser_custom:fahfish_the_ancient_legacy",
         "bedrock_options": {
           "icon": "fahfish_the_ancient",
           "allow_offhand": true
@@ -3452,7 +3452,7 @@
       },
       {
         "type": "legacy",
-        "bedrock_identifier": "geyser_custom:fahfish_thermalfish_v1",
+        "bedrock_identifier": "geyser_custom:fahfish_thermalfish_v1_legacy",
         "bedrock_options": {
           "icon": "fahfish_thermalfish_v1",
           "allow_offhand": true
@@ -3461,7 +3461,7 @@
       },
       {
         "type": "legacy",
-        "bedrock_identifier": "geyser_custom:fahfish_thermalfish_v2",
+        "bedrock_identifier": "geyser_custom:fahfish_thermalfish_v2_legacy",
         "bedrock_options": {
           "icon": "fahfish_thermalfish_v2",
           "allow_offhand": true
@@ -3470,7 +3470,7 @@
       },
       {
         "type": "legacy",
-        "bedrock_identifier": "geyser_custom:fahfish_wart_netherhorse",
+        "bedrock_identifier": "geyser_custom:fahfish_wart_netherhorse_legacy",
         "bedrock_options": {
           "icon": "fahfish_wart_netherhorse",
           "allow_offhand": true
