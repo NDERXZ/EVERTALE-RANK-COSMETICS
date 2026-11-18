@@ -910,6 +910,15 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "minecraft:ranks/emissary.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": [
+        "\ue812"
+      ]
+    },
+    {
       "file": "custom_esc:top_logo.png",
       "chars": [
         "\ue038"

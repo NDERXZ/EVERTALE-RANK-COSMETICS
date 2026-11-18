@@ -32,3 +32,10 @@
 /lp group media permission set unicorn_cosmetics.* true
 /lp group media permission set ia.user.image.* true
 /lp group media permission set ia.menu.* true
+
+# --- EMISSARY RANK (badge \uE812, same setup as celestial/miaw/mvp) ---
+/lp creategroup emissary
+/lp group emissary parent add custom
+/lp group emissary setweight 8
+/lp group emissary setdisplayname &4&lEMISSARY
+/lp group emissary meta setprefix 8 " "
