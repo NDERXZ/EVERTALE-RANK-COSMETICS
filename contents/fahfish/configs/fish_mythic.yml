@@ -1,0 +1,107 @@
+info:
+  namespace: "fahfish"
+items:
+  gary:
+    display_name: "&dGary"
+    permission: "fahfish.fish.gary"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &dᴍʏᴛʜɪᴄ"
+    resource:
+      material: "TROPICAL_FISH"
+      model_path: "fahfish:item/gary"
+  ikan_cyborg:
+    display_name: "&dIkan Cyborg"
+    permission: "fahfish.fish.ikan_cyborg"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &dᴍʏᴛʜɪᴄ"
+    resource:
+      material: "TROPICAL_FISH"
+      model_path: "fahfish:item/ikan_cyborg"
+  ikan_eggchan:
+    display_name: "&dIkan Eggchan"
+    permission: "fahfish.fish.ikan_eggchan"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &dᴍʏᴛʜɪᴄ"
+    resource:
+      material: "TROPICAL_FISH"
+      model_path: "fahfish:item/ikan_eggchan"
+  ikan_kriuk_rawr:
+    display_name: "&dIkan Kriuk Rawr"
+    permission: "fahfish.fish.ikan_kriuk_rawr"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &dᴍʏᴛʜɪᴄ"
+    resource:
+      material: "TROPICAL_FISH"
+      model_path: "fahfish:item/ikan_kriuk_rawr"
+  ikan_meong_oyen:
+    display_name: "&dIkan Meong Oyen"
+    permission: "fahfish.fish.ikan_meong_oyen"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &dᴍʏᴛʜɪᴄ"
+    resource:
+      material: "TROPICAL_FISH"
+      model_path: "fahfish:item/ikan_meong_oyen"
+  ikan_skena:
+    display_name: "&dIkan Skena"
+    permission: "fahfish.fish.ikan_skena"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &dᴍʏᴛʜɪᴄ"
+    resource:
+      material: "TROPICAL_FISH"
+      model_path: "fahfish:item/ikan_skena"
+  ikan_tuna_mayo:
+    display_name: "&dIkan Tuna Mayo"
+    permission: "fahfish.fish.ikan_tuna_mayo"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &dᴍʏᴛʜɪᴄ"
+    resource:
+      material: "TROPICAL_FISH"
+      model_path: "fahfish:item/ikan_tuna_mayo"
+  iwak_tempe:
+    display_name: "&dIwak Tempe"
+    permission: "fahfish.fish.iwak_tempe"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &dᴍʏᴛʜɪᴄ"
+    resource:
+      material: "TROPICAL_FISH"
+      model_path: "fahfish:item/iwak_tempe"
+  kerang_cireng_megalodon:
+    display_name: "&dKerang Cireng Megalodon"
+    permission: "fahfish.fish.kerang_cireng_megalodon"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &dᴍʏᴛʜɪᴄ"
+    resource:
+      material: "TROPICAL_FISH"
+      model_path: "fahfish:item/kerang_cireng_megalodon"
+  king_salmon:
+    display_name: "&dKing Salmon"
+    permission: "fahfish.fish.king_salmon"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &dᴍʏᴛʜɪᴄ"
+    resource:
+      material: "TROPICAL_FISH"
+      model_path: "fahfish:item/king_salmon"
+  mujaer:
+    display_name: "&dMujaer"
+    permission: "fahfish.fish.mujaer"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &dᴍʏᴛʜɪᴄ"
+    resource:
+      material: "TROPICAL_FISH"
+      model_path: "fahfish:item/mujaer"
+  phantomfish:
+    display_name: "&dPhantomfish"
+    permission: "fahfish.fish.phantomfish"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &dᴍʏᴛʜɪᴄ"
+    resource:
+      material: "TROPICAL_FISH"
+      model_path: "fahfish:item/phantomfish"
+  slekbewfish:
+    display_name: "&dSlekbewfish"
+    permission: "fahfish.fish.slekbewfish"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &dᴍʏᴛʜɪᴄ"
+    resource:
+      material: "TROPICAL_FISH"
+      model_path: "fahfish:item/slekbewfish"

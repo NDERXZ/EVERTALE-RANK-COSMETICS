@@ -1,0 +1,355 @@
+info:
+  namespace: "fahfish"
+items:
+  anggurfish:
+    display_name: "&fAnggurfish"
+    permission: "fahfish.fish.anggurfish"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/anggurfish"
+  bintang_laut_biru:
+    display_name: "&fBintang Laut Biru"
+    permission: "fahfish.fish.bintang_laut_biru"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/bintang_laut_biru"
+  bintang_laut_coklat:
+    display_name: "&fBintang Laut Coklat"
+    permission: "fahfish.fish.bintang_laut_coklat"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/bintang_laut_coklat"
+  bintang_laut_gold:
+    display_name: "&fBintang Laut Gold"
+    permission: "fahfish.fish.bintang_laut_gold"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/bintang_laut_gold"
+  bintang_laut_ijo:
+    display_name: "&fBintang Laut Ijo"
+    permission: "fahfish.fish.bintang_laut_ijo"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/bintang_laut_ijo"
+  bintang_laut_kuning:
+    display_name: "&fBintang Laut Kuning"
+    permission: "fahfish.fish.bintang_laut_kuning"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/bintang_laut_kuning"
+  bintang_laut_pink:
+    display_name: "&fBintang Laut Pink"
+    permission: "fahfish.fish.bintang_laut_pink"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/bintang_laut_pink"
+  ih_kan:
+    display_name: "&fIh Kan"
+    permission: "fahfish.fish.ih_kan"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ih_kan"
+  ikan_cana:
+    display_name: "&fIkan Cana"
+    permission: "fahfish.fish.ikan_cana"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ikan_cana"
+  ikan_cupang:
+    display_name: "&fIkan Cupang"
+    permission: "fahfish.fish.ikan_cupang"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ikan_cupang"
+  ikan_goryeng:
+    display_name: "&fIkan Goryeng"
+    permission: "fahfish.fish.ikan_goryeng"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ikan_goryeng"
+  ikan_goryeng_beneran:
+    display_name: "&fIkan Goryeng Beneran"
+    permission: "fahfish.fish.ikan_goryeng_beneran"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ikan_goryeng_beneran"
+  ikan_ikanan:
+    display_name: "&fIkan Ikanan"
+    permission: "fahfish.fish.ikan_ikanan"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ikan_ikanan"
+  ikan_kecik:
+    display_name: "&fIkan Kecik"
+    permission: "fahfish.fish.ikan_kecik"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ikan_kecik"
+  ikan_kinyis:
+    display_name: "&fIkan Kinyis"
+    permission: "fahfish.fish.ikan_kinyis"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ikan_kinyis"
+  ikan_klontong:
+    display_name: "&fIkan Klontong"
+    permission: "fahfish.fish.ikan_klontong"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ikan_klontong"
+  ikan_melon:
+    display_name: "&fIkan Melon"
+    permission: "fahfish.fish.ikan_melon"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ikan_melon"
+  ikan_nemo_cyberpunk:
+    display_name: "&fIkan Nemo Cyberpunk"
+    permission: "fahfish.fish.ikan_nemo_cyberpunk"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ikan_nemo_cyberpunk"
+  ikan_ochobot:
+    display_name: "&fIkan Ochobot"
+    permission: "fahfish.fish.ikan_ochobot"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ikan_ochobot"
+  ikan_ombak_awas_ombak:
+    display_name: "&fIkan Ombak Awas Ombak"
+    permission: "fahfish.fish.ikan_ombak_awas_ombak"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ikan_ombak_awas_ombak"
+  ikan_teladan:
+    display_name: "&fIkan Teladan"
+    permission: "fahfish.fish.ikan_teladan"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ikan_teladan"
+  ikan_teri:
+    display_name: "&fIkan Teri"
+    permission: "fahfish.fish.ikan_teri"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ikan_teri"
+  ikan_toy_story:
+    display_name: "&fIkan Toy Story"
+    permission: "fahfish.fish.ikan_toy_story"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ikan_toy_story"
+  ikan_ya_ikan:
+    display_name: "&fIkan ya Ikan"
+    permission: "fahfish.fish.ikan_ya_ikan"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/ikan_ya_ikan"
+  indigo:
+    display_name: "&fIndigo"
+    permission: "fahfish.fish.indigo"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/indigo"
+  kerang_kering:
+    display_name: "&fKerang Kering"
+    permission: "fahfish.fish.kerang_kering"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/kerang_kering"
+  koi_elite:
+    display_name: "&fKoi Elite"
+    permission: "fahfish.fish.koi_elite"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/koi_elite"
+  koi_goreng:
+    display_name: "&fKoi Goreng"
+    permission: "fahfish.fish.koi_goreng"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/koi_goreng"
+  koi_iok:
+    display_name: "&fKoi ioK"
+    permission: "fahfish.fish.koi_iok"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/koi_iok"
+  koi_jamal:
+    display_name: "&fKoi Jamal"
+    permission: "fahfish.fish.koi_jamal"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/koi_jamal"
+  koi_so:
+    display_name: "&fKoi So"
+    permission: "fahfish.fish.koi_so"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/koi_so"
+  koi_sugianto:
+    display_name: "&fKoi Sugianto"
+    permission: "fahfish.fish.koi_sugianto"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/koi_sugianto"
+  koi_tem:
+    display_name: "&fKoi Tem"
+    permission: "fahfish.fish.koi_tem"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/koi_tem"
+  kuda_laut:
+    display_name: "&fKuda Laut"
+    permission: "fahfish.fish.kuda_laut"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/kuda_laut"
+  kuda_laut_goldenbrown:
+    display_name: "&fKuda Laut Goldenbrown"
+    permission: "fahfish.fish.kuda_laut_goldenbrown"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/kuda_laut_goldenbrown"
+  kuda_laut_gosong:
+    display_name: "&fKuda Laut Gosong"
+    permission: "fahfish.fish.kuda_laut_gosong"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/kuda_laut_gosong"
+  kuda_laut_ijo_neon:
+    display_name: "&fKuda Laut Ijo Neon"
+    permission: "fahfish.fish.kuda_laut_ijo_neon"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/kuda_laut_ijo_neon"
+  kuda_laut_ijo_patrick:
+    display_name: "&fKuda Laut Ijo Patrick"
+    permission: "fahfish.fish.kuda_laut_ijo_patrick"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/kuda_laut_ijo_patrick"
+  lele_jawa_barat:
+    display_name: "&fLele Jawa Barat"
+    permission: "fahfish.fish.lele_jawa_barat"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/lele_jawa_barat"
+  mama_belut:
+    display_name: "&fMama Belut"
+    permission: "fahfish.fish.mama_belut"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/mama_belut"
+  papa_belut:
+    display_name: "&fPapa Belut"
+    permission: "fahfish.fish.papa_belut"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/papa_belut"
+  pesyel_leyley:
+    display_name: "&fPesyel LeyLey"
+    permission: "fahfish.fish.pesyel_leyley"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/pesyel_leyley"
+  sapu_sapu_ciliwung:
+    display_name: "&fSapu - sapu Ciliwung"
+    permission: "fahfish.fish.sapu_sapu_ciliwung"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/sapu_sapu_ciliwung"
+  teri:
+    display_name: "&fTeri"
+    permission: "fahfish.fish.teri"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &fᴄᴏᴍᴍᴏɴ"
+    resource:
+      material: "COD"
+      model_path: "fahfish:item/teri"

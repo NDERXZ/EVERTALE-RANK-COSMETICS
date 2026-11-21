@@ -1,0 +1,123 @@
+info:
+  namespace: "fahfish"
+items:
+  fahfish_arapaima:
+    display_name: "&6Arapaima"
+    permission: "fahfish.fish.fahfish_arapaima"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_arapaima"
+  fahfish_coelacanth_fish:
+    display_name: "&6Coelacanth Fish"
+    permission: "fahfish.fish.fahfish_coelacanth_fish"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_coelacanth_fish"
+  fahfish_hammerhead_shark_v1:
+    display_name: "&6Hammerhead Shark V1"
+    permission: "fahfish.fish.fahfish_hammerhead_shark_v1"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_hammerhead_shark_v1"
+  fahfish_hammerhead_shark_v2:
+    display_name: "&6Hammerhead Shark V2"
+    permission: "fahfish.fish.fahfish_hammerhead_shark_v2"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_hammerhead_shark_v2"
+  fahfish_manta:
+    display_name: "&6Manta"
+    permission: "fahfish.fish.fahfish_manta"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_manta"
+  fahfish_nether_eel_v1:
+    display_name: "&6Nether Eel V1"
+    permission: "fahfish.fish.fahfish_nether_eel_v1"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_nether_eel_v1"
+  fahfish_nether_eel_v2:
+    display_name: "&6Nether Eel V2"
+    permission: "fahfish.fish.fahfish_nether_eel_v2"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_nether_eel_v2"
+  fahfish_rockspine_v1:
+    display_name: "&6Rockspine V1"
+    permission: "fahfish.fish.fahfish_rockspine_v1"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_rockspine_v1"
+  fahfish_rockspine_v2:
+    display_name: "&6Rockspine V2"
+    permission: "fahfish.fish.fahfish_rockspine_v2"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_rockspine_v2"
+  fahfish_rockspine_v3:
+    display_name: "&6Rockspine V3"
+    permission: "fahfish.fish.fahfish_rockspine_v3"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_rockspine_v3"
+  fahfish_rockspine_v4:
+    display_name: "&6Rockspine V4"
+    permission: "fahfish.fish.fahfish_rockspine_v4"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_rockspine_v4"
+  fahfish_rockspine_v5:
+    display_name: "&6Rockspine V5"
+    permission: "fahfish.fish.fahfish_rockspine_v5"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_rockspine_v5"
+  fahfish_sailfish_v1:
+    display_name: "&6Sailfish V1"
+    permission: "fahfish.fish.fahfish_sailfish_v1"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_sailfish_v1"
+  fahfish_sailfish_v2:
+    display_name: "&6Sailfish V2"
+    permission: "fahfish.fish.fahfish_sailfish_v2"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_sailfish_v2"
+  fahfish_shadeel:
+    display_name: "&6Shadeel"
+    permission: "fahfish.fish.fahfish_shadeel"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_shadeel"
+  fahfish_shark:
+    display_name: "&6Shark"
+    permission: "fahfish.fish.fahfish_shark"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_shark"
+  fahfish_voidfish:
+    display_name: "&6Voidfish"
+    permission: "fahfish.fish.fahfish_voidfish"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_voidfish"
+  fahfish_zebra_turkeyfish_v1:
+    display_name: "&6Zebra Turkeyfish V1"
+    permission: "fahfish.fish.fahfish_zebra_turkeyfish_v1"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_zebra_turkeyfish_v1"
+  fahfish_zebra_turkeyfish_v2:
+    display_name: "&6Zebra Turkeyfish V2"
+    permission: "fahfish.fish.fahfish_zebra_turkeyfish_v2"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_zebra_turkeyfish_v2"
+  fahfish_zebra_turkeyfish_v3:
+    display_name: "&6Zebra Turkeyfish V3"
+    permission: "fahfish.fish.fahfish_zebra_turkeyfish_v3"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/fahfish_zebra_turkeyfish_v3"

@@ -1,0 +1,56 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "fahfish:item/ffv2_animal_starfish_warna_3",
+		"particle": "fahfish:item/ffv2_animal_starfish_warna_3"
+	},
+	"elements": [
+		{
+			"name": "starfish_0_0",
+			"from": [3.5, 7.7, 3],
+			"to": [12.5, 7.701, 13],
+			"faces": {
+				"up": {"uv": [9, 10, 0, 0], "texture": "#0"},
+				"down": {"uv": [9, 0, 0, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "starfish_0_1",
+			"from": [5.5, 7.5, 6],
+			"to": [9.5, 8.5, 10],
+			"faces": {
+				"north": {"uv": [4, 14, 8, 15], "texture": "#0"},
+				"east": {"uv": [0, 14, 4, 15], "texture": "#0"},
+				"south": {"uv": [12, 14, 16, 15], "texture": "#0"},
+				"west": {"uv": [8, 14, 12, 15], "texture": "#0"},
+				"up": {"uv": [8, 14, 4, 10], "texture": "#0"},
+				"down": {"uv": [12, 10, 8, 14], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, -67.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 67.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-15, -90, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-15, 90, 0]
+		},
+		"ground": {
+			"translation": [0, 2, 0]
+		},
+		"gui": {
+			"rotation": [0, 90, -35],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
+		}
+	}
+}

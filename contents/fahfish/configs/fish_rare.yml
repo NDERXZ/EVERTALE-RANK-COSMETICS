@@ -1,0 +1,251 @@
+info:
+  namespace: "fahfish"
+items:
+  amarah_suharto_kw:
+    display_name: "&9Amarah Suharto KW"
+    permission: "fahfish.fish.amarah_suharto_kw"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/amarah_suharto_kw"
+  blob_fish:
+    display_name: "&9Blob Fish"
+    permission: "fahfish.fish.blob_fish"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/blob_fish"
+  buluk_babik:
+    display_name: "&9Buluk Babik"
+    permission: "fahfish.fish.buluk_babik"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/buluk_babik"
+  ikan_api_streak:
+    display_name: "&9Ikan Api Streak"
+    permission: "fahfish.fish.ikan_api_streak"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/ikan_api_streak"
+  ikan_asli_evertale:
+    display_name: "&9Ikan Asli Evertale"
+    permission: "fahfish.fish.ikan_asli_evertale"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/ikan_asli_evertale"
+  ikan_cangkeman:
+    display_name: "&9Ikan Cangkeman"
+    permission: "fahfish.fish.ikan_cangkeman"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/ikan_cangkeman"
+  ikan_cheetah:
+    display_name: "&9Ikan Cheetah"
+    permission: "fahfish.fish.ikan_cheetah"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/ikan_cheetah"
+  ikan_ht1:
+    display_name: "&9Ikan HT1"
+    permission: "fahfish.fish.ikan_ht1"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/ikan_ht1"
+  ikan_ijo_stabilo:
+    display_name: "&9Ikan Ijo Stabilo"
+    permission: "fahfish.fish.ikan_ijo_stabilo"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/ikan_ijo_stabilo"
+  ikan_kerapu_medan:
+    display_name: "&9Ikan Kerapu Medan"
+    permission: "fahfish.fish.ikan_kerapu_medan"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/ikan_kerapu_medan"
+  ikan_kinyis_kinyis:
+    display_name: "&9Ikan Kinyis Kinyis"
+    permission: "fahfish.fish.ikan_kinyis_kinyis"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/ikan_kinyis_kinyis"
+  ikan_koltong:
+    display_name: "&9Ikan Koltong"
+    permission: "fahfish.fish.ikan_koltong"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/ikan_koltong"
+  ikan_kukuruyuk:
+    display_name: "&9Ikan Kukuruyuk"
+    permission: "fahfish.fish.ikan_kukuruyuk"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/ikan_kukuruyuk"
+  ikan_kumis_tipis:
+    display_name: "&9Ikan Kumis Tipis"
+    permission: "fahfish.fish.ikan_kumis_tipis"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/ikan_kumis_tipis"
+  ikan_serem:
+    display_name: "&9Ikan Serem"
+    permission: "fahfish.fish.ikan_serem"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/ikan_serem"
+  ikan_syahrini:
+    display_name: "&9Ikan Syahrini"
+    permission: "fahfish.fish.ikan_syahrini"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/ikan_syahrini"
+  ikan_warden_sachet:
+    display_name: "&9Ikan Warden Sachet"
+    permission: "fahfish.fish.ikan_warden_sachet"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/ikan_warden_sachet"
+  jellofih:
+    display_name: "&9Jellofih"
+    permission: "fahfish.fish.jellofih"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/jellofih"
+  jellofih_coquette:
+    display_name: "&9Jellofih Coquette"
+    permission: "fahfish.fish.jellofih_coquette"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/jellofih_coquette"
+  jellofih_lanang:
+    display_name: "&9Jellofih Lanang"
+    permission: "fahfish.fish.jellofih_lanang"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/jellofih_lanang"
+  kemucing_fish:
+    display_name: "&9Kemucing Fish"
+    permission: "fahfish.fish.kemucing_fish"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/kemucing_fish"
+  kepiting:
+    display_name: "&9Kepiting"
+    permission: "fahfish.fish.kepiting"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/kepiting"
+  koi_pesugihan:
+    display_name: "&9Koi Pesugihan"
+    permission: "fahfish.fish.koi_pesugihan"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/koi_pesugihan"
+  lele_supernatural:
+    display_name: "&9Lele Supernatural"
+    permission: "fahfish.fish.lele_supernatural"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/lele_supernatural"
+  lionfih:
+    display_name: "&9Lionfih"
+    permission: "fahfish.fish.lionfih"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/lionfih"
+  lobsta:
+    display_name: "&9Lobsta"
+    permission: "fahfish.fish.lobsta"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/lobsta"
+  pickaxe_iron:
+    display_name: "&9Pickaxe Iron"
+    permission: "fahfish.fish.pickaxe_iron"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/pickaxe_iron"
+  plengerfish:
+    display_name: "&9Plengerfish"
+    permission: "fahfish.fish.plengerfish"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/plengerfish"
+  sepupu_jellofih:
+    display_name: "&9Sepupu Jellofih"
+    permission: "fahfish.fish.sepupu_jellofih"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/sepupu_jellofih"
+  telonfish:
+    display_name: "&9Telonfish"
+    permission: "fahfish.fish.telonfish"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/telonfish"
+  watamelong_fih:
+    display_name: "&9Watamelong Fih"
+    permission: "fahfish.fish.watamelong_fih"
+    lore:
+      - "&7ʀᴀʀɪᴛʏ: &9ʀᴀʀᴇ"
+    resource:
+      material: "SALMON"
+      model_path: "fahfish:item/watamelong_fih"

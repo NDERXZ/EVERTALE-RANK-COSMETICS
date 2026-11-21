@@ -1,0 +1,70 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "fahfish:item/ffv2_partner_fish_jigarbovproductions",
+		"particle": "fahfish:item/ffv2_partner_fish_jigarbovproductions"
+	},
+	"elements": [
+		{
+			"name": "body_front_one_sided_0",
+			"from": [8, 1.5, -3],
+			"to": [8.001, 14.5, 9],
+			"faces": {
+				"east": {"uv": [5.75, 0.375, 11.75, 6.875], "texture": "#0"},
+				"west": {"uv": [11.75, 0.375, 5.75, 6.875], "texture": "#0"}
+			}
+		},
+		{
+			"name": "tailfin_one_sided_0",
+			"from": [8, 1.5, 9],
+			"to": [8.001, 14.5, 19],
+			"faces": {
+				"east": {"uv": [0.75, 0.375, 5.75, 6.875], "texture": "#0"},
+				"west": {"uv": [5.75, 0.375, 0.75, 6.875], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [-15, -90, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-15, 90, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [-1, 89, 1],
+			"translation": [9.5, 0, 1.25],
+			"scale": [0.65, 0.9, 0.9]
+		},
+		"head": {
+			"translation": [0, 10.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"scale": [0.88, 0.66, 0.57]
+		},
+		"on_shelf": {
+			"rotation": [90, -28, 80],
+			"translation": [0, 0.5, -2.25],
+			"scale": [0.54, 0.5, 0.54563]
+		}
+	}
+}

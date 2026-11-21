@@ -1,0 +1,45 @@
+info:
+  namespace: "fahfish"
+items:
+  fahfish_endlerfish:
+    display_name: "&d&lEndlerfish"
+    permission: "fahfish.fish.fahfish_endlerfish"
+    resource:
+      material: "PUFFERFISH"
+      model_path: "fahfish:item/fahfish_endlerfish"
+  fahfish_sculk_whale:
+    display_name: "&4&lSculk Whale"
+    permission: "fahfish.fish.fahfish_sculk_whale"
+    resource:
+      material: "PUFFERFISH"
+      model_path: "fahfish:item/fahfish_sculk_whale"
+  fahfish_swamp_king:
+    display_name: "&4&lSwamp King"
+    permission: "fahfish.fish.fahfish_swamp_king"
+    resource:
+      material: "PUFFERFISH"
+      model_path: "fahfish:item/fahfish_swamp_king"
+  fahfish_the_ancient:
+    display_name: "&4&lThe Ancient"
+    permission: "fahfish.fish.fahfish_the_ancient"
+    resource:
+      material: "PUFFERFISH"
+      model_path: "fahfish:item/fahfish_the_ancient"
+  fahfish_thermalfish_v1:
+    display_name: "&d&lThermalfish V1"
+    permission: "fahfish.fish.fahfish_thermalfish_v1"
+    resource:
+      material: "PUFFERFISH"
+      model_path: "fahfish:item/fahfish_thermalfish_v1"
+  fahfish_thermalfish_v2:
+    display_name: "&d&lThermalfish V2"
+    permission: "fahfish.fish.fahfish_thermalfish_v2"
+    resource:
+      material: "PUFFERFISH"
+      model_path: "fahfish:item/fahfish_thermalfish_v2"
+  fahfish_wart_netherhorse:
+    display_name: "&d&lWart Netherhorse"
+    permission: "fahfish.fish.fahfish_wart_netherhorse"
+    resource:
+      material: "PUFFERFISH"
+      model_path: "fahfish:item/fahfish_wart_netherhorse"

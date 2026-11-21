@@ -1,0 +1,129 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "fahfish:item/ffv2_animal_jellyfish_brown",
+		"particle": "fahfish:item/ffv2_animal_jellyfish_brown"
+	},
+	"elements": [
+		{
+			"name": "bell_0",
+			"from": [1, 16, 1],
+			"to": [15, 21, 15],
+			"faces": {
+				"north": {"uv": [7, 3.5, 14, 4.75], "texture": "#0"},
+				"east": {"uv": [0, 3.5, 7, 4.75], "texture": "#0"},
+				"south": {"uv": [7, 5.5, 14, 6.75], "texture": "#0"},
+				"west": {"uv": [0, 5.5, 7, 6.75], "texture": "#0"},
+				"up": {"uv": [14, 3.5, 7, 0], "texture": "#0"},
+				"down": {"uv": [14.5, 8.25, 7.5, 11.75], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bell_1",
+			"from": [1, 14, 1],
+			"to": [15, 16, 15],
+			"faces": {
+				"north": {"uv": [7, 4.75, 14, 5.25], "texture": "#0"},
+				"east": {"uv": [0, 4.75, 7, 5.25], "texture": "#0"},
+				"south": {"uv": [7, 6.75, 14, 7.25], "texture": "#0"},
+				"west": {"uv": [0, 6.75, 7, 7.25], "texture": "#0"}
+			}
+		},
+		{
+			"name": "belltop_0",
+			"from": [4, 21, 4],
+			"to": [12, 25, 12],
+			"faces": {
+				"north": {"uv": [0, 2, 4, 3], "texture": "#0"},
+				"east": {"uv": [0, 2, 4, 3], "texture": "#0"},
+				"south": {"uv": [0, 2, 4, 3], "texture": "#0"},
+				"west": {"uv": [0, 2, 4, 3], "texture": "#0"},
+				"up": {"uv": [4, 2, 0, 0], "texture": "#0"}
+			}
+		},
+		{
+			"name": "tentacles0_0",
+			"from": [1, 1, 8],
+			"to": [14, 16, 8.001],
+			"faces": {
+				"north": {"uv": [7.5, 12.25, 14, 16], "texture": "#0"},
+				"south": {"uv": [14, 12.25, 7.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "tentacles0_1",
+			"from": [8, 1, 2],
+			"to": [8.001, 16, 15],
+			"faces": {
+				"east": {"uv": [14, 12.25, 7.5, 16], "texture": "#0"},
+				"west": {"uv": [7.5, 12.25, 14, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "tentacles1_0",
+			"from": [8, -9, 1],
+			"to": [8.001, 16, 15],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 16, 8]},
+			"faces": {
+				"east": {"uv": [7, 9.75, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 9.75, 7, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "tentacles1_1",
+			"from": [8, -9, 1],
+			"to": [8.001, 16, 15],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [7, 9.75, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 9.75, 7, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-116, -3, -90],
+			"translation": [-6, 4, 24.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-24, 40, 94],
+			"translation": [-5.5, -6.5, 8],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-15, -54, 0],
+			"translation": [2.5, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-15, 1, 0],
+			"translation": [2, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"rotation": [0, -26, -87],
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [-1, 89, 1],
+			"translation": [0.25, 0, 1.25],
+			"scale": [0.65, 0.9, 0.9]
+		},
+		"head": {
+			"rotation": [-85, 1, -95],
+			"translation": [0, 10.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"scale": [0.88, 0.66, 0.57]
+		},
+		"on_shelf": {
+			"rotation": [90, -28, 80],
+			"translation": [0, 0.5, -2.25],
+			"scale": [0.54, 0.5, 0.54563]
+		}
+	}
+}

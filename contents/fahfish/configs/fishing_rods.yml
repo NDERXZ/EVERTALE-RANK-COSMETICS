@@ -1,0 +1,93 @@
+info:
+  namespace: "fahfish"
+items:
+  fahfish_bone_fishing_rod:
+    display_name: "&bBone"
+    permission: "fahfish.rod.fahfish_bone_fishing_rod"
+    resource:
+      material: "FISHING_ROD"
+      model_path: "fahfish:item/fahfish_bone_fishing_rod"
+    behaviours:
+      fishing_rod:
+        cast_model_path: "fahfish:item/fahfish_bone_fishing_rod_cast"
+  fahfish_copper_fishing_rod:
+    display_name: "&bCopper"
+    permission: "fahfish.rod.fahfish_copper_fishing_rod"
+    resource:
+      material: "FISHING_ROD"
+      model_path: "fahfish:item/fahfish_copper_fishing_rod"
+    behaviours:
+      fishing_rod:
+        cast_model_path: "fahfish:item/fahfish_copper_fishing_rod_cast"
+  fahfish_diamond_fishing_rod:
+    display_name: "&bDiamond"
+    permission: "fahfish.rod.fahfish_diamond_fishing_rod"
+    resource:
+      material: "FISHING_ROD"
+      model_path: "fahfish:item/fahfish_diamond_fishing_rod"
+    behaviours:
+      fishing_rod:
+        cast_model_path: "fahfish:item/fahfish_diamond_fishing_rod_cast"
+  fahfish_emerald_fishing_rod:
+    display_name: "&bEmerald"
+    permission: "fahfish.rod.fahfish_emerald_fishing_rod"
+    resource:
+      material: "FISHING_ROD"
+      model_path: "fahfish:item/fahfish_emerald_fishing_rod"
+    behaviours:
+      fishing_rod:
+        cast_model_path: "fahfish:item/fahfish_emerald_fishing_rod_cast"
+  fahfish_gold_plated_fishing_rod:
+    display_name: "&bGold Plated"
+    permission: "fahfish.rod.fahfish_gold_plated_fishing_rod"
+    resource:
+      material: "FISHING_ROD"
+      model_path: "fahfish:item/fahfish_gold_plated_fishing_rod"
+    behaviours:
+      fishing_rod:
+        cast_model_path: "fahfish:item/fahfish_gold_plated_fishing_rod_cast"
+  fahfish_iron_fishing_rod:
+    display_name: "&bIron"
+    permission: "fahfish.rod.fahfish_iron_fishing_rod"
+    resource:
+      material: "FISHING_ROD"
+      model_path: "fahfish:item/fahfish_iron_fishing_rod"
+    behaviours:
+      fishing_rod:
+        cast_model_path: "fahfish:item/fahfish_iron_fishing_rod_cast"
+  fahfish_netherite_fishing_rod:
+    display_name: "&bNetherite"
+    permission: "fahfish.rod.fahfish_netherite_fishing_rod"
+    resource:
+      material: "FISHING_ROD"
+      model_path: "fahfish:item/fahfish_netherite_fishing_rod"
+    behaviours:
+      fishing_rod:
+        cast_model_path: "fahfish:item/fahfish_netherite_fishing_rod_cast"
+  fahfish_reinforced_fishing_rod:
+    display_name: "&bReinforced"
+    permission: "fahfish.rod.fahfish_reinforced_fishing_rod"
+    resource:
+      material: "FISHING_ROD"
+      model_path: "fahfish:item/fahfish_reinforced_fishing_rod"
+    behaviours:
+      fishing_rod:
+        cast_model_path: "fahfish:item/fahfish_reinforced_fishing_rod_cast"
+  fahfish_resin_fishing_rod:
+    display_name: "&bResin"
+    permission: "fahfish.rod.fahfish_resin_fishing_rod"
+    resource:
+      material: "FISHING_ROD"
+      model_path: "fahfish:item/fahfish_resin_fishing_rod"
+    behaviours:
+      fishing_rod:
+        cast_model_path: "fahfish:item/fahfish_resin_fishing_rod_cast"
+  fahfish_sculk_fishing_rod:
+    display_name: "&bSculk"
+    permission: "fahfish.rod.fahfish_sculk_fishing_rod"
+    resource:
+      material: "FISHING_ROD"
+      model_path: "fahfish:item/fahfish_sculk_fishing_rod"
+    behaviours:
+      fishing_rod:
+        cast_model_path: "fahfish:item/fahfish_sculk_fishing_rod_cast"
