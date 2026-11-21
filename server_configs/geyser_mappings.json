@@ -1499,21 +1499,21 @@
       },
       {
         "type": "legacy",
-        "bedrock_identifier": "geyser_custom:lfish_6",
-        "bedrock_options": {
-          "icon": "lfish_6",
-          "allow_offhand": true
-        },
-        "custom_model_data": 72003
-      },
-      {
-        "type": "legacy",
         "bedrock_identifier": "geyser_custom:lfish_7",
         "bedrock_options": {
           "icon": "lfish_7",
           "allow_offhand": true
         },
         "custom_model_data": 72002
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:lfish_6",
+        "bedrock_options": {
+          "icon": "lfish_6",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72003
       },
       {
         "type": "legacy",
@@ -3476,6 +3476,123 @@
           "allow_offhand": true
         },
         "custom_model_data": 72221
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_gary",
+        "bedrock_options": {
+          "icon": "ffv2_gary",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72222
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_cyborg",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_cyborg",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72223
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_eggchan",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_eggchan",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72224
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_kriuk_rawr",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_kriuk_rawr",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72225
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_meong_oyen",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_meong_oyen",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72226
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_skena",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_skena",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72227
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_tuna_mayo",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_tuna_mayo",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72228
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_iwak_tempe",
+        "bedrock_options": {
+          "icon": "ffv2_iwak_tempe",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72229
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_kerang_cireng_megalodon",
+        "bedrock_options": {
+          "icon": "ffv2_kerang_cireng_megalodon",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72230
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_king_salmon",
+        "bedrock_options": {
+          "icon": "ffv2_king_salmon",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72231
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_mujaer",
+        "bedrock_options": {
+          "icon": "ffv2_mujaer",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72232
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_phantomfish",
+        "bedrock_options": {
+          "icon": "ffv2_phantomfish",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72233
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_slekbewfish",
+        "bedrock_options": {
+          "icon": "ffv2_slekbewfish",
+          "allow_offhand": true
+        },
+        "custom_model_data": 72234
       }
     ],
     "minecraft:cod": [
@@ -3814,24 +3931,6 @@
       },
       {
         "type": "legacy",
-        "bedrock_identifier": "geyser_custom:fahfish_tuna",
-        "bedrock_options": {
-          "icon": "fahfish_tuna",
-          "allow_offhand": true
-        },
-        "custom_model_data": 10041
-      },
-      {
-        "type": "legacy",
-        "bedrock_identifier": "geyser_custom:fahfish_turbot",
-        "bedrock_options": {
-          "icon": "fahfish_turbot",
-          "allow_offhand": true
-        },
-        "custom_model_data": 10042
-      },
-      {
-        "type": "legacy",
         "bedrock_identifier": "geyser_custom:fahfish_stingray_v1",
         "bedrock_options": {
           "icon": "fahfish_stingray_v1",
@@ -3865,6 +3964,420 @@
           "allow_offhand": true
         },
         "custom_model_data": 10040
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_tuna",
+        "bedrock_options": {
+          "icon": "fahfish_tuna",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10041
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_turbot",
+        "bedrock_options": {
+          "icon": "fahfish_turbot",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10042
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_anggurfish",
+        "bedrock_options": {
+          "icon": "ffv2_anggurfish",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10043
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_bintang_laut_biru",
+        "bedrock_options": {
+          "icon": "ffv2_bintang_laut_biru",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10044
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_bintang_laut_coklat",
+        "bedrock_options": {
+          "icon": "ffv2_bintang_laut_coklat",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10045
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_bintang_laut_gold",
+        "bedrock_options": {
+          "icon": "ffv2_bintang_laut_gold",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10046
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_bintang_laut_ijo",
+        "bedrock_options": {
+          "icon": "ffv2_bintang_laut_ijo",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10047
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_bintang_laut_kuning",
+        "bedrock_options": {
+          "icon": "ffv2_bintang_laut_kuning",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10048
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_bintang_laut_pink",
+        "bedrock_options": {
+          "icon": "ffv2_bintang_laut_pink",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10049
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ih_kan",
+        "bedrock_options": {
+          "icon": "ffv2_ih_kan",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10050
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_cana",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_cana",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10051
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_cupang",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_cupang",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10052
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_goryeng",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_goryeng",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10053
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_goryeng_beneran",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_goryeng_beneran",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10054
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_ikanan",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_ikanan",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10055
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_kecik",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_kecik",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10056
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_kinyis",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_kinyis",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10057
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_klontong",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_klontong",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10058
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_melon",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_melon",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10059
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_nemo_cyberpunk",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_nemo_cyberpunk",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10060
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_ochobot",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_ochobot",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10061
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_ombak_awas_ombak",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_ombak_awas_ombak",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10062
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_teladan",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_teladan",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10063
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_teri",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_teri",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10064
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_toy_story",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_toy_story",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10065
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_ya_ikan",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_ya_ikan",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10066
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_indigo",
+        "bedrock_options": {
+          "icon": "ffv2_indigo",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10067
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_kerang_kering",
+        "bedrock_options": {
+          "icon": "ffv2_kerang_kering",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10068
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_koi_elite",
+        "bedrock_options": {
+          "icon": "ffv2_koi_elite",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10069
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_koi_goreng",
+        "bedrock_options": {
+          "icon": "ffv2_koi_goreng",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10070
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_koi_iok",
+        "bedrock_options": {
+          "icon": "ffv2_koi_iok",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10071
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_koi_jamal",
+        "bedrock_options": {
+          "icon": "ffv2_koi_jamal",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10072
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_koi_so",
+        "bedrock_options": {
+          "icon": "ffv2_koi_so",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10073
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_koi_sugianto",
+        "bedrock_options": {
+          "icon": "ffv2_koi_sugianto",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10074
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_koi_tem",
+        "bedrock_options": {
+          "icon": "ffv2_koi_tem",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10075
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_kuda_laut",
+        "bedrock_options": {
+          "icon": "ffv2_kuda_laut",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10076
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_kuda_laut_goldenbrown",
+        "bedrock_options": {
+          "icon": "ffv2_kuda_laut_goldenbrown",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10077
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_kuda_laut_gosong",
+        "bedrock_options": {
+          "icon": "ffv2_kuda_laut_gosong",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10078
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_kuda_laut_ijo_neon",
+        "bedrock_options": {
+          "icon": "ffv2_kuda_laut_ijo_neon",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10079
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_kuda_laut_ijo_patrick",
+        "bedrock_options": {
+          "icon": "ffv2_kuda_laut_ijo_patrick",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10080
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_lele_jawa_barat",
+        "bedrock_options": {
+          "icon": "ffv2_lele_jawa_barat",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10081
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_mama_belut",
+        "bedrock_options": {
+          "icon": "ffv2_mama_belut",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10082
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_papa_belut",
+        "bedrock_options": {
+          "icon": "ffv2_papa_belut",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10083
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_pesyel_leyley",
+        "bedrock_options": {
+          "icon": "ffv2_pesyel_leyley",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10084
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_sapu_sapu_ciliwung",
+        "bedrock_options": {
+          "icon": "ffv2_sapu_sapu_ciliwung",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10085
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_teri",
+        "bedrock_options": {
+          "icon": "ffv2_teri",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10086
       }
     ],
     "minecraft:salmon": [
@@ -4047,6 +4560,285 @@
           "allow_offhand": true
         },
         "custom_model_data": 10019
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_amarah_suharto_kw",
+        "bedrock_options": {
+          "icon": "ffv2_amarah_suharto_kw",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10020
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_blob_fish",
+        "bedrock_options": {
+          "icon": "ffv2_blob_fish",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10021
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_buluk_babik",
+        "bedrock_options": {
+          "icon": "ffv2_buluk_babik",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10022
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_api_streak",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_api_streak",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10023
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_asli_evertale",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_asli_evertale",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10024
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_cangkeman",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_cangkeman",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10025
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_cheetah",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_cheetah",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10026
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_ht1",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_ht1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10027
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_ijo_stabilo",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_ijo_stabilo",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10028
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_kerapu_medan",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_kerapu_medan",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10029
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_kinyis_kinyis",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_kinyis_kinyis",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10030
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_koltong",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_koltong",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10031
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_kukuruyuk",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_kukuruyuk",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10032
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_kumis_tipis",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_kumis_tipis",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10033
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_serem",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_serem",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10034
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_syahrini",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_syahrini",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10035
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_warden_sachet",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_warden_sachet",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10036
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_jellofih",
+        "bedrock_options": {
+          "icon": "ffv2_jellofih",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10037
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_jellofih_coquette",
+        "bedrock_options": {
+          "icon": "ffv2_jellofih_coquette",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10038
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_jellofih_lanang",
+        "bedrock_options": {
+          "icon": "ffv2_jellofih_lanang",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10039
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_kemucing_fish",
+        "bedrock_options": {
+          "icon": "ffv2_kemucing_fish",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10040
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_kepiting",
+        "bedrock_options": {
+          "icon": "ffv2_kepiting",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10041
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_koi_pesugihan",
+        "bedrock_options": {
+          "icon": "ffv2_koi_pesugihan",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10042
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_lele_supernatural",
+        "bedrock_options": {
+          "icon": "ffv2_lele_supernatural",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10043
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_lionfih",
+        "bedrock_options": {
+          "icon": "ffv2_lionfih",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10044
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_lobsta",
+        "bedrock_options": {
+          "icon": "ffv2_lobsta",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10045
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_pickaxe_iron",
+        "bedrock_options": {
+          "icon": "ffv2_pickaxe_iron",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10046
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_plengerfish",
+        "bedrock_options": {
+          "icon": "ffv2_plengerfish",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10047
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_sepupu_jellofih",
+        "bedrock_options": {
+          "icon": "ffv2_sepupu_jellofih",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10048
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_telonfish",
+        "bedrock_options": {
+          "icon": "ffv2_telonfish",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10049
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_watamelong_fih",
+        "bedrock_options": {
+          "icon": "ffv2_watamelong_fih",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10050
       }
     ],
     "minecraft:pufferfish": [
@@ -4067,51 +4859,6 @@
           "allow_offhand": true
         },
         "custom_model_data": 10001
-      },
-      {
-        "type": "legacy",
-        "bedrock_identifier": "geyser_custom:fahfish_swamp_king",
-        "bedrock_options": {
-          "icon": "fahfish_swamp_king",
-          "allow_offhand": true
-        },
-        "custom_model_data": 10009
-      },
-      {
-        "type": "legacy",
-        "bedrock_identifier": "geyser_custom:fahfish_the_ancient",
-        "bedrock_options": {
-          "icon": "fahfish_the_ancient",
-          "allow_offhand": true
-        },
-        "custom_model_data": 10010
-      },
-      {
-        "type": "legacy",
-        "bedrock_identifier": "geyser_custom:fahfish_thermalfish_v1",
-        "bedrock_options": {
-          "icon": "fahfish_thermalfish_v1",
-          "allow_offhand": true
-        },
-        "custom_model_data": 10011
-      },
-      {
-        "type": "legacy",
-        "bedrock_identifier": "geyser_custom:fahfish_thermalfish_v2",
-        "bedrock_options": {
-          "icon": "fahfish_thermalfish_v2",
-          "allow_offhand": true
-        },
-        "custom_model_data": 10012
-      },
-      {
-        "type": "legacy",
-        "bedrock_identifier": "geyser_custom:fahfish_wart_netherhorse",
-        "bedrock_options": {
-          "icon": "fahfish_wart_netherhorse",
-          "allow_offhand": true
-        },
-        "custom_model_data": 10013
       },
       {
         "type": "legacy",
@@ -4175,6 +4922,186 @@
           "allow_offhand": true
         },
         "custom_model_data": 10008
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_swamp_king",
+        "bedrock_options": {
+          "icon": "fahfish_swamp_king",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10009
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_the_ancient",
+        "bedrock_options": {
+          "icon": "fahfish_the_ancient",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10010
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_thermalfish_v1",
+        "bedrock_options": {
+          "icon": "fahfish_thermalfish_v1",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10011
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_thermalfish_v2",
+        "bedrock_options": {
+          "icon": "fahfish_thermalfish_v2",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10012
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:fahfish_wart_netherhorse",
+        "bedrock_options": {
+          "icon": "fahfish_wart_netherhorse",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10013
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_amarah_suharto",
+        "bedrock_options": {
+          "icon": "ffv2_amarah_suharto",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10014
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_daddy_shark",
+        "bedrock_options": {
+          "icon": "ffv2_daddy_shark",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10015
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_hiu_palu_ldr",
+        "bedrock_options": {
+          "icon": "ffv2_hiu_palu_ldr",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10016
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_ikan_pedang",
+        "bedrock_options": {
+          "icon": "ffv2_ikan_pedang",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10017
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_mola_mola",
+        "bedrock_options": {
+          "icon": "ffv2_mola_mola",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10018
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_naga_dragon",
+        "bedrock_options": {
+          "icon": "ffv2_naga_dragon",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10019
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_orca_orci",
+        "bedrock_options": {
+          "icon": "ffv2_orca_orci",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10020
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_pari_wisata",
+        "bedrock_options": {
+          "icon": "ffv2_pari_wisata",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10021
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_paus_tad",
+        "bedrock_options": {
+          "icon": "ffv2_paus_tad",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10022
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_preman_ancol",
+        "bedrock_options": {
+          "icon": "ffv2_preman_ancol",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10023
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_salmonmiaw",
+        "bedrock_options": {
+          "icon": "ffv2_salmonmiaw",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10024
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_sotong_balado",
+        "bedrock_options": {
+          "icon": "ffv2_sotong_balado",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10025
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_sotong_basi",
+        "bedrock_options": {
+          "icon": "ffv2_sotong_basi",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10026
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_sotong_gosong",
+        "bedrock_options": {
+          "icon": "ffv2_sotong_gosong",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10027
+      },
+      {
+        "type": "legacy",
+        "bedrock_identifier": "geyser_custom:ffv2_takoyaki_megalodon",
+        "bedrock_options": {
+          "icon": "ffv2_takoyaki_megalodon",
+          "allow_offhand": true
+        },
+        "custom_model_data": 10028
       }
     ],
     "minecraft:brick": [
