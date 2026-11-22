@@ -39,7 +39,7 @@ out float cylindricalVertexDistance;
 float safeGameTime() {
     float gameTime=GameTime;
     
-    if(gameTime <= 0) {
+    if(gameTime <= 0.) {
         gameTime=.5;
     }
     return gameTime;
@@ -75,7 +75,7 @@ void f_a54318e0() {
 }
 
 void f_3dc7f489() {
-    gl_Position.y+=sin(scaledTime()+(gl_Position.x*6)) / 150.;
+    gl_Position.y+=sin(scaledTime()+(gl_Position.x*6.)) / 150.;
 }
 
 void f_82250709(inout vec4 vertex) {
@@ -100,16 +100,16 @@ void f_838628f9(inout vec4 vertex) {
 
 void f_c124f475(inout vec4 vertex) {
     f_08ed3c0c();
-    float vertexId=mod(gl_VertexID, 4.);
+    float vertexId=mod(float(gl_VertexID), 4.);
     if(vertex.z <= 0.) {
         if(vertexId==3. || vertexId==0.) {
-            vertex.y+=cos(scaledTime() / 4)*.1;
-            vertex.y+=max(cos(scaledTime() / 4)*.1, 0.);
+            vertex.y+=cos(scaledTime() / 4.)*.1;
+            vertex.y+=max(cos(scaledTime() / 4.)*.1, 0.);
         }
     }else{
         if(vertexId==3. || vertexId==0.) {
-            vertex.y-=cos(scaledTime() / 4)*3;
-            vertex.y-=max(cos(scaledTime() / 4)*4, 0.);
+            vertex.y-=cos(scaledTime() / 4.)*3.;
+            vertex.y-=max(cos(scaledTime() / 4.)*4., 0.);
         }
     }
     f_ae18d8ce(vertex);
@@ -117,16 +117,16 @@ void f_c124f475(inout vec4 vertex) {
 }
 
 void f_041ae42e(inout vec4 vertex) {
-    float vertexId=mod(gl_VertexID, 4.);
+    float vertexId=mod(float(gl_VertexID), 4.);
     if(vertex.z <= 0.) {
         if(vertexId==3. || vertexId==0.) {
-            vertex.y+=cos(scaledTime() / 4)*.1;
-            vertex.y+=max(cos(scaledTime() / 4)*.1, 0.);
+            vertex.y+=cos(scaledTime() / 4.)*.1;
+            vertex.y+=max(cos(scaledTime() / 4.)*.1, 0.);
         }
     }else{
         if(vertexId==3. || vertexId==0.) {
-            vertex.y-=cos(scaledTime() / 4)*3;
-            vertex.y-=max(cos(scaledTime() / 4)*4, 0.);
+            vertex.y-=cos(scaledTime() / 4.)*3.;
+            vertex.y-=max(cos(scaledTime() / 4.)*4., 0.);
         }
     }
     f_a54318e0();
@@ -158,7 +158,7 @@ void main() {
     vertexColor=Color*texelFetch(Sampler2, UV2 / 16, 0);
 
     vec4 vertex=vec4(Position, 1.);
-    ivec3 iColor=ivec3(Color.xyz*255+vec3(.5));
+    ivec3 iColor=ivec3(Color.xyz*255.+vec3(.5));
 
     
     

@@ -87,7 +87,7 @@ void main() {
 
     vGameTime = GameTime;
     // Fallback for AMD GPUs bug.
-    if(vGameTime <= 0) {
+    if(vGameTime <= 0.) {
         vGameTime = 0.5;
     }
 
@@ -97,7 +97,7 @@ void main() {
         isLeatherLayer = 1;
     }
 
-    textureDimensions = textureSize(Sampler0, 0);
+    textureDimensions = vec2(textureSize(Sampler0, 0));
 
     bool xx2 = textureDimensions.x != VANILLA_SKIN_TEX_SIZE || textureDimensions.y != VANILLA_SKIN_TEX_SIZE;
     bool xx1 = UV0.y <= 0.25;
@@ -117,7 +117,7 @@ void main() {
         }
         else if (a1 == 7) {
             int flippedA0 = 1 - a0;
-            aa0.x = UV0.x * 2.0 - a0;
+            aa0.x = UV0.x * 2.0 - float(a0);
 
             if (IS_SLIM) {
                 if (aa0.x < 0.375) {
@@ -138,7 +138,7 @@ void main() {
                 aa0.y *= 0.5;
             }
 
-            aa0.x += (16.0 + flippedA0 * BONE_TEX_SIZE) / VANILLA_SKIN_TEX_SIZE;
+            aa0.x += (16.0 + float(flippedA0) * BONE_TEX_SIZE) / VANILLA_SKIN_TEX_SIZE;
             aa0.y = aa0.y * BONE_TEX_SIZE_NORM + 0.75;
 
             aa0.x -= (16.0 / 64.0);
@@ -172,11 +172,11 @@ void main() {
             else {
                 aa0.y = aa0.y * BONE_TEX_SIZE_NORM + 0.5;
             }
-            aa0.x = i1 * 0.375 + BONE_TEX_SIZE_NORM;
+            aa0.x = float(i1) * 0.375 + BONE_TEX_SIZE_NORM;
         }
         else if (a1 == 9) {
             handle_top_layer(6);
-            aa0.x = UV0.x * 2 - a0;
+            aa0.x = UV0.x * 2. - float(a0);
             if (IS_SLIM) {
                 if (aa0.x < 0.375) {
                     aa0.x *= 8. / 7.;
@@ -200,7 +200,7 @@ void main() {
             if (aa0.y < 0.75) {
                 aa0.y *= 0.5;
             }
-            aa0.x = aa0.x + (32. + a0 * BONE_TEX_SIZE) / VANILLA_SKIN_TEX_SIZE;
+            aa0.x = aa0.x + (32. + float(a0) * BONE_TEX_SIZE) / VANILLA_SKIN_TEX_SIZE;
             aa0.y = aa0.y * BONE_TEX_SIZE_NORM + 0.75;
 
             if(a2 == 6 && UV0.x >= 0.5 && UV0.y == 0.25)
@@ -208,7 +208,7 @@ void main() {
         }
         else if (a1 == 10) {
             handle_top_layer(8);
-            aa0.x = UV0.x * 2 - a0;
+            aa0.x = UV0.x * 2. - float(a0);
             if (IS_SLIM) {
                 if (aa0.x < 0.375) {
                     aa0.x *= 8. / 7.;
@@ -233,7 +233,7 @@ void main() {
                 aa0.y *= 0.5;
             }
             aa0.x = aa0.x + 0.625;
-            aa0.y = aa0.y * (BONE_TEX_SIZE_NORM) + (a0 + 1) * 0.25;
+            aa0.y = aa0.y * (BONE_TEX_SIZE_NORM) + float(a0 + 1) * 0.25;
         }
         else if (a1 == 11) {
             handle_top_layer(8);

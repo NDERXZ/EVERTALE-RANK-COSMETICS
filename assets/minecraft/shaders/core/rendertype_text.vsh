@@ -36,7 +36,7 @@ out vec2 texCoord0;
 float safeGameTime() {
     float gameTime=GameTime;
     
-    if(gameTime <= 0) {
+    if(gameTime <= 0.) {
         gameTime=.5;
     }
     return gameTime;
@@ -72,7 +72,7 @@ void f_ce0b4b1c() {
 }
 
 void f_9b6e01c3() {
-    gl_Position.y+=sin(scaledTime()+(gl_Position.x*6)) / 150.;
+    gl_Position.y+=sin(scaledTime()+(gl_Position.x*6.)) / 150.;
 }
 
 void f_d879d8f5(inout vec4 vertex) {
@@ -97,16 +97,16 @@ void f_9c3123a9(inout vec4 vertex) {
 
 void f_55ef837e(inout vec4 vertex) {
     f_5a672cea();
-    float vertexId=mod(gl_VertexID, 4.);
+    float vertexId=mod(float(gl_VertexID), 4.);
     if(vertex.z <= 0.) {
         if(vertexId==3. || vertexId==0.) {
-            vertex.y+=cos(scaledTime() / 4)*.1;
-            vertex.y+=max(cos(scaledTime() / 4)*.1, 0.);
+            vertex.y+=cos(scaledTime() / 4.)*.1;
+            vertex.y+=max(cos(scaledTime() / 4.)*.1, 0.);
         }
     }else{
         if(vertexId==3. || vertexId==0.) {
-            vertex.y-=cos(scaledTime() / 4)*3;
-            vertex.y-=max(cos(scaledTime() / 4)*4, 0.);
+            vertex.y-=cos(scaledTime() / 4.)*3.;
+            vertex.y-=max(cos(scaledTime() / 4.)*4., 0.);
         }
     }
     f_986bd204(vertex);
@@ -114,16 +114,16 @@ void f_55ef837e(inout vec4 vertex) {
 }
 
 void f_383e04d5(inout vec4 vertex) {
-    float vertexId=mod(gl_VertexID, 4.);
+    float vertexId=mod(float(gl_VertexID), 4.);
     if(vertex.z <= 0.) {
         if(vertexId==3. || vertexId==0.) {
-            vertex.y+=cos(scaledTime() / 4)*.1;
-            vertex.y+=max(cos(scaledTime() / 4)*.1, 0.);
+            vertex.y+=cos(scaledTime() / 4.)*.1;
+            vertex.y+=max(cos(scaledTime() / 4.)*.1, 0.);
         }
     }else{
         if(vertexId==3. || vertexId==0.) {
-            vertex.y-=cos(scaledTime() / 4)*3;
-            vertex.y-=max(cos(scaledTime() / 4)*4, 0.);
+            vertex.y-=cos(scaledTime() / 4.)*3.;
+            vertex.y-=max(cos(scaledTime() / 4.)*4., 0.);
         }
     }
     f_ce0b4b1c();
@@ -150,7 +150,7 @@ void f_54472371(inout vec4 vertex) {
 
 void main() {
     vec4 vertex=vec4(Position, 1.);
-    ivec3 iColor=ivec3(Color.xyz*255+vec3(.5));
+    ivec3 iColor=ivec3(Color.xyz*255.+vec3(.5));
 
     
     

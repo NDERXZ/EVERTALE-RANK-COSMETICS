@@ -84,7 +84,7 @@ void main() {
 
     vGameTime = GameTime;
     // Fallback for AMD GPUs bug.
-    if(vGameTime <= 0) {
+    if(vGameTime <= 0.) {
         vGameTime = 0.5;
     }
 

@@ -1,11 +1,15 @@
-#version 150
+#version 330
 
 #moj_import <minecraft:light.glsl>
 #moj_import <minecraft:fog.glsl>
 #moj_import <minecraft:dynamictransforms.glsl>
 #moj_import <minecraft:projection.glsl>
 #moj_import <minecraft:globals.glsl> // GameTime etc.
-#moj_import <minecraft:sample_lightmap.glsl>
+
+vec4 evt_sample_lightmap(sampler2D lightMap, ivec2 uv) {
+    return texture(lightMap, clamp((vec2(uv) / 256.0) + 0.5 / 16.0, vec2(0.5 / 16.0), vec2(15.5 / 16.0)));
+}
+
 
 in vec3 Position;
 in vec4 Color;
@@ -79,7 +83,7 @@ void main() {
 #endif
 
 #ifndef EMISSIVE
-    lightMapColor = sample_lightmap(Sampler2, UV2);
+    lightMapColor = evt_sample_lightmap(Sampler2, UV2);
 #else
     lightMapColor = vec4(1.0);
 #endif
@@ -98,7 +102,7 @@ void main() {
 
     vGameTime = GameTime;
     // Fallback for AMD GPUs bug.
-    if(vGameTime <= 0) {
+    if(vGameTime <= 0.) {
         vGameTime = 0.5;
     }
 
