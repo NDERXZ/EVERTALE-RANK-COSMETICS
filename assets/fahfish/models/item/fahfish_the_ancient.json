@@ -741,7 +741,7 @@
         }
       },
       "rotation": {
-        "angle": -2.5,
+        "angle": 0,
         "axis": "z",
         "origin": [
           0,
