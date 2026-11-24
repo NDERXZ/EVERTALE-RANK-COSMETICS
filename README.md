@@ -75,119 +75,119 @@ The table below showcases all active server rank badges, their visual in-game te
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img src="assets/minecraft/textures/ranks/owner.png" width="130" style="image-rendering: pixelated;" alt="Owner" /></td>
+      <td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/owner.png" width="130" style="image-rendering: pixelated;" alt="Owner" /></td>
       <td align="center"><b>Owner</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE800</code></td>
       <td>Server Owner</td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/minecraft/textures/ranks/coowner.png" width="130" style="image-rendering: pixelated;" alt="Co-Owner" /></td>
+      <td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/coowner.png" width="130" style="image-rendering: pixelated;" alt="Co-Owner" /></td>
       <td align="center"><b>Co-Owner</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE801</code></td>
       <td>Server Co-Owner</td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/minecraft/textures/ranks/admin.png" width="130" style="image-rendering: pixelated;" alt="Admin" /></td>
+      <td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/admin.png" width="130" style="image-rendering: pixelated;" alt="Admin" /></td>
       <td align="center"><b>Admin</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE802</code></td>
       <td>Server Administrator</td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/minecraft/textures/ranks/helper.png" width="130" style="image-rendering: pixelated;" alt="Helper" /></td>
+      <td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/helper.png" width="130" style="image-rendering: pixelated;" alt="Helper" /></td>
       <td align="center"><b>Helper</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE803</code></td>
       <td>Staff Helper</td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/minecraft/textures/ranks/eclipsion.png" width="130" style="image-rendering: pixelated;" alt="Eclipsion" /></td>
+      <td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/eclipsion.png" width="130" style="image-rendering: pixelated;" alt="Eclipsion" /></td>
       <td align="center"><b>Eclipsion</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE804</code></td>
       <td>Premium Tier Rank</td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/minecraft/textures/ranks/moonveil.png" width="130" style="image-rendering: pixelated;" alt="Moonveil" /></td>
+      <td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/moonveil.png" width="130" style="image-rendering: pixelated;" alt="Moonveil" /></td>
       <td align="center"><b>Moonveil</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE805</code></td>
       <td>Premium Tier Rank</td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/minecraft/textures/ranks/selene.png" width="130" style="image-rendering: pixelated;" alt="Selene" /></td>
+      <td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/selene.png" width="130" style="image-rendering: pixelated;" alt="Selene" /></td>
       <td align="center"><b>Selene</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE806</code></td>
       <td>Premium Tier Rank</td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/minecraft/textures/ranks/lunaris.png" width="130" style="image-rendering: pixelated;" alt="Lunaris" /></td>
+      <td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/lunaris.png" width="130" style="image-rendering: pixelated;" alt="Lunaris" /></td>
       <td align="center"><b>Lunaris</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE807</code></td>
       <td>Premium Tier Rank</td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/minecraft/textures/ranks/crescent.png" width="130" style="image-rendering: pixelated;" alt="Crescent" /></td>
+      <td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/crescent.png" width="130" style="image-rendering: pixelated;" alt="Crescent" /></td>
       <td align="center"><b>Crescent</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE808</code></td>
       <td>Premium Tier Rank</td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/minecraft/textures/ranks/noctis.png" width="130" style="image-rendering: pixelated;" alt="Noctis" /></td>
+      <td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/noctis.png" width="130" style="image-rendering: pixelated;" alt="Noctis" /></td>
       <td align="center"><b>Noctis</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE809</code></td>
       <td>Premium Tier Rank</td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/minecraft/textures/ranks/everie.png" width="130" style="image-rendering: pixelated;" alt="Everie" /></td>
+      <td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/everie.png" width="130" style="image-rendering: pixelated;" alt="Everie" /></td>
       <td align="center"><b>Everie</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE80A</code></td>
       <td>Default Member Rank</td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/minecraft/textures/ranks/dev.png" width="130" style="image-rendering: pixelated;" alt="Developer" /></td>
+      <td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/dev.png" width="130" style="image-rendering: pixelated;" alt="Developer" /></td>
       <td align="center"><b>Developer</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE80B</code></td>
       <td>Server Developer</td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/minecraft/textures/ranks/media.png" width="130" style="image-rendering: pixelated;" alt="Media" /></td>
+      <td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/media.png" width="130" style="image-rendering: pixelated;" alt="Media" /></td>
       <td align="center"><b>Media</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE80C</code></td>
       <td>Content Creator / Media</td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/minecraft/textures/ranks/princess.png" width="130" style="image-rendering: pixelated;" alt="Princess" /></td>
+      <td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/princess.png" width="130" style="image-rendering: pixelated;" alt="Princess" /></td>
       <td align="center"><b>Princess</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE80D</code></td>
       <td>Special Custom Rank</td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/minecraft/textures/ranks/mvp.png" width="130" style="image-rendering: pixelated;" alt="MVP" /></td>
+      <td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/mvp.png" width="130" style="image-rendering: pixelated;" alt="MVP" /></td>
       <td align="center"><b>MVP</b></td>
       <td align="center"><code></code></td>
       <td align="center"><code>\uE80E</code></td>
       <td>Special Custom Rank</td>
     </tr>
 <tr>
-<td align="center"><img src="assets/minecraft/textures/ranks/miaw.png" width="130" style="image-rendering: pixelated;" alt="Miaw" /></td>
+<td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/miaw.png" width="130" style="image-rendering: pixelated;" alt="Miaw" /></td>
 <td align="center"><b>Miaw</b></td>
 <td align="center"><code></code></td>
 <td align="center"><code>\uE810</code></td>
 <td>Special Custom Rank</td>
 </tr>
 <tr>
-<td align="center"><img src="assets/minecraft/textures/ranks/celestial.png" width="130" style="image-rendering: pixelated;" alt="Celestial" /></td>
+<td align="center"><img src=".github/readme/assets/minecraft/textures/ranks/celestial.png" width="130" style="image-rendering: pixelated;" alt="Celestial" /></td>
 <td align="center"><b>Celestial</b></td>
 <td align="center"><code></code></td>
 <td align="center"><code>\uE811</code></td>
@@ -258,189 +258,189 @@ Configured for **ItemsAdder**, **HMCCosmetics** (slot: HELMET), and **GeyserMC**
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/royal_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Royal Crown" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/royal_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Royal Crown" /></td>
       <td><b>Royal Crown</b></td>
       <td align="center"><code>crowns:royal_crown</code></td>
       <td align="center"><code>10089</code></td>
       <td><code>crowns.royal_crown</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/renegade_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Renegade Crown" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/renegade_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Renegade Crown" /></td>
       <td><b>Renegade Crown</b></td>
       <td align="center"><code>crowns:renegade_crown</code></td>
       <td align="center"><code>10090</code></td>
       <td><code>crowns.renegade_crown</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/sculk_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Sculk Crown" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/sculk_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Sculk Crown" /></td>
       <td><b>Sculk Crown</b></td>
       <td align="center"><code>crowns:sculk_crown</code></td>
       <td align="center"><code>10091</code></td>
       <td><code>crowns.sculk_crown</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/skull_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Skull Crown" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/skull_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Skull Crown" /></td>
       <td><b>Skull Crown</b></td>
       <td align="center"><code>crowns:skull_crown</code></td>
       <td align="center"><code>10092</code></td>
       <td><code>crowns.skull_crown</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/floral_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Floral Crown" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/floral_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Floral Crown" /></td>
       <td><b>Floral Crown</b></td>
       <td align="center"><code>crowns:floral_crown</code></td>
       <td align="center"><code>10093</code></td>
       <td><code>crowns.floral_crown</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/rose_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Rose Crown" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/rose_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Rose Crown" /></td>
       <td><b>Rose Crown</b></td>
       <td align="center"><code>crowns:rose_crown</code></td>
       <td align="center"><code>10094</code></td>
       <td><code>crowns.rose_crown</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/lavender_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Lavender Crown" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/lavender_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Lavender Crown" /></td>
       <td><b>Lavender Crown</b></td>
       <td align="center"><code>crowns:lavender_crown</code></td>
       <td align="center"><code>10095</code></td>
       <td><code>crowns.lavender_crown</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/dandelion_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Dandelion Crown" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/dandelion_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Dandelion Crown" /></td>
       <td><b>Dandelion Crown</b></td>
       <td align="center"><code>crowns:dandelion_crown</code></td>
       <td align="center"><code>10096</code></td>
       <td><code>crowns.dandelion_crown</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/wreath_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Wreath Crown" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/wreath_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Wreath Crown" /></td>
       <td><b>Wreath Crown</b></td>
       <td align="center"><code>crowns:wreath_crown</code></td>
       <td align="center"><code>10097</code></td>
       <td><code>crowns.wreath_crown</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/goldleaf_wreath.png" width="32" height="32" style="image-rendering: pixelated;" alt="Goldleaf Wreath" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/goldleaf_wreath.png" width="32" height="32" style="image-rendering: pixelated;" alt="Goldleaf Wreath" /></td>
       <td><b>Goldleaf Wreath</b></td>
       <td align="center"><code>crowns:goldleaf_wreath</code></td>
       <td align="center"><code>10098</code></td>
       <td><code>crowns.goldleaf_wreath</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/autumn_wreath.png" width="32" height="32" style="image-rendering: pixelated;" alt="Autumn Wreath" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/autumn_wreath.png" width="32" height="32" style="image-rendering: pixelated;" alt="Autumn Wreath" /></td>
       <td><b>Autumn Wreath</b></td>
       <td align="center"><code>crowns:autumn_wreath</code></td>
       <td align="center"><code>10099</code></td>
       <td><code>crowns.autumn_wreath</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/blackleaf_wreath.png" width="32" height="32" style="image-rendering: pixelated;" alt="Blackleaf Wreath" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/blackleaf_wreath.png" width="32" height="32" style="image-rendering: pixelated;" alt="Blackleaf Wreath" /></td>
       <td><b>Blackleaf Wreath</b></td>
       <td align="center"><code>crowns:blackleaf_wreath</code></td>
       <td align="center"><code>10100</code></td>
       <td><code>crowns.blackleaf_wreath</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/frost_circlet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Frost Circlet" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/frost_circlet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Frost Circlet" /></td>
       <td><b>Frost Circlet</b></td>
       <td align="center"><code>crowns:frost_circlet</code></td>
       <td align="center"><code>10101</code></td>
       <td><code>crowns.frost_circlet</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/flame_circlet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Flame Circlet" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/flame_circlet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Flame Circlet" /></td>
       <td><b>Flame Circlet</b></td>
       <td align="center"><code>crowns:flame_circlet</code></td>
       <td align="center"><code>10102</code></td>
       <td><code>crowns.flame_circlet</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/water_circlet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Water Circlet" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/water_circlet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Water Circlet" /></td>
       <td><b>Water Circlet</b></td>
       <td align="center"><code>crowns:water_circlet</code></td>
       <td align="center"><code>10103</code></td>
       <td><code>crowns.water_circlet</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/thunder_circlet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Thunder Circlet" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/thunder_circlet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Thunder Circlet" /></td>
       <td><b>Thunder Circlet</b></td>
       <td align="center"><code>crowns:thunder_circlet</code></td>
       <td align="center"><code>10104</code></td>
       <td><code>crowns.thunder_circlet</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/diamond_coronet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Diamond Coronet" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/diamond_coronet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Diamond Coronet" /></td>
       <td><b>Diamond Coronet</b></td>
       <td align="center"><code>crowns:diamond_coronet</code></td>
       <td align="center"><code>10105</code></td>
       <td><code>crowns.diamond_coronet</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/emerald_coronet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Emerald Coronet" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/emerald_coronet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Emerald Coronet" /></td>
       <td><b>Emerald Coronet</b></td>
       <td align="center"><code>crowns:emerald_coronet</code></td>
       <td align="center"><code>10106</code></td>
       <td><code>crowns.emerald_coronet</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/netherite_coronet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Netherite Coronet" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/netherite_coronet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Netherite Coronet" /></td>
       <td><b>Netherite Coronet</b></td>
       <td align="center"><code>crowns:netherite_coronet</code></td>
       <td align="center"><code>10107</code></td>
       <td><code>crowns.netherite_coronet</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/lapis_lazuli_coronet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Lapis Lazuli Coronet" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/lapis_lazuli_coronet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Lapis Lazuli Coronet" /></td>
       <td><b>Lapis Lazuli Coronet</b></td>
       <td align="center"><code>crowns:lapis_lazuli_coronet</code></td>
       <td align="center"><code>10108</code></td>
       <td><code>crowns.lapis_lazuli_coronet</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/amethyst_diadem.png" width="32" height="32" style="image-rendering: pixelated;" alt="Amethyst Diadem" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/amethyst_diadem.png" width="32" height="32" style="image-rendering: pixelated;" alt="Amethyst Diadem" /></td>
       <td><b>Amethyst Diadem</b></td>
       <td align="center"><code>crowns:amethyst_diadem</code></td>
       <td align="center"><code>10109</code></td>
       <td><code>crowns.amethyst_diadem</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/ruby_diadem.png" width="32" height="32" style="image-rendering: pixelated;" alt="Ruby Diadem" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/ruby_diadem.png" width="32" height="32" style="image-rendering: pixelated;" alt="Ruby Diadem" /></td>
       <td><b>Ruby Diadem</b></td>
       <td align="center"><code>crowns:ruby_diadem</code></td>
       <td align="center"><code>10110</code></td>
       <td><code>crowns.ruby_diadem</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/ender_diadem.png" width="32" height="32" style="image-rendering: pixelated;" alt="Ender Diadem" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/ender_diadem.png" width="32" height="32" style="image-rendering: pixelated;" alt="Ender Diadem" /></td>
       <td><b>Ender Diadem</b></td>
       <td align="center"><code>crowns:ender_diadem</code></td>
       <td align="center"><code>10111</code></td>
       <td><code>crowns.ender_diadem</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/crystal_diadem.png" width="32" height="32" style="image-rendering: pixelated;" alt="Crystal Diadem" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/crystal_diadem.png" width="32" height="32" style="image-rendering: pixelated;" alt="Crystal Diadem" /></td>
       <td><b>Crystal Diadem</b></td>
       <td align="center"><code>crowns:crystal_diadem</code></td>
       <td align="center"><code>10112</code></td>
       <td><code>crowns.crystal_diadem</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/harpers_headset.png" width="32" height="32" style="image-rendering: pixelated;" alt="Harper's Headset" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/harpers_headset.png" width="32" height="32" style="image-rendering: pixelated;" alt="Harper's Headset" /></td>
       <td><b>Harper's Headset</b></td>
       <td align="center"><code>crowns:harpers_headset</code></td>
       <td align="center"><code>10113</code></td>
       <td><code>crowns.harpers_headset</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/eversource_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Eversource Crown" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/eversource_crown.png" width="32" height="32" style="image-rendering: pixelated;" alt="Eversource Crown" /></td>
       <td><b>Eversource Crown</b></td>
       <td align="center"><code>crowns:eversource_crown</code></td>
       <td align="center"><code>10114</code></td>
       <td><code>crowns.eversource_crown</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/crowns/textures/diving_helmet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Diving Helmet" /></td>
+      <td align="center"><img src=".github/readme/assets/crowns/textures/diving_helmet.png" width="32" height="32" style="image-rendering: pixelated;" alt="Diving Helmet" /></td>
       <td><b>Diving Helmet</b></td>
       <td align="center"><code>crowns:diving_helmet</code></td>
       <td align="center"><code>10115</code></td>
