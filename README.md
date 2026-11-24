@@ -205,7 +205,14 @@ The table below showcases all active server rank badges, their visual in-game te
 <td align="center"><b>Devil</b></td>
 <td align="center"><code></code></td>
 <td align="center"><code>\uE813</code></td>
-<td>Special Devil Rank (Latest)</td>
+<td>Special Devil Rank</td>
+</tr>
+<tr>
+<td align="center"><img src="assets/minecraft/textures/ranks/envy.png" width="130" style="image-rendering: pixelated;" alt="Envy" /></td>
+<td align="center"><b>Envy</b></td>
+<td align="center"><code></code></td>
+<td align="center"><code>\uE814</code></td>
+<td>Special Envy Rank (Latest)</td>
 </tr>
   </tbody>
 </table>

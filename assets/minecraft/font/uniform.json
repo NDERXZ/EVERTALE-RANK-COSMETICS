@@ -928,6 +928,15 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "minecraft:ranks/envy.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": [
+        "\ue814"
+      ]
+    },
+    {
       "file": "custom_esc:top_logo.png",
       "chars": [
         "\ue038"
