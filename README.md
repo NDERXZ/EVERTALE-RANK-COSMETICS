@@ -198,7 +198,14 @@ The table below showcases all active server rank badges, their visual in-game te
 <td align="center"><b>Emissary</b></td>
 <td align="center"><code></code></td>
 <td align="center"><code>\uE812</code></td>
-<td>Special Emissary Rank (Latest)</td>
+<td>Special Emissary Rank</td>
+</tr>
+<tr>
+<td align="center"><img src="assets/minecraft/textures/ranks/devil.png" width="130" style="image-rendering: pixelated;" alt="Devil" /></td>
+<td align="center"><b>Devil</b></td>
+<td align="center"><code></code></td>
+<td align="center"><code>\uE813</code></td>
+<td>Special Devil Rank (Latest)</td>
 </tr>
   </tbody>
 </table>

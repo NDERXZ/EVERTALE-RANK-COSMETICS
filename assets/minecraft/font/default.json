@@ -919,6 +919,15 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "minecraft:ranks/devil.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": [
+        "\ue813"
+      ]
+    },
+    {
       "file": "custom_esc:top_logo.png",
       "chars": [
         "\ue038"
