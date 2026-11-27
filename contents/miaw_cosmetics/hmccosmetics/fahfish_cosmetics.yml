@@ -1,0 +1,13 @@
+# ==========================================
+# FahFish Cosmetics - HMCCosmetics Config (EvertaleMC)
+# ==========================================
+
+# Ikan Secret "Salmonmiaw" (ItemsAdder fahfish:salmonmiaw) sebagai balon.
+salmonmiaw_balloon:
+  slot: BALLOON
+  permission: "cosmetics.salmonmiaw_balloon"
+  show-lead: true
+  item:
+    material: itemsadder:miaw_cosmetics:salmonmiaw_balloon
+    name: "<gold><b>Salmonmiaw Balloon"
+    amount: 1

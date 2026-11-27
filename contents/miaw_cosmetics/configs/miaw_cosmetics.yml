@@ -226,3 +226,10 @@ items:
       model_path: cosmetics/miaw_balloon
     behaviours:
       hat: true
+  salmonmiaw_balloon:
+    enabled: true
+    display_name: Salmonmiaw Balloon (Giant)
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/salmonmiaw_balloon
