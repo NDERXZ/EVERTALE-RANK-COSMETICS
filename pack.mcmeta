@@ -14,7 +14,7 @@
       99,
       0
     ],
-    "description": "§5EvertaleMC §dRank Cosmetics, RTP & 3D Rods §7v1.3.13"
+    "description": "§5EvertaleMC §dRank Cosmetics, RTP & 3D Rods §7v1.3.14"
   },
   "supported_formats": [
     15,
@@ -83,6 +83,15 @@
           9999
         ],
         "min_format": 84,
+        "max_format": 9999
+      },
+      {
+        "directory": "ia_overlay_26_3_plus",
+        "formats": [
+          97,
+          9999
+        ],
+        "min_format": 97,
         "max_format": 9999
       },
       {
