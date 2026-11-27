@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "miaw_cosmetics:cosmetics/tail_abu",
-    "particle": "miaw_cosmetics:cosmetics/tail_abu"
+    "0": "_b_miaw_cosmetics:cosmetics/tail_abu",
+    "particle": "_b_miaw_cosmetics:cosmetics/tail_abu"
   },
   "elements": [
     {

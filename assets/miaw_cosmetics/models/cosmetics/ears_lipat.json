@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "miaw_cosmetics:cosmetics/ears_lipat",
-    "particle": "miaw_cosmetics:cosmetics/ears_lipat"
+    "0": "_b_miaw_cosmetics:cosmetics/ears_lipat",
+    "particle": "_b_miaw_cosmetics:cosmetics/ears_lipat"
   },
   "elements": [
     {

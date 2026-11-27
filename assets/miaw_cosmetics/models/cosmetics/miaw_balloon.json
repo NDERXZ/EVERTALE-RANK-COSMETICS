@@ -5,8 +5,8 @@
     128
   ],
   "textures": {
-    "0": "miaw_cosmetics:cosmetics/miaw_balloon",
-    "particle": "miaw_cosmetics:cosmetics/miaw_balloon"
+    "0": "_b_miaw_cosmetics:cosmetics/miaw_balloon",
+    "particle": "_b_miaw_cosmetics:cosmetics/miaw_balloon"
   },
   "elements": [
     {

@@ -2234,6 +2234,96 @@
       "type": "single",
       "resource": "ec_fishing_rods_vol3:wukong_fishing_rod_cast",
       "sprite": "_b_ec_fishing_rods_vol3:wukong_fishing_rod_cast"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/ears_abu",
+      "sprite": "_b_miaw_cosmetics:cosmetics/ears_abu"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/ears_calico",
+      "sprite": "_b_miaw_cosmetics:cosmetics/ears_calico"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/ears_hitam_putih",
+      "sprite": "_b_miaw_cosmetics:cosmetics/ears_hitam_putih"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/ears_lipat",
+      "sprite": "_b_miaw_cosmetics:cosmetics/ears_lipat"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/ears_lynx",
+      "sprite": "_b_miaw_cosmetics:cosmetics/ears_lynx"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/ears_oranye",
+      "sprite": "_b_miaw_cosmetics:cosmetics/ears_oranye"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/ears_pita",
+      "sprite": "_b_miaw_cosmetics:cosmetics/ears_pita"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/ears_putih",
+      "sprite": "_b_miaw_cosmetics:cosmetics/ears_putih"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/ears_sakura",
+      "sprite": "_b_miaw_cosmetics:cosmetics/ears_sakura"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/ears_siam",
+      "sprite": "_b_miaw_cosmetics:cosmetics/ears_siam"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/miaw_balloon",
+      "sprite": "_b_miaw_cosmetics:cosmetics/miaw_balloon"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/tail_abu",
+      "sprite": "_b_miaw_cosmetics:cosmetics/tail_abu"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/tail_calico",
+      "sprite": "_b_miaw_cosmetics:cosmetics/tail_calico"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/tail_hitam",
+      "sprite": "_b_miaw_cosmetics:cosmetics/tail_hitam"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/tail_oranye",
+      "sprite": "_b_miaw_cosmetics:cosmetics/tail_oranye"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/tail_pita",
+      "sprite": "_b_miaw_cosmetics:cosmetics/tail_pita"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/tail_putih",
+      "sprite": "_b_miaw_cosmetics:cosmetics/tail_putih"
+    },
+    {
+      "type": "single",
+      "resource": "miaw_cosmetics:cosmetics/tail_siam",
+      "sprite": "_b_miaw_cosmetics:cosmetics/tail_siam"
     }
   ]
 }

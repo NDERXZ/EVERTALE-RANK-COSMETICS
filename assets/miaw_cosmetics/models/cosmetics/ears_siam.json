@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "miaw_cosmetics:cosmetics/ears_siam",
-    "particle": "miaw_cosmetics:cosmetics/ears_siam"
+    "0": "_b_miaw_cosmetics:cosmetics/ears_siam",
+    "particle": "_b_miaw_cosmetics:cosmetics/ears_siam"
   },
   "elements": [
     {

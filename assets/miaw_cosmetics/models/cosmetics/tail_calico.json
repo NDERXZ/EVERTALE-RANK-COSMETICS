@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "miaw_cosmetics:cosmetics/tail_calico",
-    "particle": "miaw_cosmetics:cosmetics/tail_calico"
+    "0": "_b_miaw_cosmetics:cosmetics/tail_calico",
+    "particle": "_b_miaw_cosmetics:cosmetics/tail_calico"
   },
   "elements": [
     {

@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "miaw_cosmetics:cosmetics/ears_lynx",
-    "particle": "miaw_cosmetics:cosmetics/ears_lynx"
+    "0": "_b_miaw_cosmetics:cosmetics/ears_lynx",
+    "particle": "_b_miaw_cosmetics:cosmetics/ears_lynx"
   },
   "elements": [
     {
