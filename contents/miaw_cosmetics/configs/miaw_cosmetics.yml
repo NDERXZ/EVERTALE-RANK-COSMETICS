@@ -111,7 +111,7 @@ items:
       hat: true
   tail_hitam:
     enabled: true
-    display_name: Ekor Kucing Hitam
+    display_name: Ekor Kucing Hitam Hati
     resource:
       material: PAPER
       generate: false
@@ -120,7 +120,7 @@ items:
       hat: true
   tail_hitam_self:
     enabled: true
-    display_name: Ekor Kucing Hitam (self)
+    display_name: Ekor Kucing Hitam Hati (self)
     resource:
       material: PAPER
       generate: false
@@ -201,7 +201,7 @@ items:
       hat: true
   tail_pita:
     enabled: true
-    display_name: Ekor Kucing Pita
+    display_name: Ekor Kucing Pita Lonceng
     resource:
       material: PAPER
       generate: false
@@ -210,7 +210,7 @@ items:
       hat: true
   tail_pita_self:
     enabled: true
-    display_name: Ekor Kucing Pita (self)
+    display_name: Ekor Kucing Pita Lonceng (self)
     resource:
       material: PAPER
       generate: false

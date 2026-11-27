@@ -147,7 +147,7 @@ miaw_tail_hitam:
   slot: BACKPACK
   item:
     material: itemsadder:miaw_cosmetics:tail_hitam
-    name: "<#FFB3C3><b>ᴇᴋᴏʀ ᴋᴜᴄɪɴɢ ʜɪᴛᴀᴍ"
+    name: "<#FFB3C3><b>ᴇᴋᴏʀ ᴋᴜᴄɪɴɢ ʜɪᴛᴀᴍ ʜᴀᴛɪ"
     unbreakable: true
     amount: 1
     item-flags:
@@ -237,7 +237,7 @@ miaw_tail_pita:
   slot: BACKPACK
   item:
     material: itemsadder:miaw_cosmetics:tail_pita
-    name: "<#FFB3C3><b>ᴇᴋᴏʀ ᴋᴜᴄɪɴɢ ᴘɪᴛᴀ"
+    name: "<#FFB3C3><b>ᴇᴋᴏʀ ᴋᴜᴄɪɴɢ ᴘɪᴛᴀ ʟᴏɴᴄᴇɴɢ"
     unbreakable: true
     amount: 1
     item-flags:
