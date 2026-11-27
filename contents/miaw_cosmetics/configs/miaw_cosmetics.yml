@@ -1,0 +1,228 @@
+info:
+  namespace: miaw_cosmetics
+items:
+  ears_hitam_putih:
+    enabled: true
+    display_name: Telinga Kucing Hitam Putih
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/ears_hitam_putih
+    behaviours:
+      hat: true
+  ears_oranye:
+    enabled: true
+    display_name: Telinga Kucing Oranye
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/ears_oranye
+    behaviours:
+      hat: true
+  ears_putih:
+    enabled: true
+    display_name: Telinga Kucing Putih
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/ears_putih
+    behaviours:
+      hat: true
+  ears_abu:
+    enabled: true
+    display_name: Telinga Kucing Abu
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/ears_abu
+    behaviours:
+      hat: true
+  ears_calico:
+    enabled: true
+    display_name: Telinga Kucing Calico
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/ears_calico
+    behaviours:
+      hat: true
+  ears_siam:
+    enabled: true
+    display_name: Telinga Kucing Siam
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/ears_siam
+    behaviours:
+      hat: true
+  ears_lipat:
+    enabled: true
+    display_name: Telinga Kucing Lipat
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/ears_lipat
+    behaviours:
+      hat: true
+  ears_lynx:
+    enabled: true
+    display_name: Telinga Kucing Lynx
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/ears_lynx
+    behaviours:
+      hat: true
+  ears_pita:
+    enabled: true
+    display_name: Telinga Kucing Pita
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/ears_pita
+    behaviours:
+      hat: true
+  ears_sakura:
+    enabled: true
+    display_name: Telinga Kucing Sakura
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/ears_sakura
+    behaviours:
+      hat: true
+  tail_oranye:
+    enabled: true
+    display_name: Ekor Kucing Oranye Belang
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/tail_oranye
+    behaviours:
+      hat: true
+  tail_oranye_self:
+    enabled: true
+    display_name: Ekor Kucing Oranye Belang (self)
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/tail_oranye_self
+    behaviours:
+      hat: true
+  tail_hitam:
+    enabled: true
+    display_name: Ekor Kucing Hitam
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/tail_hitam
+    behaviours:
+      hat: true
+  tail_hitam_self:
+    enabled: true
+    display_name: Ekor Kucing Hitam (self)
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/tail_hitam_self
+    behaviours:
+      hat: true
+  tail_putih:
+    enabled: true
+    display_name: Ekor Kucing Putih Fluffy
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/tail_putih
+    behaviours:
+      hat: true
+  tail_putih_self:
+    enabled: true
+    display_name: Ekor Kucing Putih Fluffy (self)
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/tail_putih_self
+    behaviours:
+      hat: true
+  tail_abu:
+    enabled: true
+    display_name: Ekor Kucing Abu Belang
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/tail_abu
+    behaviours:
+      hat: true
+  tail_abu_self:
+    enabled: true
+    display_name: Ekor Kucing Abu Belang (self)
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/tail_abu_self
+    behaviours:
+      hat: true
+  tail_calico:
+    enabled: true
+    display_name: Ekor Kucing Calico
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/tail_calico
+    behaviours:
+      hat: true
+  tail_calico_self:
+    enabled: true
+    display_name: Ekor Kucing Calico (self)
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/tail_calico_self
+    behaviours:
+      hat: true
+  tail_siam:
+    enabled: true
+    display_name: Ekor Kucing Siam
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/tail_siam
+    behaviours:
+      hat: true
+  tail_siam_self:
+    enabled: true
+    display_name: Ekor Kucing Siam (self)
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/tail_siam_self
+    behaviours:
+      hat: true
+  tail_pita:
+    enabled: true
+    display_name: Ekor Kucing Pita
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/tail_pita
+    behaviours:
+      hat: true
+  tail_pita_self:
+    enabled: true
+    display_name: Ekor Kucing Pita (self)
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/tail_pita_self
+    behaviours:
+      hat: true
+  miaw_balloon:
+    enabled: true
+    display_name: Balon Miaw
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cosmetics/miaw_balloon
+    behaviours:
+      hat: true

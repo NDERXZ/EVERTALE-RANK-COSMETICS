@@ -1,0 +1,28 @@
+info:
+  namespace: miaw_cosmetics
+categories:
+  miaw_cosmetics:
+    enabled: true
+    name: "&fMiaw Cosmetics"
+    title: ""
+    permission: "ia.menu.seecategory.miaw_cosmetics"
+    icon: miaw_cosmetics:ears_hitam_putih
+    items:
+      - miaw_cosmetics:ears_hitam_putih
+      - miaw_cosmetics:ears_oranye
+      - miaw_cosmetics:ears_putih
+      - miaw_cosmetics:ears_abu
+      - miaw_cosmetics:ears_calico
+      - miaw_cosmetics:ears_siam
+      - miaw_cosmetics:ears_lipat
+      - miaw_cosmetics:ears_lynx
+      - miaw_cosmetics:ears_pita
+      - miaw_cosmetics:ears_sakura
+      - miaw_cosmetics:tail_oranye
+      - miaw_cosmetics:tail_hitam
+      - miaw_cosmetics:tail_putih
+      - miaw_cosmetics:tail_abu
+      - miaw_cosmetics:tail_calico
+      - miaw_cosmetics:tail_siam
+      - miaw_cosmetics:tail_pita
+      - miaw_cosmetics:miaw_balloon

@@ -1,0 +1,477 @@
+{
+  "credit": "EvertaleMC - Miaw chibi set",
+  "texture_size": [
+    64,
+    64
+  ],
+  "textures": {
+    "0": "miaw_cosmetics:cosmetics/ears_lipat",
+    "particle": "miaw_cosmetics:cosmetics/ears_lipat"
+  },
+  "elements": [
+    {
+      "name": "ear_l_base",
+      "from": [
+        4,
+        11.8,
+        6.6
+      ],
+      "to": [
+        7.2,
+        13.2,
+        9.2
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            0,
+            1.5,
+            1.25
+          ],
+          "texture": "#0"
+        },
+        "north": {
+          "uv": [
+            8,
+            0,
+            9.5,
+            0.75
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            9.5,
+            0,
+            11,
+            0.75
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            14,
+            0,
+            15.25,
+            0.75
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0,
+            1.25,
+            1.25,
+            2
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "ear_l_flap",
+      "from": [
+        4.3,
+        13.2,
+        6.8
+      ],
+      "to": [
+        6.9,
+        14.6,
+        8.8
+      ],
+      "rotation": {
+        "angle": -45,
+        "axis": "x",
+        "origin": [
+          5.6,
+          13.2,
+          6.8
+        ]
+      },
+      "faces": {
+        "up": {
+          "uv": [
+            3,
+            0,
+            4.25,
+            1
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4.25,
+            0,
+            5.5,
+            1
+          ],
+          "texture": "#0"
+        },
+        "north": {
+          "uv": [
+            1.25,
+            1.25,
+            2.5,
+            2
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            2.5,
+            1.25,
+            3.75,
+            2
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8.75,
+            1.25,
+            9.75,
+            2
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            9.75,
+            1.25,
+            10.75,
+            2
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "ear_l_inner",
+      "from": [
+        4.5,
+        12.1,
+        6.55
+      ],
+      "to": [
+        6.7,
+        13.2,
+        6.55
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12.75,
+            1.25,
+            13.75,
+            1.75
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "ear_r_base",
+      "from": [
+        8.8,
+        11.8,
+        6.6
+      ],
+      "to": [
+        12,
+        13.2,
+        9.2
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            1.5,
+            0,
+            3,
+            1.25
+          ],
+          "texture": "#0"
+        },
+        "north": {
+          "uv": [
+            11,
+            0,
+            12.5,
+            0.75
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12.5,
+            0,
+            14,
+            0.75
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            3.75,
+            1.25,
+            5,
+            2
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            5,
+            1.25,
+            6.25,
+            2
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "ear_r_flap",
+      "from": [
+        9.1,
+        13.2,
+        6.8
+      ],
+      "to": [
+        11.7,
+        14.6,
+        8.8
+      ],
+      "rotation": {
+        "angle": -45,
+        "axis": "x",
+        "origin": [
+          10.4,
+          13.2,
+          6.8
+        ]
+      },
+      "faces": {
+        "up": {
+          "uv": [
+            5.5,
+            0,
+            6.75,
+            1
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            6.75,
+            0,
+            8,
+            1
+          ],
+          "texture": "#0"
+        },
+        "north": {
+          "uv": [
+            6.25,
+            1.25,
+            7.5,
+            2
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            1.25,
+            8.75,
+            2
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            10.75,
+            1.25,
+            11.75,
+            2
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            11.75,
+            1.25,
+            12.75,
+            2
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "ear_r_inner",
+      "from": [
+        9.3,
+        12.1,
+        6.55
+      ],
+      "to": [
+        11.5,
+        13.2,
+        6.55
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            13.75,
+            1.25,
+            14.75,
+            1.75
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        1.25,
+        3.25,
+        -1
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        1.25,
+        3.25,
+        -1
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        122,
+        0
+      ],
+      "translation": [
+        0.25,
+        3.5,
+        -0.25
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        122,
+        0
+      ],
+      "translation": [
+        0.25,
+        3.5,
+        -0.25
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        4,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "gui": {
+      "rotation": [
+        20,
+        -150,
+        0
+      ],
+      "translation": [
+        0,
+        -6.5,
+        0
+      ],
+      "scale": [
+        1.15,
+        1.15,
+        1.15
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1.6,
+        1.6,
+        1.6
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -18.5
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    },
+    "on_shelf": {
+      "rotation": [
+        0,
+        -180,
+        0
+      ],
+      "translation": [
+        0,
+        9,
+        5
+      ]
+    }
+  }
+}

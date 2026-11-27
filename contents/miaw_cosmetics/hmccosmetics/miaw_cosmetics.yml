@@ -1,0 +1,260 @@
+# ==========================================
+# Miaw Cosmetics (telinga & ekor kucing chibi) - HMCCosmetics Config (EvertaleMC)
+# Model: ItemsAdder namespace miaw_cosmetics. Izin cosmetics.miaw_* -> hanya admin (cosmetics.*).
+# ==========================================
+
+miaw_ears_hitam_putih:
+  height: 0
+  permission: "cosmetics.miaw_ears_hitam_putih"
+  slot: HELMET
+  item:
+    material: itemsadder:miaw_cosmetics:ears_hitam_putih
+    name: "<#F8BE7E><b>ᴛᴇʟɪɴɢᴀ ᴋᴜᴄɪɴɢ ʜɪᴛᴀᴍ ᴘᴜᴛɪʜ"
+    amount: 1
+    unbreakable: true
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_ears_oranye:
+  height: 0
+  permission: "cosmetics.miaw_ears_oranye"
+  slot: HELMET
+  item:
+    material: itemsadder:miaw_cosmetics:ears_oranye
+    name: "<#F8BE7E><b>ᴛᴇʟɪɴɢᴀ ᴋᴜᴄɪɴɢ ᴏʀᴀɴʏᴇ"
+    amount: 1
+    unbreakable: true
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_ears_putih:
+  height: 0
+  permission: "cosmetics.miaw_ears_putih"
+  slot: HELMET
+  item:
+    material: itemsadder:miaw_cosmetics:ears_putih
+    name: "<#F8BE7E><b>ᴛᴇʟɪɴɢᴀ ᴋᴜᴄɪɴɢ ᴘᴜᴛɪʜ"
+    amount: 1
+    unbreakable: true
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_ears_abu:
+  height: 0
+  permission: "cosmetics.miaw_ears_abu"
+  slot: HELMET
+  item:
+    material: itemsadder:miaw_cosmetics:ears_abu
+    name: "<#F8BE7E><b>ᴛᴇʟɪɴɢᴀ ᴋᴜᴄɪɴɢ ᴀʙᴜ"
+    amount: 1
+    unbreakable: true
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_ears_calico:
+  height: 0
+  permission: "cosmetics.miaw_ears_calico"
+  slot: HELMET
+  item:
+    material: itemsadder:miaw_cosmetics:ears_calico
+    name: "<#F8BE7E><b>ᴛᴇʟɪɴɢᴀ ᴋᴜᴄɪɴɢ ᴄᴀʟɪᴄᴏ"
+    amount: 1
+    unbreakable: true
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_ears_siam:
+  height: 0
+  permission: "cosmetics.miaw_ears_siam"
+  slot: HELMET
+  item:
+    material: itemsadder:miaw_cosmetics:ears_siam
+    name: "<#F8BE7E><b>ᴛᴇʟɪɴɢᴀ ᴋᴜᴄɪɴɢ ꜱɪᴀᴍ"
+    amount: 1
+    unbreakable: true
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_ears_lipat:
+  height: 0
+  permission: "cosmetics.miaw_ears_lipat"
+  slot: HELMET
+  item:
+    material: itemsadder:miaw_cosmetics:ears_lipat
+    name: "<#F8BE7E><b>ᴛᴇʟɪɴɢᴀ ᴋᴜᴄɪɴɢ ʟɪᴘᴀᴛ"
+    amount: 1
+    unbreakable: true
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_ears_lynx:
+  height: 0
+  permission: "cosmetics.miaw_ears_lynx"
+  slot: HELMET
+  item:
+    material: itemsadder:miaw_cosmetics:ears_lynx
+    name: "<#F8BE7E><b>ᴛᴇʟɪɴɢᴀ ᴋᴜᴄɪɴɢ ʟʏɴx"
+    amount: 1
+    unbreakable: true
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_ears_pita:
+  height: 0
+  permission: "cosmetics.miaw_ears_pita"
+  slot: HELMET
+  item:
+    material: itemsadder:miaw_cosmetics:ears_pita
+    name: "<#F8BE7E><b>ᴛᴇʟɪɴɢᴀ ᴋᴜᴄɪɴɢ ᴘɪᴛᴀ"
+    amount: 1
+    unbreakable: true
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_ears_sakura:
+  height: 0
+  permission: "cosmetics.miaw_ears_sakura"
+  slot: HELMET
+  item:
+    material: itemsadder:miaw_cosmetics:ears_sakura
+    name: "<#F8BE7E><b>ᴛᴇʟɪɴɢᴀ ᴋᴜᴄɪɴɢ ꜱᴀᴋᴜʀᴀ"
+    amount: 1
+    unbreakable: true
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_tail_oranye:
+  height: 4
+  permission: "cosmetics.miaw_tail_oranye"
+  slot: BACKPACK
+  item:
+    material: itemsadder:miaw_cosmetics:tail_oranye
+    name: "<#FFB3C3><b>ᴇᴋᴏʀ ᴋᴜᴄɪɴɢ ᴏʀᴀɴʏᴇ ʙᴇʟᴀɴɢ"
+    unbreakable: true
+    amount: 1
+    item-flags:
+    - HIDE_ATTRIBUTES
+  firstperson-item:
+    material: itemsadder:miaw_cosmetics:tail_oranye_self
+    unbreakable: true
+    amount: 1
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_tail_hitam:
+  height: 4
+  permission: "cosmetics.miaw_tail_hitam"
+  slot: BACKPACK
+  item:
+    material: itemsadder:miaw_cosmetics:tail_hitam
+    name: "<#FFB3C3><b>ᴇᴋᴏʀ ᴋᴜᴄɪɴɢ ʜɪᴛᴀᴍ"
+    unbreakable: true
+    amount: 1
+    item-flags:
+    - HIDE_ATTRIBUTES
+  firstperson-item:
+    material: itemsadder:miaw_cosmetics:tail_hitam_self
+    unbreakable: true
+    amount: 1
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_tail_putih:
+  height: 4
+  permission: "cosmetics.miaw_tail_putih"
+  slot: BACKPACK
+  item:
+    material: itemsadder:miaw_cosmetics:tail_putih
+    name: "<#FFB3C3><b>ᴇᴋᴏʀ ᴋᴜᴄɪɴɢ ᴘᴜᴛɪʜ ꜰʟᴜꜰꜰʏ"
+    unbreakable: true
+    amount: 1
+    item-flags:
+    - HIDE_ATTRIBUTES
+  firstperson-item:
+    material: itemsadder:miaw_cosmetics:tail_putih_self
+    unbreakable: true
+    amount: 1
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_tail_abu:
+  height: 4
+  permission: "cosmetics.miaw_tail_abu"
+  slot: BACKPACK
+  item:
+    material: itemsadder:miaw_cosmetics:tail_abu
+    name: "<#FFB3C3><b>ᴇᴋᴏʀ ᴋᴜᴄɪɴɢ ᴀʙᴜ ʙᴇʟᴀɴɢ"
+    unbreakable: true
+    amount: 1
+    item-flags:
+    - HIDE_ATTRIBUTES
+  firstperson-item:
+    material: itemsadder:miaw_cosmetics:tail_abu_self
+    unbreakable: true
+    amount: 1
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_tail_calico:
+  height: 4
+  permission: "cosmetics.miaw_tail_calico"
+  slot: BACKPACK
+  item:
+    material: itemsadder:miaw_cosmetics:tail_calico
+    name: "<#FFB3C3><b>ᴇᴋᴏʀ ᴋᴜᴄɪɴɢ ᴄᴀʟɪᴄᴏ"
+    unbreakable: true
+    amount: 1
+    item-flags:
+    - HIDE_ATTRIBUTES
+  firstperson-item:
+    material: itemsadder:miaw_cosmetics:tail_calico_self
+    unbreakable: true
+    amount: 1
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_tail_siam:
+  height: 4
+  permission: "cosmetics.miaw_tail_siam"
+  slot: BACKPACK
+  item:
+    material: itemsadder:miaw_cosmetics:tail_siam
+    name: "<#FFB3C3><b>ᴇᴋᴏʀ ᴋᴜᴄɪɴɢ ꜱɪᴀᴍ"
+    unbreakable: true
+    amount: 1
+    item-flags:
+    - HIDE_ATTRIBUTES
+  firstperson-item:
+    material: itemsadder:miaw_cosmetics:tail_siam_self
+    unbreakable: true
+    amount: 1
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_tail_pita:
+  height: 4
+  permission: "cosmetics.miaw_tail_pita"
+  slot: BACKPACK
+  item:
+    material: itemsadder:miaw_cosmetics:tail_pita
+    name: "<#FFB3C3><b>ᴇᴋᴏʀ ᴋᴜᴄɪɴɢ ᴘɪᴛᴀ"
+    unbreakable: true
+    amount: 1
+    item-flags:
+    - HIDE_ATTRIBUTES
+  firstperson-item:
+    material: itemsadder:miaw_cosmetics:tail_pita_self
+    unbreakable: true
+    amount: 1
+    item-flags:
+    - HIDE_ATTRIBUTES
+
+miaw_balloon:
+  slot: BALLOON
+  permission: "cosmetics.miaw_balloon"
+  show-lead: true
+  item:
+    material: itemsadder:miaw_cosmetics:miaw_balloon
+    name: "<#F8BE7E><b>ʙᴀʟᴏɴ ᴍɪᴀᴡ"
+    amount: 1
+
