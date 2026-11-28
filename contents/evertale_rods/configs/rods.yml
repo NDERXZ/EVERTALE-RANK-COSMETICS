@@ -2,7 +2,7 @@ info:
   namespace: evertale_rods
 items:
   dragon_eye_fishing_rod:
-    display_name: "&5Dragon Eye Fishing Rod"
+    display_name: '<!italic><#000000>ᴘ<#1D1D1D>ᴜ<#393939>ɴ<#565656>ʏ<#727272>ᴀ <#000000>ᴘ<#131313>ʟ<#262626>ᴀ<#393939>ʏ<#4C4C4C>ʙ<#5F5F5F>ᴏ<#727272>ʏ'
     permission: "evertale_rods.dragon_eye"
     resource:
       material: FISHING_ROD
