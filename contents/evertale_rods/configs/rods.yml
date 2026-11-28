@@ -1,0 +1,18 @@
+info:
+  namespace: evertale_rods
+items:
+  dragon_eye_fishing_rod:
+    display_name: "&5Dragon Eye Fishing Rod"
+    permission: "evertale_rods.dragon_eye"
+    resource:
+      material: FISHING_ROD
+      generate: false
+      model_path: "dragon_eye_fishing_rod"
+categories:
+  evertale_rods:
+    name: "&5Evertale Fishing Rods"
+    enabled: true
+    icon: "evertale_rods:dragon_eye_fishing_rod"
+    permission: "ia.menu"
+    items:
+      - "evertale_rods:dragon_eye_fishing_rod"

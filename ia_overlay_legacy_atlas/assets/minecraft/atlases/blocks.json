@@ -2324,6 +2324,16 @@
       "type": "single",
       "resource": "miaw_cosmetics:cosmetics/tail_siam",
       "sprite": "_b_miaw_cosmetics:cosmetics/tail_siam"
+    },
+    {
+      "type": "single",
+      "resource": "evertale_rods:dragon_eye_rod",
+      "sprite": "_b_evertale_rods:dragon_eye_rod"
+    },
+    {
+      "type": "single",
+      "resource": "evertale_rods:dragon_eye_rod_anim",
+      "sprite": "_b_evertale_rods:dragon_eye_rod_anim"
     }
   ]
 }
